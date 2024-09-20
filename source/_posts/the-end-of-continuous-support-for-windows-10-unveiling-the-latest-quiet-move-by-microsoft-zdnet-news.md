@@ -1,7 +1,7 @@
 ---
 title: The End of Continuous Support for Windows 10? Unveiling the Latest Quiet Move by Microsoft | ZDNet News
-date: 2024-09-19 13:35:40
-updated: 2024-09-20 10:40:42
+date: 2024-09-13T01:07:05.629Z
+updated: 2024-09-20T03:32:04.842Z
 tags:
   - windows
 categories:
@@ -74,11 +74,17 @@ How long will it be before Windows 11 23H2 is no longer supported? That depends 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

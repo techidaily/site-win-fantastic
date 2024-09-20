@@ -1,7 +1,7 @@
 ---
 title: "Customizing FlipBook Buttons: A Guide to Changing Icons & Colors with FlipBuilder"
-date: 2024-09-18 14:30:51
-updated: 2024-09-20 11:51:26
+date: 2024-09-14T23:35:59.887Z
+updated: 2024-09-20T04:24:41.483Z
 tags:
   - product
 categories:
@@ -126,19 +126,31 @@ With the page-flipping ebook you have created, your book readers will be able to
 
 ![30day_Money_Back](https://www.flipbuilder.com/page-flip-ebook/../images/b123.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Refund Policy
 
 We want you to be 100% satisfied, so we offer an unconditional 30 Day Money Back Guarantee！
 
 ![30day_Money_Back](https://www.flipbuilder.com/page-flip-ebook/../images/pro_06_05.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"

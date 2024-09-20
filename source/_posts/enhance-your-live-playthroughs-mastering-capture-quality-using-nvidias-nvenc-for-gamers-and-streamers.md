@@ -1,7 +1,7 @@
 ---
 title: "Enhance Your Live Playthroughs: Mastering Capture Quality Using NVIDIA's NVENC for Gamers and Streamers"
-date: 2024-09-19 17:35:59
-updated: 2024-09-20 10:24:35
+date: 2024-09-18T06:02:15.556Z
+updated: 2024-09-20T00:12:19.470Z
 tags:
   - product
 categories:
@@ -60,11 +60,25 @@ Action Tutorials
 * The latest NVIDIA drivers installed
 * The latest Action! version
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to set Action! to use NVIDIA NVENC acceleration
 
  To set Action! to use NVIDIA NVENC acceleration for gameplay and Windows desktop recording please open Action! Video Recording / Capture tab. Find File format and hardware acceleration settings and select MP4 with NVIDIA NVENC. If you do not see NVIDIA NVENC on the list please make sure that you meet all NVIDIA NVENC acceleration requirements. 
 
 ![NVIDIA NVENC acceleration](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_nvidia_nvenc_acceleration.jpg "NVIDIA NVENC acceleration") 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  What does Action! use NVIDIA NVENC acceleration for? 
 
@@ -87,8 +101,6 @@ Action Tutorials
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Capture Battles in Battlefield 3: A Comprehensive Recording Guide"
-date: 2024-09-17 22:30:23
-updated: 2024-09-20 10:34:55
+date: 2024-09-15T03:06:40.211Z
+updated: 2024-09-20T00:36:23.806Z
 tags:
   - product
 categories:
@@ -68,6 +68,13 @@ Action Tutorials
 
  You can reset average game framerate with **F5** hotkey. To change Action! HUD position use **F7** hotkey, to hide/show HUD use **F6** hotkey. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Battlefield 3 gameplay recording
 
  Default hotkey to start and stop gameplay recording is **F9**. Please note that Battlefield 3 and any other game must be active to start or stop gameplay recording. When game is not active HUD displays current game framerate in gray color and video recording cannot be started. 
@@ -79,6 +86,13 @@ Action Tutorials
  Press **F9** hotkey again to stop Battlefield 3 gameplay recording. HUD status changes showing that your gameplay recording has finished.
 
 ![Mirillis Action! - Battlefield 3 benchmarking](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_HUD_battlefield3_normal_status.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Pause Battlefield 3 gameplay recording
 
@@ -98,11 +112,25 @@ Action Tutorials
 
 ![Mirillis Action! - gameplay recording playback with Action! player](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_game_recording_playback_battlefield3.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Action! HUD on Battlefield 3 gameplay recordings
 
  If you do not want to include HUD in recorded Battlefield 3 gameplay videos you must select an option: **"Do not record HUD in games and applications"**.
 
 ![Mirillis Action! - Settings - Do not record HUD in games and applications](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_HUD_settings_do_not_record_in_games.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Upload Battlefield 3 gameplay recordings to YouTube
 
@@ -122,13 +150,18 @@ Action Tutorials
 
 ![Mirillis Action! - Add logo to Battlefield 3 gameplay recordings](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_games_overlay_graphics_settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
