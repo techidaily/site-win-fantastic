@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Payment Plans: Microsoft Announces Freehold on Windows 11 Update Fees Beginning Next Year - Learn the Costs"
-date: 2024-09-17T20:01:17.639Z
-updated: 2024-09-19T23:32:45.917Z
+date: 2024-09-23T21:22:09.042Z
+updated: 2024-09-25T23:33:17.369Z
 tags:
   - windows
 categories:
@@ -33,6 +33,19 @@ First, make sure you're signed into your Windows 11 PC with an account that has 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Create a new folder
 
 Next, right-click on any empty area of the Desktop. In the popup menu, move to New and select the command for Folder**.**
@@ -47,6 +60,13 @@ Right-click on the new folder and rename it to the following string:
 When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Launch the icon
 
@@ -66,19 +86,6 @@ When you see the setting or command you want, simply double-click it to launch i
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Create a changeable icon for God Mode
 
 With God Mode, you can't see the icon's name or change the image. Here's another option for creating an icon with a viewable name and modifiable image.
@@ -90,18 +97,18 @@ When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Name the shortcut
 
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Change the icon
 
@@ -110,10 +117,10 @@ To change the icon from the generic folder image, right-click on it and select P
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
@@ -152,3 +159,27 @@ Screenshot by Lance Whitney/ZDNET
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-understanding-and-adhering-to-twitters-video-standards/"><u>[New] 2024 Approved Understanding and Adhering to Twitter's Video Standards</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-roll-builder-kit-for-2024/"><u>[New] B-Roll Builder Kit for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-leading-10-high-resolution-monitors-with-built-in-video-editing/"><u>[Updated] 2024 Approved Leading 10 High-Resolution Monitors with Built-In Video Editing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-slide-show-collections-10-places-to-download-high-quality-designs/"><u>[Updated] Top Slide Show Collections 10 Places to Download High-Quality Designs</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-revolutionary-date-insertion-methods-for-digital-artifacts/"><u>2024 Approved Revolutionary Date Insertion Methods for Digital Artifacts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-api-utilization-tutorial-for-developers/"><u>ChatGPT API Utilization Tutorial for Developers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-z50s-pro-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Z50S Pro</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/how-to-save-and-watch-nbc-newscasts-offline-convert-episodes-into-multiple-formats/"><u>How to Save & Watch NBC Newscasts Offline: Convert Episodes Into Multiple Formats</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/napster-downloads-high-quality-mp3s-of-songs-and-albums-for-pc-and-mac/"><u>Napster Downloads: High-Quality MP3s of Songs & Albums for PC and Mac</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-podcast-editing-101-how-to-edit-a-podcast/"><u>New In 2024, Podcast Editing 101 How to Edit a Podcast</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pre-purchase-key-facts-every-drone-buyer-should-know/"><u>Pre-Purchase Key Facts Every Drone Buyer Should Know</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/sbs-on-demand-streaming-and-downloads-watch-your-favorite-australian-content-anytime/"><u>SBS On Demand Streaming & Downloads - Watch Your Favorite Australian Content Anytime</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/step-by-step-guide-to-embedding-youtube-content-in-different-powerpoint-editions/"><u>Step-by-Step Guide to Embedding YouTube Content in Different PowerPoint Editions</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/step-by-step-guide-to-save-8tracks-music-collections-as-mp3-aac-on-windows-and-mac-systems/"><u>Step-by-Step Guide to Save 8Tracks Music Collections as MP3, AAC on Windows and Mac Systems</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/step-by-step-guide-converting-and-downloading-trilulilu-media-as-mp4mp3-files/"><u>Step-by-Step Guide: Converting and Downloading Trilulilu Media as MP4/MP3 Files</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/step-by-step-tutorial-for-downloading-and-format-shifting-master-pick-up-artist-university-lectures/"><u>Step-by-Step Tutorial for Downloading and Format Shifting Master Pick Up Artist University Lectures</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/step-by-step-tutorial-on-downloading-and-converting-drakes-so-far-gone-album-in-various-audio-types-such-as-mp3-aac-wav/"><u>Step-by-Step Tutorial on Downloading & Converting Drake's 'So Far Gone' Album in Various Audio Types Such as MP3, AAC, WAV</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/step-by-step-tutorial-downloading-and-saving-awaan-videos-as-mp4movavi-on-windowsmac-systems/"><u>Step-by-Step Tutorial: Downloading and Saving Awaan Videos as MP4/MOV/AVI on Windows/Mac Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-solving-the-2024-steam-game-freezing-and-black-screen-issues/"><u>Ultimate Guide: Solving the 2024 Steam Game Freezing & Black Screen Issues</u></a></li>
+</ul></div>
+

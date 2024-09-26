@@ -1,7 +1,7 @@
 ---
 title: A Comprehensive Review of Microsoft's October Surface Event Revelations | GadgetPundit
-date: 2024-09-15T02:10:18.436Z
-updated: 2024-09-19T21:46:57.743Z
+date: 2024-09-20T22:35:29.066Z
+updated: 2024-09-26T00:02:53.365Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -84,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -123,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -138,6 +145,13 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -179,3 +193,27 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-persistent-display-repository-solutions/"><u>[New] Persistent Display Repository Solutions</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-preeminent-online-spaces-enhancing-youtube-traffic/"><u>[Updated] In 2024, Preeminent Online Spaces Enhancing YouTube Traffic</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-using-zooms-snap-to-boost-video-conferences-for-2024/"><u>[Updated] Using Zoom’s Snap to Boost Video Conferences for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-oppo-f23-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/critical-deadline-approaching-how-microsoft-is-racing-against-time-to-overcome-windows/"><u>Critical Deadline Approaching: How Microsoft Is Racing Against Time to Overcome Windows</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/declutter-your-inbox-effortlessly-learn-the-key-strategy-without-complicated-settings-zdnet/"><u>Declutter Your Inbox Effortlessly - Learn the Key Strategy without Complicated Settings | ZDNET</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/durable-brydge-sp-max-plus-coverage-an-ultimate-protective-keypad-enclosure-for-surface-pro-8-insights-and-analysis/"><u>Durable Brydge SP Max Plus Coverage: An Ultimate Protective Keypad Enclosure for Surface Pro 8 - Insights and Analysis</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/efficient-techniques-for-uninstalling-preinstalled-software-in-windows-11-tips-and-tricks/"><u>Efficient Techniques for Uninstalling Preinstalled Software in Windows 11 - Tips & Tricks</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/exclusive-microsofts-revolutionary-ai-chip-vs-apple-macbook-inside-look/"><u>Exclusive: Microsoft's Revolutionary AI Chip Vs. Apple MacBook - Inside Look</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/exploring-the-fallout-microsoft-365-suffers-during-a-severe-distributed-denial-of-service-incident-covered-by-zdnet/"><u>Exploring the Fallout: Microsoft 365 Suffers During a Severe Distributed Denial-of-Service Incident Covered by ZDNET</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/get-set-go-seamless-steps-to-harnessing-chatgpt-on-your-android-device/"><u>Get Set, Go! Seamless Steps to Harnessing ChatGPT on Your Android Device</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-install-windows-drivers-for-your-new-epson-et-2750-printer/"><u>How to Install Windows Drivers for Your New Epson ET-2750 Printer</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/how-to-master-video-capture-using-adobe-presenter/"><u>How to Master Video Capture Using Adobe Presenter</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-realme-c51-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-pro-max-apples-new-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 15 Pro Max, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/innovative-practices-in-creating-powerful-youtube-summaries-for-2024/"><u>Innovative Practices in Creating Powerful YouTube Summaries for 2024</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/protecting-your-microsoft-identity-proven-techniques-to-shield-from-hackers-according-to-zdnet-experts/"><u>Protecting Your Microsoft Identity: Proven Techniques to Shield From Hackers, According to ZDNet Experts</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/smart-savings-without-compromising-quality-why-i-chose-the-most-affordable-microsoft-surface-pro-model-gadgetsforgeeks/"><u>Smart Savings without Compromising Quality: Why I Chose the Most Affordable Microsoft Surface Pro Model | GadgetsForGeeks</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-google-pixel-8-pro-by-fonelab-android-recover-music/"><u>The way to get back lost music from Google Pixel 8 Pro</u></a></li>
+</ul></div>
+

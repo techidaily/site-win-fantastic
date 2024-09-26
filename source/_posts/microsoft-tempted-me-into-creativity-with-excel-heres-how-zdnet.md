@@ -1,7 +1,7 @@
 ---
 title: Microsoft Tempted Me Into Creativity with Excel – Here's How! [ZDNet]
-date: 2024-09-16T02:16:50.936Z
-updated: 2024-09-19T23:39:23.763Z
+date: 2024-09-23T23:26:05.625Z
+updated: 2024-09-25T19:48:49.200Z
 tags:
   - microsoft
 categories:
@@ -52,6 +52,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **2\. Install Linux**
 
@@ -116,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -129,15 +136,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -179,3 +193,23 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-free-vs-paid-youtubes-exclusive-picks-for-superior-opening-tutorials/"><u>[New] 2024 Approved Free vs Paid YouTube's Exclusive Picks for Superior Opening Tutorials</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-and-configuring-your-win11-screensavers/"><u>Crafting and Configuring Your Win11 Screensavers</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/creative-tims-premier-notus-design-system-pro-unlocking-full-potential-of-premium-tailwind-css-for-elite-developers/"><u>Creative Tim's Premier Notus Design System Pro: Unlocking Full Potential of Premium Tailwind CSS for Elite Developers</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/creative-tims-pro-dashboard-solution-integrating-nuxt-laravel-and-json-api/"><u>Creative Tim's Pro Dashboard Solution: Integrating Nuxt, Laravel & JSON API</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/creative-tims-top-tier-reactive-framework-unlocking-potential-with-material-kit-pro-react-native-templates/"><u>Creative Tim's Top-Tier Reactive Framework: Unlocking Potential with Material Kit Pro React Native Templates</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/download-premium-nextjs-and-tailwindui-react-template-for-events-exclusive-offer/"><u>Download Premium NextJS & TailwindUI React Template for Events – Exclusive Offer!</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-from-apple-iphone-13-pro-maxipadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock from Apple iPhone 13 Pro Max/iPad/iPod</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/innovative-nodejs-backend-templates-by-creativetim-admin-panels-and-dashboards-for-developers/"><u>Innovative NodeJS Backend Templates by CreativeTim: Admin Panels & Dashboards for Developers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/orchestrating-peak-canon-temporal-scenes-for-2024/"><u>Orchestrating Peak Canon Temporal Scenes for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/proven-methods-for-clear-rl-stream-quality-for-2024/"><u>Proven Methods for Clear RL Stream Quality for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/steps-for-enabling-hdcd-ripping-in-handbrake-using-libdvdcss-on-macos-and-windows-11/"><u>Steps for Enabling HDCD Ripping in Handbrake Using Libdvdcss on macOS & Windows 11</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/the-connectors-companion-instagram-to-tiktok-guide/"><u>The Connector's Companion Instagram to TikTok Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-tecno-pova-6-pro-5g-by-drfone-android/"><u>Three Ways to Sim Unlock Tecno Pova 6 Pro 5G</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/unlock-elite-aspnet-design-with-creative-tims-professional-themes-and-templates-collection/"><u>Unlock Elite ASP.NET Design with Creative Tim's Professional Themes & Templates Collection</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/unlock-superior-admin-capabilities-with-now-ui-dashboard-pros-premium-bootstrap-4-design-powered-by-creative-tim/"><u>Unlock Superior Admin Capabilities with Now UI Dashboard Pro's Premium Bootstrap 4 Design, Powered by Creative Tim</u></a></li>
+</ul></div>
+

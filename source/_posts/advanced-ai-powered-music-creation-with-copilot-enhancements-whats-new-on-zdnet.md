@@ -1,7 +1,7 @@
 ---
 title: Advanced AI-Powered Music Creation with Copilot Enhancements - What's New on ZDNet
-date: 2024-09-14T17:34:52.572Z
-updated: 2024-09-19T20:33:03.080Z
+date: 2024-09-20T22:57:38.603Z
+updated: 2024-09-26T00:09:16.523Z
 tags:
   - microsoft
 categories:
@@ -84,10 +84,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -122,21 +122,35 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -179,3 +193,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-fantastic.techidaily.com/advanced-mui-reactive-creatives-pro-dashboard-with-soft-ui-design-for-experts/"><u>Advanced MUI Reactive Creatives' Pro Dashboard with Soft UI Design for Experts</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/angular-ui-framework-based-on-bootstrap-nv-4-get-your-free-foundation-from-creative-tim/"><u>Angular UI Framework Based on Bootstrap Nv 4 – Get Your Free Foundation From Creative Tim</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/answer/"><u>Answer</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/consistent-unit-conversion-is-crucial-for-maintaining-accuracy-across-different-measurement-systems/"><u>Consistent Unit Conversion Is Crucial for Maintaining Accuracy Across Different Measurement Systems.</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-vivo-y78-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Vivo Y78 5G Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-asmr-unveiled-benefits-for-your-well-being/"><u>In 2024, ASMR Unveiled Benefits for Your Well-Being</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/innovate-content-dissemination-youtube-to-facebook-methods/"><u>Innovate Content Dissemination YouTube-to-Facebook Methods</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/lightning-speed-view-for-windows-photos-for-2024/"><u>Lightning Speed View for Windows Photos for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/loopers-toolkit-for-2024/"><u>Looper's Toolkit for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/unveiling-zdsofts-video-magic/"><u>Unveiling ZDSoft's Video Magic</u></a></li>
+</ul></div>
+

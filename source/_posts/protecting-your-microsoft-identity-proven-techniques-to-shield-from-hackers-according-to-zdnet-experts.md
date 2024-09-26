@@ -1,7 +1,7 @@
 ---
 title: "Protecting Your Microsoft Identity: Proven Techniques to Shield From Hackers, According to ZDNet Experts"
-date: 2024-09-13T23:37:51.983Z
-updated: 2024-09-19T16:47:39.684Z
+date: 2024-09-23T23:55:48.687Z
+updated: 2024-09-25T16:10:59.929Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -122,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -133,10 +147,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -179,3 +199,23 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-experts-companion-navigating-the-nuances-of-mobizen-screen-recording/"><u>[New] 2024 Approved Expert's Companion Navigating the Nuances of Mobizen Screen Recording</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-effortlessly-merge-your-memories-photos-from-iphone-to-snapchat-for-2024/"><u>[Updated] Effortlessly Merge Your Memories Photos From iPhone to Snapchat for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-channel-king-and-queen-academy-youtube-excellence/"><u>[Updated] In 2024, Channel King & Queen Academy YouTube Excellence</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/how-to-save-and-watch-nbc-newscasts-offline-convert-episodes-into-multiple-formats/"><u>How to Save & Watch NBC Newscasts Offline: Convert Episodes Into Multiple Formats</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/how-to-save-and-convert-total-product-blueprint-videos-as-mp4-mov-avi-or-audio-files-in-mp3-format-easily/"><u>How to Save and Convert Total Product Blueprint Videos as MP4, MOV, AVI or Audio Files in MP3 Format Easily</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-motorola-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Motorola</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/napster-downloads-high-quality-mp3s-of-songs-and-albums-for-pc-and-mac/"><u>Napster Downloads: High-Quality MP3s of Songs & Albums for PC and Mac</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-create-ai-avatar-video-with-ai-avatar-wondershare-virbo-online/"><u>New 2024 Approved Create AI Avatar Video with AI Avatar | Wondershare Virbo Online</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/prime-flood-and-flow-video-game-reviews/"><u>Prime Flood & Flow Video Game Reviews</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/sbs-on-demand-streaming-and-downloads-watch-your-favorite-australian-content-anytime/"><u>SBS On Demand Streaming & Downloads - Watch Your Favorite Australian Content Anytime</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/step-by-step-guide-to-embedding-youtube-content-in-different-powerpoint-editions/"><u>Step-by-Step Guide to Embedding YouTube Content in Different PowerPoint Editions</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/step-by-step-guide-to-save-8tracks-music-collections-as-mp3-aac-on-windows-and-mac-systems/"><u>Step-by-Step Guide to Save 8Tracks Music Collections as MP3, AAC on Windows and Mac Systems</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/step-by-step-guide-converting-and-downloading-trilulilu-media-as-mp4mp3-files/"><u>Step-by-Step Guide: Converting and Downloading Trilulilu Media as MP4/MP3 Files</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-make-movies-for-free-top-online-video-creation-tools/"><u>Updated Make Movies for Free Top Online Video Creation Tools</u></a></li>
+</ul></div>
+

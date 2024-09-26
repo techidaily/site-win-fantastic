@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Advanced Features: A Guide to Mastery of PowerToys FancyZones on Windows - Learn & Optimize!"
-date: 2024-09-16T23:20:22.327Z
-updated: 2024-09-20T06:35:32.927Z
+date: 2024-09-23T19:14:21.009Z
+updated: 2024-09-25T21:55:34.375Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -84,10 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -122,18 +136,18 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -179,3 +193,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-loom-screen-recorder-downloader/"><u>[New] 2024 Approved Loom Screen Recorder Downloader</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-discovering-linuxs-top-screenshots-tools/"><u>[Updated] 2024 Approved Discovering Linux's Top Screenshots Tools</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-explore-the-premier-3d-blu-ray-systems-of-today/"><u>[Updated] Explore The Premier 3D Blu-Ray Systems of Today</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-unlock-your-potential-one-thousand-new-likesmonth-for-2024/"><u>[Updated] Unlock Your Potential One Thousand New Likes/Month for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-directory-the-ultimate-list-of-free-dns-options/"><u>Comprehensive Directory: The Ultimate List of Free DNS Options</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convertidor-online-sem-custo-para-mp3-wav-flac-em-mp4-com-o-movavi/"><u>Convertidor Online Sem Custo Para MP3, WAV, FLAC Em MP4 Com O Movavi</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/creative-tims-advanced-vue-and-laravel-pro-dashboard-full-stack-application-with-vue-components-laravel-framework-and-json-api/"><u>Creative Tim's Advanced Vue and Laravel PRO Dashboard: Full-Stack Application with Vue Components, Laravel Framework, and JSON API</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/creative-tims-argon-advanced-dashboard-comprehensive-pro-edition-of-vuejs-and-bootstrapvue-admin-template/"><u>Creative Tim's Argon Advanced Dashboard: Comprehensive PRO Edition of Vue.js & BootstrapVue Admin Template</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/discover-top-django-templates-and-skins-8plus-innovative-styles-by-creative-tim/"><u>Discover Top Django Templates & Skins - 8+ Innovative Styles by Creative Tim</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/django-admin-made-easy-with-bootstrap-nanoadmin-inspired-by-material-design-and-created-by-creative-tim/"><u>Django Admin Made Easy with Bootstrap nanoAdmin, Inspired by Material Design and Created by Creative Tim</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-gaming-hits-with-powerful-hashtag-strategies/"><u>In 2024, Gaming Hits with Powerful Hashtag Strategies</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/master-your-laravel-projects-with-ui-dashboard-pro-premium-edition-from-creative-tim-featuring-intuitive-admin-panel-and-ready-to-implement-crud-functionali7/"><u>Master Your Laravel Projects with UI Dashboard Pro Premium Edition From Creative Tim - Featuring Intuitive Admin Panel and Ready-to-Implement CRUD Functionality</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/mastering-backoffice-design-with-creatively-crafted-laravel-54-ui-themes-by-tims-team/"><u>Mastering Backoffice Design with Creatively-Crafted Laravel 5.4 UI Themes by Tim's Team</u></a></li>
+<li><a href="https://blog-min.techidaily.com/caf-bin-movavi/"><u>온라인 게시기로 무료 사용자가 아직도 CAF를 BIN로 전환하는 방법 - MOVAVI</u></a></li>
+</ul></div>
+

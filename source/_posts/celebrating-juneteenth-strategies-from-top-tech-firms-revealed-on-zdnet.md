@@ -1,7 +1,7 @@
 ---
 title: "Celebrating Juneteenth: Strategies From Top Tech Firms Revealed on ZDNet"
-date: 2024-09-13T20:52:09.840Z
-updated: 2024-09-19T18:10:38.723Z
+date: 2024-09-18T22:33:57.786Z
+updated: 2024-09-25T19:45:23.051Z
 tags:
   - microsoft
 categories:
@@ -63,6 +63,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **3\. Switch to ChromeOS**
 
 You can use a web browser, right? If you really can't see yourself learning Linux, try ChromeOS.
@@ -82,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -115,19 +129,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -135,15 +136,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -185,3 +193,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-capturing-clear-and-clean-vocal-audio-for-your-videos/"><u>[Updated] 2024 Approved Capturing Clear and Clean Vocal Audio for Your Videos</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-tailoring-video-dimensions-on-youtube-a-users-guide-to-perfect-uploads-for-2024/"><u>[Updated] Tailoring Video Dimensions on YouTube A User's Guide to Perfect Uploads for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-building-competence-with-lut-software/"><u>2024 Approved Building Competence with LUT Software</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-oppo-a59-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/the-heat-tips-for-uploading-songs-to-youtube/"><u>Beat the Heat Tips for Uploading Songs to YouTube</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/dont-miss-out-on-the-windows-11-launch-save-money-and-boost-performance-of-old-pcs-using-these-5-proven-tricks-exclusively-by-zdnet/"><u>Don't Miss Out on the Windows 11 Launch: Save Money and Boost Performance of Old PCs Using These 5 Proven Tricks (Exclusively by ZDNet)</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/efficient-techniques-for-uninstalling-preinstalled-software-in-windows-11-tips-and-tricks/"><u>Efficient Techniques for Uninstalling Preinstalled Software in Windows 11 - Tips & Tricks</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/get-set-go-seamless-steps-to-harnessing-chatgpt-on-your-android-device/"><u>Get Set, Go! Seamless Steps to Harnessing ChatGPT on Your Android Device</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/inside-look-a-google-tech-pros-perspective-on-the-superiority-of-macbook-over-windows-laptops-zdnet-report/"><u>Inside Look: A Google Tech Pro's Perspective on the Superiority of MacBook over Windows Laptops | ZDNET Report</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/protecting-your-microsoft-identity-proven-techniques-to-shield-from-hackers-according-to-zdnet-experts/"><u>Protecting Your Microsoft Identity: Proven Techniques to Shield From Hackers, According to ZDNet Experts</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/revive-your-aging-windows-10-pc-with-these-5-lifesaving-techniques-most-come-at-no-cost/"><u>Revive Your Aging Windows 10 PC with These 5 Lifesaving Techniques – Most Come at No Cost</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-to-the-latest-and-greatest-mkv-conversion-tools-ranking-1-13/"><u>The Ultimate Guide to the Latest & Greatest MKV Conversion Tools - Ranking #1-#13</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-5-methods-for-resolving-windows-interface-dispute/"><u>Top 5 Methods for Resolving Windows Interface Dispute</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/unveiling-the-mysteries-of-io-video-capture/"><u>Unveiling the Mysteries of IO Video Capture</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/windows-software-compliance-guide-is-your-license-genuine-and-why-it-matters/"><u>Windows Software Compliance Guide: Is Your License Genuine and Why It Matters?</u></a></li>
+</ul></div>
+
