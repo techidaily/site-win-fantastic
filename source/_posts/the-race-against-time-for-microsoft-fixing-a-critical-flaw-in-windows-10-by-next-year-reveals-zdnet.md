@@ -1,7 +1,7 @@
 ---
 title: "The Race Against Time for Microsoft: Fixing a Critical Flaw in Windows 10 by Next Year, Reveals ZDNet"
-date: 2024-09-23T22:12:22.112Z
-updated: 2024-09-25T21:07:32.231Z
+date: 2024-09-27T01:41:58.004Z
+updated: 2024-09-30T00:01:39.606Z
 tags:
   - microsoft
 categories:
@@ -84,10 +84,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -123,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -136,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,22 +196,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-exploring-the-boundaries-64128gb-for-vids/"><u>[New] Exploring the Boundaries 64/128GB for Vids</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-mastering-video-edits-post-upload-techniques/"><u>[Updated] In 2024, Mastering Video Edits Post-Upload Techniques</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-get-paid-on-instagram-the-leading-money-making-strategies/"><u>2024 Approved Get Paid on Instagram The Leading Money-Making Strategies</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/advanced-nuxt-pro-dashboard-with-argon-theme-enhanced-laravel-integration-by-creative-tim/"><u>Advanced Nuxt Pro Dashboard with Argon Theme - Enhanced Laravel Integration by Creative Tim</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/creative-tims-advanced-react-native-framework-softui-premium-edition-for-top-tier-app-creation/"><u>Creative Tim's Advanced React Native Framework - SoftUI Premium Edition for Top-Tier App Creation</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-tips-and-tricks-resolving-issues-with-netflix-on-your-roku-entertainment-system/"><u>Easy Tips & Tricks: Resolving Issues With Netflix On Your Roku Entertainment System</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effective-solutions-for-overcoming-vpn-error-code-800-on-client-and-server-platforms/"><u>Effective Solutions for Overcoming VPN Error Code 800 on Client and Server Platforms</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-correctly-configure-user-settings-and-overcome-the-driver-failure-problem/"><u>How to Correctly Configure User Settings and Overcome the 'Driver Failure' Problem</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-elevate-your-workflow-master-dvd-creation-with-mac-os-x/"><u>In 2024, Elevate Your Workflow Master DVD Creation with Mac OS X</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-proven-techniques-to-elevate-your-videos-sonic-palette-on-youtube/"><u>In 2024, Proven Techniques to Elevate Your Video's Sonic Palette on YouTube</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/the-end-of-continuous-support-for-windows-10-unveiling-the-latest-quiet-move-by-microsoft-zdnet-news/"><u>The End of Continuous Support for Windows 10? Unveiling the Latest Quiet Move by Microsoft | ZDNet News</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/top-11-must-have-windows-and-macos-programs-for-optimal-performance-insights-from-zdnet/"><u>Top 11 Must-Have Windows & macOS Programs for Optimal Performance - Insights From ZDNet</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/unboxing-the-innocn-veil-monitor-27c1u-a-dazzling-journey-into-4k-excellence-with-effortless-connectivity-reviewed-by-zdnet/"><u>Unboxing the Innocn Veil Monitor (27C1U): A Dazzling Journey Into 4K Excellence with Effortless Connectivity Reviewed by ZDNET</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/understanding-microsofts-new-approach-to-windows-os-updates-essential-points-covered-by-zdnet/"><u>Understanding Microsoft's New Approach to Windows OS Updates: Essential Points Covered by ZDNet</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/understanding-the-fundamental-contrasts-in-video-streaming-for-2024/"><u>Understanding the Fundamental Contrasts in Video Streaming for 2024</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/upcoming-changes-will-microsoft-implement-pricing-on-windows-10-update-subscriptions-from-next-year-onwards/"><u>Upcoming Changes: Will Microsoft Implement Pricing on Windows 10 Update Subscriptions From Next Year Onwards?</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/upcoming-payment-plans-microsoft-announces-freehold-on-windows-11-update-fees-beginning-next-year-learn-the-costs/"><u>Upcoming Payment Plans: Microsoft Announces Freehold on Windows 11 Update Fees Beginning Next Year - Learn the Costs</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-5-pinnacle-clippers-for-your-mac-experience-for-2024/"><u>[New] 5 Pinnacle Clippers for Your Mac Experience for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-compact-powerful-and-stylish-8-top-5k-monitors/"><u>[New] In 2024, Compact, Powerful & Stylish #8 Top 5K Monitors</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-the-ultimate-guide-to-indoor-android-games-no-internet-required/"><u>[New] The Ultimate Guide to Indoor Android Games (No Internet Required)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-aesthetic-adjustments-iphones-pro-image-cropping-apps/"><u>2024 Approved Aesthetic Adjustments IPhone's Pro Image Cropping Apps</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-xiaomi-redmi-k70e-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Xiaomi Redmi K70E</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capture-the-scene-right-basic-cinematography-for-new-directors-for-2024/"><u>Capture the Scene Right Basic Cinematography for New Directors for 2024</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/discover-the-world-of-mirillis-insightful-business-company-summary/"><u>Discover the World of MirilliS – Insightful Business Company Summary</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/enhance-your-live-playthroughs-mastering-capture-quality-using-nvidias-nvenc-for-gamers-and-streamers/"><u>Enhance Your Live Playthroughs: Mastering Capture Quality Using NVIDIA's NVENC for Gamers and Streamers</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/harmonize-learning-languages-through-science-based-melodies/"><u>Harmonize Learning Languages Through Science-Based Melodies</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>How Can I Catch the Regional Pokémon without Traveling On Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/mastering-capture-battles-in-battlefield-3-a-comprehensive-recording-guide/"><u>Mastering Capture Battles in Battlefield 3: A Comprehensive Recording Guide</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/optimal-performance-guidelines-pre-setup-checklist-for-action-application/"><u>Optimal Performance Guidelines - Pre-Setup Checklist for Action Application</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/transforming-money-mastery-courses-seamless-mp4-and-avi-conversion-for-windows-and-macos-users/"><u>Transforming Money Mastery Courses: Seamless MP4 and AVI Conversion for Windows and macOS Users</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/ultimate-guide-converting-your-studioveena-pole-dancing-tutorials-into-high-quality-mp4-format/"><u>Ultimate Guide: Converting Your StudioVeena Pole Dancing Tutorials Into High-Quality MP4 Format</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlock-full-potential-improve-your-acer-predator-helios-300s-gaming-experience-with-latest-drivers/"><u>Unlock Full Potential: Improve Your Acer Predator Helios 300'S Gaming Experience with Latest Drivers</u></a></li>
 </ul></div>
 
