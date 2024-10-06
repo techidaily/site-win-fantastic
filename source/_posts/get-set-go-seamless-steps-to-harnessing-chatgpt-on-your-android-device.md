@@ -1,7 +1,7 @@
 ---
 title: Get Set, Go! Seamless Steps to Harnessing ChatGPT on Your Android Device
-date: 2024-09-27T00:52:39.168Z
-updated: 2024-09-30T02:39:50.456Z
+date: 2024-10-04T16:57:45.439Z
+updated: 2024-10-05T21:35:15.981Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -69,6 +62,19 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,16 +97,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -136,10 +136,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -153,10 +153,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,24 +208,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-soundsnatcher-free-toolkit-insights-and-usage/"><u>[New] 2024 Approved SoundSnatcher Free Toolkit Insights & Usage</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-cutting-edge-tech-meets-creativity-top-12-camera-picks-for-vloggers/"><u>[New] In 2024, Cutting-Edge Tech Meets Creativity Top 12 Camera Picks for Vloggers</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unlocking-the-mysteries-imports-of-media-files-in-w11/"><u>[New] Unlocking the Mysteries Imports of Media Files in W11</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/1-customizing-your-flipbook-how-to-insert-personal-branding-with-logos-on-flipbuilder/"><u>1) Customizing Your FlipBook: How to Insert Personal Branding with Logos on FlipBuilder</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/create-beautiful-interactive-e-books-from-pdfs-craft-engaging-multi-page-presentations-with-diverse-templates-flipbuildercom/"><u>Create Beautiful Interactive E-Books From PDFs: Craft Engaging Multi-Page Presentations with Diverse Templates [FlipBuilder.com]</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/vering-and-dominating-unique-segments-in-youtube/"><u>Discovering and Dominating Unique Segments in YouTube</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-honor-x50i-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Honor X50i Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/o-make-your-shorts-image-visible-again-for-2024/"><u>How to Make Your Shorts' Image Visible Again for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ize-viewer-interest-with-best-post-schedule-for-2024/"><u>Maximize Viewer Interest with Best Post Schedule for 2024</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/promoting-download-and-printing-techniques-for-boosting-user-engagement-with-your-flipbooks-at-flipbuildercom/"><u>Promoting Download and Printing: Techniques for Boosting User Engagement with Your Flipbooks at FlipBuilder.com</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/resolving-playback-issues-with-iis-servers-a-comprehensive-guide-to-fixing-your-videos-at-flipbuildercom/"><u>Resolving Playback Issues with IIS Servers: A Comprehensive Guide to Fixing Your Videos at FlipBuilder.com</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/step-by-step-guide-to-embedding-a-company-logo-in-flipbook-backgrounds-using-flipbuilder/"><u>Step-by-Step Guide to Embedding a Company Logo in Flipbook Backgrounds Using FlipBuilder</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/step-by-step-guide-adding-flash-adverts-in-ebooks-using-flipbuilder-tools/"><u>Step-by-Step Guide: Adding Flash Adverts in Ebooks Using FlipBuilder Tools</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/tackling-excessive-cpudisk-usage-by-ntoskrnlexe/"><u>Tackling Excessive CPU/Disk Usage by ntoskrnl.exe</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/transform-your-pdf-documents-into-interactive-flipbooks-with-custom-watermarks-on-flipbuilder/"><u>Transform Your PDF Documents Into Interactive Flipbooks with Custom Watermarks on FlipBuilder!</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-free-video-editing-software-for-old-pcs-32-bit-windows-compatibility/"><u>Updated In 2024, Free Video Editing Software for Old PCs 32-Bit Windows Compatibility</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-step-by-step-guide-to-storyboard-for-2024/"><u>Updated Step-by-Step Guide to Storyboard for 2024</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/updating-text-attributes-in-flipbook-changing-page-titles-and-font-settings-with-flipbuilder/"><u>Updating Text Attributes in FlipBook: Changing Page Titles and Font Settings with FlipBuilder</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/using-flipbuilder-via-command-line-interface-cli-feasibility-guide/"><u>Using FlipBuilder via Command Line Interface (CLI) – Feasibility Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-experience-classic-ps1-games-with-leading-emulators/"><u>[New] 2024 Approved Experience Classic PS1 Games with Leading Emulators</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-find-and-change-your-youtube-channel-url-super-easy-for-2024/"><u>[New] How to Find and Change Your YouTube Channel URL – Super Easy for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-efficient-fortnite-imagery-design-quickly/"><u>[Updated] 2024 Approved Efficient Fortnite Imagery Design Quickly</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-what-happens-to-your-facebook-live-if-its-flagged-for-copyright/"><u>[Updated] In 2024, What Happens to Your Facebook Live if It’s Flagged for Copyright?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-exploring-free-video-options-vlc-meets-mpc/"><u>2024 Approved Exploring Free Video Options VLC Meets MPC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-hp-officejet-pro-8610-drivers-compatibility-with-windows-11-10-8-7-xp/"><u>Download & Update HP Officejet Pro 8610 Drivers: Compatibility with Windows 11, 10, 8, 7, XP</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/homemade-hacks-to-eliminate-video-disturbances/"><u>Homemade Hacks to Eliminate Video Disturbances</u></a></li>
+<li><a href="https://article-tips.techidaily.com/master-your-chromebooks-pitch-and-tone-with-our-top-5-web-tools/"><u>Master Your Chromebook's Pitch and Tone with Our Top 5 Web Tools</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/step-by-step-guide-to-embedding-youtube-content-in-different-powerpoint-editions/"><u>Step-by-Step Guide to Embedding YouTube Content in Different PowerPoint Editions</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/step-by-step-guide-to-save-8tracks-music-collections-as-mp3-aac-on-windows-and-mac-systems/"><u>Step-by-Step Guide to Save 8Tracks Music Collections as MP3, AAC on Windows and Mac Systems</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/step-by-step-guide-converting-and-downloading-trilulilu-media-as-mp4mp3-files/"><u>Step-by-Step Guide: Converting and Downloading Trilulilu Media as MP4/MP3 Files</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/step-by-step-tutorial-for-downloading-and-format-shifting-master-pick-up-artist-university-lectures/"><u>Step-by-Step Tutorial for Downloading and Format Shifting Master Pick Up Artist University Lectures</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/step-by-step-tutorial-downloading-and-saving-awaan-videos-as-mp4movavi-on-windowsmac-systems/"><u>Step-by-Step Tutorial: Downloading and Saving Awaan Videos as MP4/MOV/AVI on Windows/Mac Systems</u></a></li>
+<li><a href="https://win-latest.techidaily.com/understanding-the-role-of-a-tpm-in-enabling-windows-11-a-comprehensive-guide/"><u>Understanding the Role of a TPM in Enabling Windows 11: A Comprehensive Guide</u></a></li>
 </ul></div>
 

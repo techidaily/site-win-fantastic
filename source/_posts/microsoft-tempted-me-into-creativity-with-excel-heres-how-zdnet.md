@@ -1,7 +1,7 @@
 ---
 title: Microsoft Tempted Me Into Creativity with Excel – Here's How! [ZDNet]
-date: 2024-09-23T02:23:27.061Z
-updated: 2024-09-30T12:24:15.989Z
+date: 2024-10-02T23:22:58.815Z
+updated: 2024-10-05T22:20:48.427Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -71,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -130,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -143,15 +136,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,24 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-swiveling-screens-mastering-video-rotation-on-instagram/"><u>[New] 2024 Approved Swiveling Screens Mastering Video Rotation on Instagram</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-the-strategy-for-flawless-selfies-on-tiktok-repeatedly/"><u>[New] 2024 Approved The Strategy for Flawless Selfies on TikTok, Repeatedly</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-10plus-preferred-no-pay-webm-player-options/"><u>[Updated] 2024 Approved 10+ Preferred No-Pay WebM Player Options</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-8-exemplary-templates-dominate-social-media-creatives/"><u>[Updated] 2024 Approved 8 Exemplary Templates Dominate Social Media Creatives</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-darkened-details-expert-techniques-for-night-photography-success/"><u>[Updated] 2024 Approved Darkened Details Expert Techniques for Night Photography Success</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/augmented-reality-aesthetics-tapping-into-free-lut-resources-for-ar/"><u>Augmented Reality Aesthetics Tapping Into Free LUT Resources for AR</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/celebrating-juneteenth-strategies-from-top-tech-firms-revealed-on-zdnet/"><u>Celebrating Juneteenth: Strategies From Top Tech Firms Revealed on ZDNet</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/dont-miss-out-on-the-windows-11-launch-save-money-and-boost-performance-of-old-pcs-using-these-5-proven-tricks-exclusively-by-zdnet/"><u>Don't Miss Out on the Windows 11 Launch: Save Money and Boost Performance of Old PCs Using These 5 Proven Tricks (Exclusively by ZDNet)</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/efficient-techniques-for-uninstalling-preinstalled-software-in-windows-11-tips-and-tricks/"><u>Efficient Techniques for Uninstalling Preinstalled Software in Windows 11 - Tips & Tricks</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/get-set-go-seamless-steps-to-harnessing-chatgpt-on-your-android-device/"><u>Get Set, Go! Seamless Steps to Harnessing ChatGPT on Your Android Device</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Realme C67 4G? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-tecno-phantom-v-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Tecno Phantom V Flip | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-apple-iphone-11-pro-max-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Transfer Music from Apple iPhone 11 Pro Max to Android | Dr.fone</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/inside-look-a-google-tech-pros-perspective-on-the-superiority-of-macbook-over-windows-laptops-zdnet-report/"><u>Inside Look: A Google Tech Pro's Perspective on the Superiority of MacBook over Windows Laptops | ZDNET Report</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/protecting-your-microsoft-identity-proven-techniques-to-shield-from-hackers-according-to-zdnet-experts/"><u>Protecting Your Microsoft Identity: Proven Techniques to Shield From Hackers, According to ZDNet Experts</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ram-upgrade-for-enhanced-performance-on-personal-computers/"><u>RAM Upgrade for Enhanced Performance on Personal Computers</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/revive-your-aging-windows-10-pc-with-these-5-lifesaving-techniques-most-come-at-no-cost/"><u>Revive Your Aging Windows 10 PC with These 5 Lifesaving Techniques – Most Come at No Cost</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/unlocking-my-innovative-side-through-excel-a-microsoft-challenge-featured-on-zdnet/"><u>Unlocking My Innovative Side Through Excel: A Microsoft Challenge Featured on ZDNet</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/windows-software-compliance-guide-is-your-license-genuine-and-why-it-matters/"><u>Windows Software Compliance Guide: Is Your License Genuine and Why It Matters?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/udio-recording-101-from-youtube-playback-to-files-for-2024/"><u>[New] Audio Recording 101 From YouTube Playback To Files for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-master-device-agnostic-recording-techniques-for-youtube-live-streams/"><u>[New] Master Device-Agnostic Recording Techniques for YouTube Live Streams</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solved-enhance-your-gpu-performance-step-bysis-guide-inside/"><u>[Solved]: Enhance Your GPU Performance – Step-Bysis Guide Inside</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-exploring-premium-webcams-shoppers-insights/"><u>[Updated] Exploring Premium Webcams - Shopper's Insights</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-streamline-your-video-strategy-tubebuddys-guide/"><u>[Updated] Streamline Your Video Strategy TubeBuddy's Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-graphics-to-emojis-turning-gifs-into-stickers-on-telegram-and-more/"><u>2024 Approved From Graphics to Emojis Turning GIFs Into Stickers on Telegram & More</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/easy-methods-for-transforming-mov-video-clips-into-highly-playable-avi-files/"><u>Easy Methods for Transforming MOV Video Clips Into Highly Playable AVI Files</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/groundbreaking-open-source-software-for-modern-video-conferencing-for-2024/"><u>Groundbreaking Open Source Software for Modern Video Conferencing for 2024</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/icloud-password-recovery-tools-top-software-solutions-for-ios-devices/"><u>ICloud Password Recovery Tools: Top Software Solutions for iOS Devices</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/mastering-m4vmp4-the-complete-compendium-on-multimedia-container-formats/"><u>Mastering M4V/MP4: The Complete Compendium on Multimedia Container Formats</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/mastering-pdf-data-extraction-three-effective-methods-revealed/"><u>Mastering PDF Data Extraction: Three Effective Methods Revealed</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/mastering-the-basics-of-apowersoft-screen-capture-pro-a-step-by-step-guide/"><u>Mastering the Basics of Apowersoft Screen Capture Pro: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/pc-gaming-essentials-learn-how-to-excel-at-marvel-super-war-online/"><u>PC Gaming Essentials: Learn How to Excel at Marvel Super War Online</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-a-non-responsive-fortnite-microphone-or-speakers-get-back-on-voice-chat-now/"><u>Quick Fixes for a Non-Responsive Fortnite Microphone or Speakers - Get Back on Voice Chat Now!</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/simple-methods-for-transforming-videos-into-format-compatible-with-your-samsung-galaxy-s5/"><u>Simple Methods for Transforming Videos Into Format Compatible with Your Samsung Galaxy S5</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/smooth-screencast-solutions-top-software-selections-to-capture-video-without-latency/"><u>Smooth Screencast Solutions: Top Software Selections to Capture Video Without Latency</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fixes-for-pc-players-eliminating-game-crashes-in-the-sims-3-effortlessly/"><u>Ultimate Fixes for PC Players: Eliminating Game Crashes in The Sims 3 Effortlessly</u></a></li>
 </ul></div>
 

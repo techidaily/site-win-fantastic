@@ -1,7 +1,7 @@
 ---
 title: "Protecting Your Microsoft Identity: Proven Techniques to Shield From Hackers, According to ZDNet Experts"
-date: 2024-09-26T00:09:11.482Z
-updated: 2024-09-29T22:05:08.625Z
+date: 2024-09-29T20:28:25.169Z
+updated: 2024-10-05T23:16:37.318Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -71,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -136,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,21 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-revolutionized-ios-screenshot-and-recording-methods/"><u>[New] 2024 Approved Revolutionized iOS Screenshot & Recording Methods</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ssential-free-editing-software-rankings/"><u>[New] Essential Free Editing Software Rankings</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unleash-your-inner-gamer-best-free-voice-change-tool-for-valorant/"><u>[New] Unleash Your Inner Gamer Best Free Voice Change Tool for Valorant</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-streamline-your-slide-show-enable-voice-input-with-powerpoint-for-2024/"><u>[Updated] Streamline Your Slide Show Enable Voice Input with PowerPoint for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/cutting-out-clutter-the-picsart-bg-eraser-method/"><u>Cutting Out Clutter The Picsart Bg Eraser Method</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/driven-by-the-advanced-technology-of-cookiebot/"><u>Driven by the Advanced Technology of Cookiebot</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/effizienter-mp4-schneider-fur-windows-1011-kratzfeste-losung-ohne-neuencode/"><u>Effizienter MP4-Schneider Für Windows 10/11 - Kratzfeste Lösung Ohne Neuencode</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/how-to-duplicate-media-elements-on-your-webpage-using-flipbuilder-a-step-by-step-guide/"><u>How to Duplicate Media Elements on Your Webpage Using FlipBuilder - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/is-it-possible-to-create-an-editable-ebook-from-office-files-featuring-a-table-of-contents-on-flipbuilder/"><u>Is It Possible to Create an Editable Ebook From Office Files Featuring a Table of Contents on FlipBuilder?</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/mailing-your-creations-a-step-by-step-guide-to-distributing-ebooks-via-email-with-flipbuilder/"><u>Mailing Your Creations: A Step-by-Step Guide to Distributing eBooks via Email with FlipBuilder</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/maximize-e-book-engagement-with-simple-social-share-settings-on-flipbuilder-platform/"><u>Maximize E-Book Engagement with Simple Social Share Settings on FlipBuilder Platform</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/merging-various-pictures-into-one-image-display-on-your-site-using-flipbuilder/"><u>Merging Various Pictures Into One Image Display on Your Site Using FlipBuilder</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/optimizing-your-documents-with-flipbuilder-the-ultimate-tutorial-for-using-page-references/"><u>Optimizing Your Documents with FlipBuilder: The Ultimate Tutorial for Using Page References</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/optimizing-your-flipbook-creation-for-seamless-mobile-experience-tips-and-tricks/"><u>Optimizing Your FlipBook Creation for Seamless Mobile Experience: Tips & Tricks</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/the-4-fastest-lenovo-record-methods-for-2024/"><u>The 4 Fastest Lenovo Record Methods for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/which-is-better-video-editor-for-iphone-in-2024-cameo-or-filmorago/"><u>Which Is Better Video Editor for iPhone, In 2024 Cameo or FilmoraGo?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-macs-most-reliable-snipers-reviewed/"><u>[Updated] In 2024, Mac's Most Reliable Snipers Reviewed</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-top-8-iphonecomputer-apps-for-seamless-video-editing-for-2024/"><u>[Updated] Top 8 iPhone/Computer Apps for Seamless Video Editing for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-itel-a05s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-retrieval-of-wacom-tablet-drivers-for-immediate-use/"><u>Effortless Retrieval of Wacom Tablet Drivers for Immediate Use</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-language-models-bert-and-gpt-unveiled/"><u>Exploring Language Models: BERT & GPT Unveiled</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/get-access-to-explicit-media-on-dare-dorm-safe-and-fast-download-options/"><u>Get Access to Explicit Media on Dare Dorm – Safe and Fast Download Options</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/guide-on-downloading-and-converting-rbteachs-course-material-from-video-to-audio-and-video-formats/"><u>Guide on Downloading and Converting RBTEACH's Course Material From Video to Audio & Video Formats</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/how-to-download-liveleak-movies-as-mp4avi-files-efficiently-on-your-pc-or-mac/"><u>How to Download LiveLeak Movies as MP4/AVI Files Efficiently on Your PC or Mac</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/how-to-fetch-brighttalks-educational-video-sessions-for-both-macos-and-windows/"><u>How to Fetch BrightTALK's Educational Video Sessions for Both MacOS and Windows</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/how-to-save-and-watch-nbc-newscasts-offline-convert-episodes-into-multiple-formats/"><u>How to Save & Watch NBC Newscasts Offline: Convert Episodes Into Multiple Formats</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/how-to-save-and-convert-total-product-blueprint-videos-as-mp4-mov-avi-or-audio-files-in-mp3-format-easily/"><u>How to Save and Convert Total Product Blueprint Videos as MP4, MOV, AVI or Audio Files in MP3 Format Easily</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-seamless-creation-with-xp-movie-maker-features/"><u>In 2024, Seamless Creation with XP Movie Maker Features</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/innovative-tech-discovering-the-top-9-microphone-recorders-online-for-2024/"><u>Innovative Tech Discovering the Top 9 Microphone Recorders Online for 2024</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/napster-downloads-high-quality-mp3s-of-songs-and-albums-for-pc-and-mac/"><u>Napster Downloads: High-Quality MP3s of Songs & Albums for PC and Mac</u></a></li>
+<li><a href="https://extra-information.techidaily.com/next-level-livestream-selecting-the-best-360-cameras/"><u>Next-Level Livestream Selecting the Best 360° Cameras</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/sbs-on-demand-streaming-and-downloads-watch-your-favorite-australian-content-anytime/"><u>SBS On Demand Streaming & Downloads - Watch Your Favorite Australian Content Anytime</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/seamless-transition-from-skype-to-zoom-quick-tips/"><u>Seamless Transition From Skype to Zoom Quick Tips</u></a></li>
 </ul></div>
 

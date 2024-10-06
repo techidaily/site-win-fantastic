@@ -1,7 +1,7 @@
 ---
 title: A Comprehensive Review of Microsoft's October Surface Event Revelations | GadgetPundit
-date: 2024-09-27T06:12:30.241Z
-updated: 2024-09-30T07:57:12.608Z
+date: 2024-10-01T19:07:57.586Z
+updated: 2024-10-05T17:12:42.674Z
 tags:
   - microsoft
 categories:
@@ -54,16 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -77,16 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -108,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -149,10 +130,16 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -160,6 +147,13 @@ I'd only go with an ESU, myself, if I _really_ had no other choice.
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -208,18 +202,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-the-seventh-line-up-of-all-weather-action-cams-for-2024/"><u>[New] The Seventh Line-Up of All-Weather Action Cams for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-learn-to-negate-video-ordering-in-android/"><u>[Updated] Learn To Negate Video Ordering in Android</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-legitimate-protocols-for-achieving-over-a-million-viewership/"><u>2024 Approved Legitimate Protocols for Achieving Over a Million Viewership</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ausdom-m06-wireless-headphones-review-solid-connectivity/"><u>Ausdom M06 Wireless Headphones Review: Solid Connectivity</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/complete-guide-halting-windows-11-updates-without-compromise/"><u>Complete Guide: Halting Windows 11 Updates Without Compromise</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/get-access-to-explicit-media-on-dare-dorm-safe-and-fast-download-options/"><u>Get Access to Explicit Media on Dare Dorm – Safe and Fast Download Options</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/guide-on-downloading-and-converting-rbteachs-course-material-from-video-to-audio-and-video-formats/"><u>Guide on Downloading and Converting RBTEACH's Course Material From Video to Audio & Video Formats</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/how-to-download-liveleak-movies-as-mp4avi-files-efficiently-on-your-pc-or-mac/"><u>How to Download LiveLeak Movies as MP4/AVI Files Efficiently on Your PC or Mac</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/how-to-fetch-brighttalks-educational-video-sessions-for-both-macos-and-windows/"><u>How to Fetch BrightTALK's Educational Video Sessions for Both MacOS and Windows</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-samsung-galaxy-f15-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Samsung Galaxy F15 5G</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/premier-video-converters-for-tweeting-videos-for-2024/"><u>Premier Video Converters for Tweeting Videos for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/revive-your-trackpad-ultimate-guide-for-fixing-inoperative-touchpad-scrolling-today/"><u>Revive Your Trackpad: Ultimate Guide for Fixing Inoperative Touchpad Scrolling Today</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-powerhouse-tri-band-connectivity-with-the-netgear-nighthawk-x6-ac3200-router-for-high-speed-internet-experience/"><u>Unveiling the Powerhouse - Tri-Band Connectivity with the Netgear Nighthawk X6 AC3200 Router for High-Speed Internet Experience</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-conquer-video-quality-with-best-3-transcoder-methods-for-zoom/"><u>[Updated] Conquer Video Quality with Best 3 Transcoder Methods for Zoom</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-youtubes-golden-rule-for-profit-partnership/"><u>[Updated] YouTube's Golden Rule for Profit Partnership</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-precision-capture-with-videoleaps-zoom-feature/"><u>2024 Approved Precision Capture with Videoleap's Zoom Feature</u></a></li>
+<li><a href="https://video-capture.techidaily.com/6-innovative-mc-survival-homes/"><u>6 Innovative MC Survival Homes</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/comprehensive-tutorial-effortlessly-access-pdf-documents-using-apowerpdf/"><u>Comprehensive Tutorial: Effortlessly Access PDF Documents Using ApowerPDF</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/easy-guide-transforming-audio-files-from-m4b-to-mp3-format/"><u>Easy Guide: Transforming Audio Files From M4B to MP3 Format</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/effortlessly-isolate-and-save-audio-from-your-zoom-meetings-a-three-step-guide/"><u>Effortlessly Isolate and Save Audio From Your Zoom Meetings: A Three-Step Guide</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/guide-effortless-steps-to-move-your-ibook-library-from-ios-to-windows-without-using-itunes/"><u>Guide: Effortless Steps to Move Your iBook Library From iOS to Windows Without Using iTunes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-huawei-nova-y71-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Huawei Nova Y71 Contacts An Easy Method Explained.</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/mastering-the-essentials-in-depth-insights-into-the-aac-and-h264-encoded-m4a-format/"><u>Mastering the Essentials: In-Depth Insights Into the AAC and H.264 Encoded M4A Format</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/optimizing-your-android-device-moving-apps-to-an-sd-card-instructions/"><u>Optimizing Your Android Device: Moving Apps to an SD Card Instructions</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/seamless-iphone-to-pc-video-casting-the-ultimate-guide/"><u>Seamless iPhone-to-PC Video Casting: The Ultimate Guide</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/step-by-step-guide-transforming-flac-audio-files-into-high-quality-wav-format/"><u>Step-by-Step Guide: Transforming FLAC Audio Files Into High-Quality WAV Format</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/top-ranked-pdf-printing-solutions-for-mac-users-in-2020/"><u>Top-Ranked PDF Printing Solutions for Mac Users in 2020</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/transformez-vos-fichiers-video-3gp-en-haute-definition-mjpeg-en-ligne-convertisseur-video-facile-a-lutilisation-movavi/"><u>Transformez Vos Fichiers Vidéo 3GP en Haute Définition MJPEG en Ligne - Convertisseur Vidéo Facile À L'utilisation - Movavi</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-like-a-pro-end-fifa-21-gameplay-interruptions-and-pc-crashes/"><u>Troubleshoot Like a Pro: End FIFA 21 Gameplay Interruptions & PC Crashes</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/uncovering-the-potential-of-lenovos-ideapad-130s-compact-power-meets-ease-of-use/"><u>Uncovering the Potential of Lenovo's IdeaPad 130S: Compact Power Meets Ease-of-Use</u></a></li>
 </ul></div>
 

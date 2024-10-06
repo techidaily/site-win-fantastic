@@ -1,7 +1,7 @@
 ---
 title: "Deciding Between Top Productivity Tools: A Side-by-Side Comparison of Microsoft To Do and Google Tasks for Efficient List Management | Expert Analysis From ZDNet"
-date: 2024-09-29T06:38:34.436Z
-updated: 2024-09-30T11:24:37.901Z
+date: 2024-09-29T20:28:45.237Z
+updated: 2024-10-05T16:29:41.969Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -84,10 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -122,13 +136,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,22 +143,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,16 +196,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-audio-extraction-made-easy-youtube-music-on-your-mac/"><u>[New] Audio Extraction Made Easy YouTube Music on Your Mac</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/cing-visibility-and-discoverability-via-targeted-tags/"><u>Enhancing Visibility and Discoverability via Targeted Tags</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/eyedome-recorder-chromeos-screen-snapshots/"><u>EyeDome Recorder ChromeOS Screen Snapshots</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Infinix Hot 40 | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/method-for-onoff-windows-11-hdr-feature/"><u>Method for On/Off Windows 11 HDR Feature</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/step-by-step-tutorial-for-downloading-and-format-shifting-master-pick-up-artist-university-lectures/"><u>Step-by-Step Tutorial for Downloading and Format Shifting Master Pick Up Artist University Lectures</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/step-by-step-tutorial-on-downloading-and-converting-drakes-so-far-gone-album-in-various-audio-types-such-as-mp3-aac-wav/"><u>Step-by-Step Tutorial on Downloading & Converting Drake's 'So Far Gone' Album in Various Audio Types Such as MP3, AAC, WAV</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/step-by-step-tutorial-downloading-and-saving-awaan-videos-as-mp4movavi-on-windowsmac-systems/"><u>Step-by-Step Tutorial: Downloading and Saving Awaan Videos as MP4/MOV/AVI on Windows/Mac Systems</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/transforming-money-mastery-courses-seamless-mp4-and-avi-conversion-for-windows-and-macos-users/"><u>Transforming Money Mastery Courses: Seamless MP4 and AVI Conversion for Windows and macOS Users</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/ultimate-guide-converting-your-studioveena-pole-dancing-tutorials-into-high-quality-mp4-format/"><u>Ultimate Guide: Converting Your StudioVeena Pole Dancing Tutorials Into High-Quality MP4 Format</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unleashing-audio-delights-the-art-of-apple-podcast-download-for-2024/"><u>Unleashing Audio Delights The Art of Apple Podcast Download for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-dissecting-magixs-visual-archiving-system/"><u>[New] Dissecting MAGIX's Visual Archiving System</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-elite-guide-exceptional-instagram-hlv-designers-for-2024/"><u>[New] Elite Guide Exceptional Instagram HLV Designers for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-mastering-video-and-screenshots-with-simple-steps/"><u>2024 Approved Mastering Video & Screenshots with Simple Steps</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/comprehensive-walkthrough-for-beginners-getting-started-with-pc-auto-chess-gameplay/"><u>Comprehensive Walkthrough for Beginners: Getting Started with PC Auto Chess Gameplay</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/discover-the-leading-substitutes-for-picasa-the-top-three-recommendations/"><u>Discover the Leading Substitutes for Picasa - The Top Three Recommendations!</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-sony-xperia-10-v-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Sony Xperia 10 V Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-tecno-pova-5-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Tecno Pova 5 to iPod | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/make-quick-cash-on-reddit-with-these-no-experience-techniques/"><u>Make Quick Cash on Reddit with These No Experience Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/master-your-media-best-6-video-apps-for-macos-big-sur-users/"><u>Master Your Media Best 6 Video Apps for macOS Big Sur Users</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/mastering-text-overlays-on-video-content-a-comprehensive-tutorial/"><u>Mastering Text Overlays on Video Content: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/mastering-the-art-of-quick-shots-on-your-macbook-pro/"><u>Mastering the Art of Quick Shots on Your MacBook Pro</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/realtek-card-reader-driver-update-for-optimal-performance-on-windows-11/"><u>Realtek Card Reader Driver Update for Optimal Performance on Windows 11</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/uncover-and-rescue-gone-footage-the-ultimate-guide-to-samsung-phone-video-recovery/"><u>Uncover and Rescue Gone Footage: The Ultimate Guide to Samsung Phone Video Recovery</u></a></li>
 </ul></div>
 

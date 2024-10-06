@@ -1,7 +1,7 @@
 ---
 title: Boost Your PC's Performance with This Secret Windows 11 Feature to Instantly Close Frozen Programs
-date: 2024-09-24T05:55:50.219Z
-updated: 2024-09-30T00:47:34.094Z
+date: 2024-10-01T17:35:25.659Z
+updated: 2024-10-05T16:24:48.863Z
 tags:
   - windows
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,16 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,24 +187,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-shield-your-snapshots-from-times-tide-explore-cost-effective-solutions/"><u>[New] In 2024, Shield Your Snapshots From Time's Tide - Explore Cost-Effective Solutions</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-unmatched-video-capture-selecting-the-best-pc-and-mac-recorder/"><u>[Updated] In 2024, Unmatched Video Capture Selecting the Best PC & Mac Recorder</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-mastering-windows-ranked-5-best-screen-capture-programs-for-2024/"><u>[Updated] Mastering Windows Ranked 5 Best Screen Capture Programs for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-key-to-combining-linktree-and-tiktok-biographies/"><u>2024 Approved The Key to Combining Linktree and TikTok Biographies</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/celebrating-juneteenth-strategies-from-top-tech-firms-revealed-on-zdnet/"><u>Celebrating Juneteenth: Strategies From Top Tech Firms Revealed on ZDNet</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/empowering-the-future-how-microsoft-aims-to-teach-ai-skills-to-25m-people-in-southeast-asia-as-revealed-by-zdnet/"><u>Empowering the Future: How Microsoft Aims to Teach AI Skills to 2.5M People in Southeast Asia, as Revealed by ZDNet</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/tial-guide-9-cost-free-editing-tools-for-creatives-for-2024/"><u>Essential Guide 9 Cost-Free Editing Tools for Creatives for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/expert-tips-save-skype-call-as-mp3-free-for-2024/"><u>Expert Tips Save Skype Call as Mp3 (Free) for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-realme-c51-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Realme C51 FRP?</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/inside-look-a-google-tech-pros-perspective-on-the-superiority-of-macbook-over-windows-laptops-zdnet-report/"><u>Inside Look: A Google Tech Pro's Perspective on the Superiority of MacBook over Windows Laptops | ZDNET Report</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/navigating-through-azures-ongoing-capacity-challenges-a-guide-for-users-on-next-steps/"><u>Navigating Through Azure's Ongoing Capacity Challenges: A Guide for Users on Next Steps</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/pay-per-view-microsoft-announces-fees-for-future-windows-11-enhancements-starting-2024-detailed-pricing-guide/"><u>Pay-Per-View: Microsoft Announces Fees for Future Windows 11 Enhancements Starting 2024 - Detailed Pricing Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/plunge-into-quality-leading-camcorders-for-aquatic-adventurers/"><u>Plunge Into Quality Leading Camcorders for Aquatic Adventurers</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/revive-your-aging-windows-10-pc-with-these-5-lifesaving-techniques-most-come-at-no-cost/"><u>Revive Your Aging Windows 10 PC with These 5 Lifesaving Techniques – Most Come at No Cost</u></a></li>
-<li><a href="https://facebook.techidaily.com/safeguarding-against-phony-online-persona-creators/"><u>Safeguarding Against Phony Online Persona Creators</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/step-by-step-tutorial-how-to-clean-up-and-disable-preinstalled-software-in-windows-11/"><u>Step-by-Step Tutorial: How to Clean Up and Disable Preinstalled Software in Windows 11</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/the-race-against-time-for-microsoft-fixing-a-critical-flaw-in-windows-10-by-next-year-reveals-zdnet/"><u>The Race Against Time for Microsoft: Fixing a Critical Flaw in Windows 10 by Next Year, Reveals ZDNet</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/unlocking-my-innovative-side-through-excel-a-microsoft-challenge-featured-on-zdnet/"><u>Unlocking My Innovative Side Through Excel: A Microsoft Challenge Featured on ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-your-graphics-card-rtx-2080-drivers-for-windows-1011-secure-installs-available-now/"><u>Update Your Graphics Card: RTX 2080 Drivers for Windows 10/11 - Secure Installs Available Now</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-dive-into-digital-clarity-the-guide-for-full-hd-on-tweet-for-2024/"><u>[New] Dive Into Digital Clarity The Guide for Full HD on Tweet for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-easy-and-inexpensive-techniques-for-youtube-cards/"><u>[New] Easy and Inexpensive Techniques for YouTube Cards</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-start-here-how-to-expedite-videos-in-snapchat-for-new-users/"><u>[New] In 2024, Start Here How to Expedite Videos in Snapchat for New Users</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-a-harmonic-narrative-adding-youtube-music-to-vids/"><u>2024 Approved Crafting a Harmonic Narrative Adding YouTube Music to Vids</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/activate-your-apowerrec-vip-account-with-simple-steps-for-both-pc-and-mac-users/"><u>Activate Your ApowerREC VIP Account with Simple Steps for Both PC & Mac Users</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/apple-iphone-15-pro-max-and-samsung-s2n-ultra-face-off-key-feature-breakdown/"><u>Apple iPhone 15 Pro Max and Samsung S2n Ultra Face-Off: Key Feature Breakdown</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asrock-motherboard-driver-download/"><u>ASRock Motherboard Driver Download</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/comprehensive-walkthrough-for-beginners-getting-started-with-pc-auto-chess-gameplay/"><u>Comprehensive Walkthrough for Beginners: Getting Started with PC Auto Chess Gameplay</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/easy-tutorials-for-producing-swift-videos-on-desktop-and-mobile-devices/"><u>Easy Tutorials for Producing Swift Videos on Desktop and Mobile Devices</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/free-solutions-capturing-your-macs-display-using-top-rated-screenshot-tools/"><u>Free Solutions: Capturing Your Mac's Display Using Top-Rated Screenshot Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-did-your-iphone-14-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your iPhone 14 Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/incredible-techniques-turning-static-pictures-into-engaging-videos/"><u>Incredible Techniques: Turning Static Pictures Into Engaging Videos</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/mastering-the-essentials-in-depth-insights-into-the-aac-and-h264-encoded-m4a-format/"><u>Mastering the Essentials: In-Depth Insights Into the AAC and H.264 Encoded M4A Format</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-comprerancers-blockade-how-to-halt-comments-on-social-media/"><u>The Comprerancer's Blockade: How to Halt Comments on Social Media</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-realme-gt-neo-5-se-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Realme GT Neo 5 SE Location | Dr.fone</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/ultimate-guide-top-substitutes-for-bandicam-on-computers-and-apple-devices/"><u>Ultimate Guide: Top Substitutes for Bandicam on Computers and Apple Devices</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/uncover-and-rescue-gone-footage-the-ultimate-guide-to-samsung-phone-video-recovery/"><u>Uncover and Rescue Gone Footage: The Ultimate Guide to Samsung Phone Video Recovery</u></a></li>
 </ul></div>
 

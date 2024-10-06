@@ -1,7 +1,7 @@
 ---
 title: "Mastering Capture Battles in Battlefield 3: A Comprehensive Recording Guide"
-date: 2024-09-28T11:43:29.794Z
-updated: 2024-09-30T11:20:31.660Z
+date: 2024-10-03T18:23:42.235Z
+updated: 2024-10-05T22:23:54.265Z
 tags:
   - product
 categories:
@@ -46,6 +46,19 @@ Action Tutorials
   
  Share this tutorial:
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Introduction 
 
  Welcome to Battlefield 3 gameplay recording tutorial. 
@@ -68,13 +81,6 @@ Action Tutorials
 
  You can reset average game framerate with **F5** hotkey. To change Action! HUD position use **F7** hotkey, to hide/show HUD use **F6** hotkey. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Battlefield 3 gameplay recording
 
  Default hotkey to start and stop gameplay recording is **F9**. Please note that Battlefield 3 and any other game must be active to start or stop gameplay recording. When game is not active HUD displays current game framerate in gray color and video recording cannot be started. 
@@ -87,13 +93,6 @@ Action Tutorials
 
 ![Mirillis Action! - Battlefield 3 benchmarking](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_HUD_battlefield3_normal_status.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Pause Battlefield 3 gameplay recording
 
  When Battlefield 3 video recording is in progress you can use   **Ctrl+F9** hotkey to pause gameplay recording. This way you can easily skip unwanted parts of your Battlefield 3 gameplay, mission loading screens or intros. 
@@ -101,13 +100,20 @@ Action Tutorials
 ![Mirillis Action! - paused Battlefield 3 recording](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_HUD_battlefield3_recording_paused_status.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To resume Battlefield recording use   **Ctrl+F9** hotkey again. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Battlefield 3 gameplay recordings playback
 
@@ -116,28 +122,35 @@ Action Tutorials
 ![Mirillis Action! - Battlefield 3 recording](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_game_recording_thumbnail_battlefield3.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Action! includes internal fast player dedicated for video recordings playback. Select your new Battlefield 3 gameplay recording and use mouse double click on a thumbnail to start gameplay recording playback.
 
 ![Mirillis Action! - gameplay recording playback with Action! player](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_game_recording_playback_battlefield3.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Action! HUD on Battlefield 3 gameplay recordings
 
  If you do not want to include HUD in recorded Battlefield 3 gameplay videos you must select an option: **"Do not record HUD in games and applications"**.
 
 ![Mirillis Action! - Settings - Do not record HUD in games and applications](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_HUD_settings_do_not_record_in_games.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Upload Battlefield 3 gameplay recordings to YouTube
 
@@ -146,17 +159,10 @@ Action Tutorials
 ![Mirillis Action! - Export Battlefield 3 recording to YouTube](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_game_recording_upload_to_youtube.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Add webcam to Battlefield 3 gameplay recordings
@@ -186,24 +192,20 @@ Action Tutorials
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-fantastic.techidaily.com/1726792606293-y1-3/"><u> [Y_1 = -3 </u></a></li>
-<li><a href="https://win-blog.techidaily.com/back-4-blood-ue4-setback-tackling-the-troublesome-map-bug-on-black-desert-platforms/"><u>'Back 4 Blood' UE4 Setback: Tackling the Troublesome Map Bug on Black Desert Platforms</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-increase-engagement-must-try-youtube-seo-tools/"><u>[New] 2024 Approved Increase Engagement Must-Try YouTube SEO Tools</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-sculpting-subtleties-with-title-texts/"><u>[New] 2024 Approved Sculpting Subtleties with Title Texts</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-selecting-the-top-8-linux-screenshots-tools/"><u>[New] 2024 Approved Selecting the Top 8 Linux Screenshots Tools</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-expert-review-unlocking-the-potential-with-showmore-recorder-for-2024/"><u>[New] Expert Review Unlocking the Potential with ShowMore Recorder for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-filmforge-editors-review-complete-overview/"><u>[New] FilmForge Editor's Review – Complete Overview</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-screenshot-and-recording-masterclass-ios-devices-2023/"><u>2024 Approved Screenshot & Recording Masterclass IOS Devices 2023</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/creative-tims-advanced-react-native-framework-softui-premium-edition-for-top-tier-app-creation/"><u>Creative Tim's Advanced React Native Framework - SoftUI Premium Edition for Top-Tier App Creation</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/creative-tims-premier-notus-design-system-pro-unlocking-full-potential-of-premium-tailwind-css-for-elite-developers/"><u>Creative Tim's Premier Notus Design System Pro: Unlocking Full Potential of Premium Tailwind CSS for Elite Developers</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/creative-tims-pro-dashboard-solution-integrating-nuxt-laravel-and-json-api/"><u>Creative Tim's Pro Dashboard Solution: Integrating Nuxt, Laravel & JSON API</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/creative-tims-top-tier-reactive-framework-unlocking-potential-with-material-kit-pro-react-native-templates/"><u>Creative Tim's Top-Tier Reactive Framework: Unlocking Potential with Material Kit Pro React Native Templates</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/download-premium-nextjs-and-tailwindui-react-template-for-events-exclusive-offer/"><u>Download Premium NextJS & TailwindUI React Template for Events – Exclusive Offer!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722962948950-fast-and-easy-hp-envy-5055-driver-download-get-the-latest-updates-now/"><u>Fast & Easy HP ENVY 5055 Driver Download | Get the Latest Updates Now</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/innovative-nodejs-backend-templates-by-creativetim-admin-panels-and-dashboards-for-developers/"><u>Innovative NodeJS Backend Templates by CreativeTim: Admin Panels & Dashboards for Developers</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/step-by-step-tutorial-for-efficient-video-capturing-via-zd-for-2024/"><u>Step-by-Step Tutorial for Efficient Video Capturing via ZD for 2024</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/unlock-elite-aspnet-design-with-creative-tims-professional-themes-and-templates-collection/"><u>Unlock Elite ASP.NET Design with Creative Tim's Professional Themes & Templates Collection</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/unlock-superior-admin-capabilities-with-now-ui-dashboard-pros-premium-bootstrap-4-design-powered-by-creative-tim/"><u>Unlock Superior Admin Capabilities with Now UI Dashboard Pro's Premium Bootstrap 4 Design, Powered by Creative Tim</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/why-the-samsung-galaxy-s21-ultra-reigns-supreme-in-androids-elite-lineup-a-thorough-appraisal/"><u>Why the Samsung Galaxy S21 Ultra Reigns Supreme in Android's Elite Lineup: A Thorough Appraisal</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/flipbuildercom-design-engaging-booklet-style-brochures-using-powerpoint-slides/"><u>[FlipBuilder.com]: Design Engaging Booklet-Style Brochures Using PowerPoint Slides</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-windows-best-facsimile-software-for-ps3-games/"><u>2024 Approved Windows' Best Facsimile Software for PS3 Games</u></a></li>
+<li><a href="https://program-issues.techidaily.com/continuous-audio-non-responsive-videos-on-youtube-heres-how-to-rectify-this-error-with-chrome-or-firefox/"><u>Continuous Audio, Non-Responsive Videos on YouTube? Here's How to Rectify This Error with Chrome or Firefox</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-tailored-preferences-panel-not-working/"><u>Fix: Tailored Preferences Panel Not Working</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/how-to-customize-flipbooks-page-background-a-guide-to-personalizing-your-content-on-flipbuilder/"><u>How to Customize Flipbook's Page Background: A Guide to Personalizing Your Content on FlipBuilder</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/how-to-duplicate-media-elements-on-your-webpage-using-flipbuilder-a-step-by-step-guide/"><u>How to Duplicate Media Elements on Your Webpage Using FlipBuilder - A Step-by-Step Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-learn-to-record-mi-11s-display-effortlessly/"><u>In 2024, Learn to Record Mi 11'S Display Effortlessly</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-premium-audio-playwright-craftsmanship/"><u>In 2024, Premium Audio Playwright Craftsmanship</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-ultimate-filter-guide-to-superior-zoom-quality/"><u>In 2024, The Ultimate Filter Guide to Superior Zoom Quality</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/is-it-possible-to-create-an-editable-ebook-from-office-files-featuring-a-table-of-contents-on-flipbuilder/"><u>Is It Possible to Create an Editable Ebook From Office Files Featuring a Table of Contents on FlipBuilder?</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/mailing-your-creations-a-step-by-step-guide-to-distributing-ebooks-via-email-with-flipbuilder/"><u>Mailing Your Creations: A Step-by-Step Guide to Distributing eBooks via Email with FlipBuilder</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/maximize-e-book-engagement-with-simple-social-share-settings-on-flipbuilder-platform/"><u>Maximize E-Book Engagement with Simple Social Share Settings on FlipBuilder Platform</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/merging-various-pictures-into-one-image-display-on-your-site-using-flipbuilder/"><u>Merging Various Pictures Into One Image Display on Your Site Using FlipBuilder</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-art-of-undetected-supports-on-fb/"><u>The Art of Undetected Supports on FB</u></a></li>
 </ul></div>
 

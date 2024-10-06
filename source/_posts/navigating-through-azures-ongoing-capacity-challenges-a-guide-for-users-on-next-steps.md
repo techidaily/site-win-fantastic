@@ -1,7 +1,7 @@
 ---
 title: "Navigating Through Azure's Ongoing Capacity Challenges: A Guide for Users on Next Steps"
-date: 2024-09-24T17:25:28.668Z
-updated: 2024-09-30T05:48:36.427Z
+date: 2024-09-30T19:11:06.524Z
+updated: 2024-10-05T18:57:34.874Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,19 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -97,16 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -141,34 +129,28 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -214,24 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-broadcasting-to-the-big-screen-watching-fb-videos-on-tv/"><u>[New] 2024 Approved Broadcasting to the Big Screen Watching FB Videos on TV?</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-the-path-to-retrospective-facebook-content-mobile-plus-laptop/"><u>[New] 2024 Approved The Path to Retrospective Facebook Content (Mobile + Laptop)</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-professional-webcam-videotaping-tips-and-tricks/"><u>[New] In 2024, Professional WebCam Videotaping Tips & Tricks</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-boosting-your-channels-income-the-optimal-view-count-quotient/"><u>[Updated] 2024 Approved Boosting Your Channel's Income The Optimal View Count Quotient</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-superior-ringtones-roundup-elite-download-hubs/"><u>[Updated] 2024 Approved Superior Ringtones Roundup Elite Download Hubs</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-fundamentals-of-crafting-youtube-videos-from-scratch-for-2024/"><u>[Updated] The Fundamentals of Crafting YouTube Videos From Scratch for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-understanding-investment-needs-on-youtube-for-2024/"><u>[Updated] Understanding Investment Needs on YouTube for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-the-broadcasters-blueprint-step-by-step-windows-pc-guide-to-live-capture/"><u>2024 Approved The Broadcaster's Blueprint Step-by-Step Windows PC Guide to Live Capture</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722998936232-battlefield-2042-performance-optimized-say-goodbye-to-framerate-drops-and-glitchy-gameplay/"><u>Battlefield #2042 Performance Optimized - Say Goodbye to Framerate Drops and Glitchy Gameplay</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/critical-deadline-approaching-how-microsoft-is-racing-against-time-to-overcome-windows/"><u>Critical Deadline Approaching: How Microsoft Is Racing Against Time to Overcome Windows</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/declutter-your-inbox-effortlessly-learn-the-key-strategy-without-complicated-settings-zdnet/"><u>Declutter Your Inbox Effortlessly - Learn the Key Strategy without Complicated Settings | ZDNET</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-update-enhanced-performance-with-intel-wifi-6-ax200-driver-for-windows-11-and-10/"><u>Download & Update: Enhanced Performance with Intel Wifi 6 AX200 Driver for Windows 11 and 10</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/durable-brydge-sp-max-plus-coverage-an-ultimate-protective-keypad-enclosure-for-surface-pro-8-insights-and-analysis/"><u>Durable Brydge SP Max Plus Coverage: An Ultimate Protective Keypad Enclosure for Surface Pro 8 - Insights and Analysis</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/exclusive-microsofts-revolutionary-ai-chip-vs-apple-macbook-inside-look/"><u>Exclusive: Microsoft's Revolutionary AI Chip Vs. Apple MacBook - Inside Look</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/exploring-the-fallout-microsoft-365-suffers-during-a-severe-distributed-denial-of-service-incident-covered-by-zdnet/"><u>Exploring the Fallout: Microsoft 365 Suffers During a Severe Distributed Denial-of-Service Incident Covered by ZDNET</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/microsoft-tempted-me-into-creativity-with-excel-heres-how-zdnet/"><u>Microsoft Tempted Me Into Creativity with Excel – Here's How! [ZDNet]</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/smart-savings-without-compromising-quality-why-i-chose-the-most-affordable-microsoft-surface-pro-model-gadgetsforgeeks/"><u>Smart Savings without Compromising Quality: Why I Chose the Most Affordable Microsoft Surface Pro Model | GadgetsForGeeks</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/upcoming-change-alert-microsoft-introduces-fees-for-future-windows-11-update-installations-cost-breakdown/"><u>Upcoming Change Alert: Microsoft Introduces Fees for Future Windows 11 Update Installations - Cost Breakdown</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/why-participate-a-step-by-step-tutorial-on-joining-microsofts-exclusive-windows-testing-program-featured-by-zdnet/"><u>Why Participate? A Step-by-Step Tutorial on Joining Microsoft's Exclusive Windows Testing Program, Featured by ZDNet</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-hidden-videos-no-more-discover-these-12-efficient-methods-for-visible-vids-on-fb-for-2024/"><u>[New] Hidden Videos No More Discover These 12 Efficient Methods for Visible Vids on FB for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-hitting-high-notes-enhance-your-youtube-content-with-music-edits-for-2024/"><u>[New] Hitting High Notes Enhance Your YouTube Content with Music Edits for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-dealing-with-mistakes-self-representation-during-online-chats/"><u>[New] In 2024, Dealing with Mistakes Self-Representation During Online Chats</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-get-started-on-vimeo-for-free-the-basics-of-video-editing/"><u>[Updated] In 2024, Get Started on Vimeo for Free The Basics of Video Editing</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-simple-routines-for-saving-instagram-stories-efficiently/"><u>[Updated] In 2024, Simple Routines for Saving Instagram Stories Efficiently</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-navigating-through-the-premier-10-image-stock-websites-for-2024/"><u>[Updated] Navigating Through the Premier 10 Image Stock Websites for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-vivo-v27-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/activate-your-apowerrec-vip-account-with-simple-steps-for-both-pc-and-mac-users/"><u>Activate Your ApowerREC VIP Account with Simple Steps for Both PC & Mac Users</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/advanced-nuxt-pro-dashboard-with-argon-theme-enhanced-laravel-integration-by-creative-tim/"><u>Advanced Nuxt Pro Dashboard with Argon Theme - Enhanced Laravel Integration by Creative Tim</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/commanders-canvas-painting-victory-in-the-top-7-total-wars/"><u>Commanders' Canvas Painting Victory in the Top 7 Total Wars</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/comprehensive-walkthrough-for-beginners-getting-started-with-pc-auto-chess-gameplay/"><u>Comprehensive Walkthrough for Beginners: Getting Started with PC Auto Chess Gameplay</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/creative-tims-advanced-react-native-framework-softui-premium-edition-for-top-tier-app-creation/"><u>Creative Tim's Advanced React Native Framework - SoftUI Premium Edition for Top-Tier App Creation</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/free-solutions-capturing-your-macs-display-using-top-rated-screenshot-tools/"><u>Free Solutions: Capturing Your Mac's Display Using Top-Rated Screenshot Tools</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-realme-narzo-60x-5g-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Realme Narzo 60x 5G using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/incredible-techniques-turning-static-pictures-into-engaging-videos/"><u>Incredible Techniques: Turning Static Pictures Into Engaging Videos</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/mastering-text-overlays-on-video-content-a-comprehensive-tutorial/"><u>Mastering Text Overlays on Video Content: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-infinix-zero-30-5g-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Infinix Zero 30 5G Device</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/ultimate-guide-top-substitutes-for-bandicam-on-computers-and-apple-devices/"><u>Ultimate Guide: Top Substitutes for Bandicam on Computers and Apple Devices</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/uncover-and-rescue-gone-footage-the-ultimate-guide-to-samsung-phone-video-recovery/"><u>Uncover and Rescue Gone Footage: The Ultimate Guide to Samsung Phone Video Recovery</u></a></li>
 </ul></div>
 

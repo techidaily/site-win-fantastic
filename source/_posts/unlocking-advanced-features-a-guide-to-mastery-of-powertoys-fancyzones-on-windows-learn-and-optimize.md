@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Advanced Features: A Guide to Mastery of PowerToys FancyZones on Windows - Learn & Optimize!"
-date: 2024-09-25T21:00:44.002Z
-updated: 2024-09-29T21:41:54.860Z
+date: 2024-09-30T23:22:56.517Z
+updated: 2024-10-05T16:58:20.196Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,16 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -135,13 +129,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -149,15 +136,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,14 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/updated-action-spectacular-the-full-t5-camera-review/"><u>[Updated] Action Spectacular The Full T5 Camera Review</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-broadcast-battlegrounds-where-does-streaming-technology-stand-strongest-for-2024/"><u>[Updated] Broadcast Battlegrounds Where Does Streaming Technology Stand Strongest for 2024</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/a-comprehensive-review-of-microsofts-october-surface-event-revelations-gadgetpundit/"><u>A Comprehensive Review of Microsoft's October Surface Event Revelations | GadgetPundit</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-enhancing-gopro-footage-minimizing-motion-blur/"><u>In 2024, Enhancing GoPro Footage Minimizing Motion Blur</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/microsoft-tempted-me-into-creativity-with-excel-heres-how-zdnet/"><u>Microsoft Tempted Me Into Creativity with Excel – Here's How! [ZDNet]</u></a></li>
-<li><a href="https://video-capture.techidaily.com/nostalgic-compassion-preferred-android-emulators-for-3ds-for-2024/"><u>Nostalgic Compassion Preferred Android Emulators for 3DS for 2024</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/paid-maintenance-microsoft-plans-to-introduce-fees-for-windows-11-update-subscriptions-from-next-year-estimated-costs/"><u>Paid Maintenance: Microsoft Plans To Introduce Fees For Windows 11 Update Subscriptions From Next Year - Estimated Costs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionize-your-thesis-work-with-these-4-key-advantages-of-using-ai-technologies/"><u>Revolutionize Your Thesis Work with These 4 Key Advantages of Using AI Technologies</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/why-participate-in-microsofts-windows-insider-beta-a-guide-to-joining-and-advantages-techradar/"><u>Why Participate in Microsoft's Windows Insider Beta? A Guide to Joining & Advantages - TechRadar</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-audit-your-channels-financial-success/"><u>[New] 2024 Approved Audit Your Channel's Financial Success</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-key-steps-to-screen-record-on-your-phone/"><u>[New] 2024 Approved Key Steps to Screen Record on Your Phone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-proven-strategies-for-effective-phone-note-taking/"><u>[New] Proven Strategies for Effective Phone Note-Taking</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-top-viewership-archive-youtube-visionaries/"><u>[Updated] Top Viewership Archive YouTube Visionaries</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/activate-your-apowerrec-vip-account-with-simple-steps-for-both-pc-and-mac-users/"><u>Activate Your ApowerREC VIP Account with Simple Steps for Both PC & Mac Users</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/easy-guide-transforming-audio-files-from-m4b-to-mp3-format/"><u>Easy Guide: Transforming Audio Files From M4B to MP3 Format</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/easy-tutorials-for-producing-swift-videos-on-desktop-and-mobile-devices/"><u>Easy Tutorials for Producing Swift Videos on Desktop and Mobile Devices</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ensure-continuous-computing-expert-strategies-to-prevent-pc-disruptions-and-crashes-in-2hemore/"><u>Ensure Continuous Computing: Expert Strategies to Prevent PC Disruptions & Crashes in 2Hemore</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1723011785106-football-manager-2019-stalling-discover-effective-solutions-now/"><u>Football Manager 2019 Stalling? Discover Effective Solutions Now</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/free-solutions-capturing-your-macs-display-using-top-rated-screenshot-tools/"><u>Free Solutions: Capturing Your Mac's Display Using Top-Rated Screenshot Tools</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/get-started-with-online-publishing-for-flipbook-creations-simple-steps-to-share-via-email-or-web/"><u>Get Started with Online Publishing for FlipBook Creations – Simple Steps to Share via Email or Web!</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/guide-effortless-steps-to-move-your-ibook-library-from-ios-to-windows-without-using-itunes/"><u>Guide: Effortless Steps to Move Your iBook Library From iOS to Windows Without Using iTunes</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-atandt-iphone-6s-with-3-methods-by-drfone-ios/"><u>How to Unlock AT&T iPhone 6s with 3 Methods</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y27s-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y27s to Outlook | Dr.fone</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/incredible-techniques-turning-static-pictures-into-engaging-videos/"><u>Incredible Techniques: Turning Static Pictures Into Engaging Videos</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/mastering-the-essentials-in-depth-insights-into-the-aac-and-h264-encoded-m4a-format/"><u>Mastering the Essentials: In-Depth Insights Into the AAC and H.264 Encoded M4A Format</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/ultimate-guide-top-substitutes-for-bandicam-on-computers-and-apple-devices/"><u>Ultimate Guide: Top Substitutes for Bandicam on Computers and Apple Devices</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/uncover-and-rescue-gone-footage-the-ultimate-guide-to-samsung-phone-video-recovery/"><u>Uncover and Rescue Gone Footage: The Ultimate Guide to Samsung Phone Video Recovery</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-honor-x8b-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Honor X8b Device</u></a></li>
 </ul></div>
 
