@@ -1,7 +1,7 @@
 ---
 title: A Comprehensive Review of Microsoft's October Surface Event Revelations | GadgetPundit
-date: 2024-10-01T19:07:57.586Z
-updated: 2024-10-05T17:12:42.674Z
+date: 2024-10-09T19:48:42.671Z
+updated: 2024-10-11T03:09:10.841Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,6 +96,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,16 +137,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -147,13 +148,6 @@ I'd only go with an ESU, myself, if I _really_ had no other choice.
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -202,22 +196,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/updated-conquer-video-quality-with-best-3-transcoder-methods-for-zoom/"><u>[Updated] Conquer Video Quality with Best 3 Transcoder Methods for Zoom</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-youtubes-golden-rule-for-profit-partnership/"><u>[Updated] YouTube's Golden Rule for Profit Partnership</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-precision-capture-with-videoleaps-zoom-feature/"><u>2024 Approved Precision Capture with Videoleap's Zoom Feature</u></a></li>
-<li><a href="https://video-capture.techidaily.com/6-innovative-mc-survival-homes/"><u>6 Innovative MC Survival Homes</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/comprehensive-tutorial-effortlessly-access-pdf-documents-using-apowerpdf/"><u>Comprehensive Tutorial: Effortlessly Access PDF Documents Using ApowerPDF</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/easy-guide-transforming-audio-files-from-m4b-to-mp3-format/"><u>Easy Guide: Transforming Audio Files From M4B to MP3 Format</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/effortlessly-isolate-and-save-audio-from-your-zoom-meetings-a-three-step-guide/"><u>Effortlessly Isolate and Save Audio From Your Zoom Meetings: A Three-Step Guide</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/guide-effortless-steps-to-move-your-ibook-library-from-ios-to-windows-without-using-itunes/"><u>Guide: Effortless Steps to Move Your iBook Library From iOS to Windows Without Using iTunes</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-huawei-nova-y71-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Huawei Nova Y71 Contacts An Easy Method Explained.</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/mastering-the-essentials-in-depth-insights-into-the-aac-and-h264-encoded-m4a-format/"><u>Mastering the Essentials: In-Depth Insights Into the AAC and H.264 Encoded M4A Format</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/optimizing-your-android-device-moving-apps-to-an-sd-card-instructions/"><u>Optimizing Your Android Device: Moving Apps to an SD Card Instructions</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/seamless-iphone-to-pc-video-casting-the-ultimate-guide/"><u>Seamless iPhone-to-PC Video Casting: The Ultimate Guide</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/step-by-step-guide-transforming-flac-audio-files-into-high-quality-wav-format/"><u>Step-by-Step Guide: Transforming FLAC Audio Files Into High-Quality WAV Format</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/top-ranked-pdf-printing-solutions-for-mac-users-in-2020/"><u>Top-Ranked PDF Printing Solutions for Mac Users in 2020</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/transformez-vos-fichiers-video-3gp-en-haute-definition-mjpeg-en-ligne-convertisseur-video-facile-a-lutilisation-movavi/"><u>Transformez Vos Fichiers Vidéo 3GP en Haute Définition MJPEG en Ligne - Convertisseur Vidéo Facile À L'utilisation - Movavi</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshoot-like-a-pro-end-fifa-21-gameplay-interruptions-and-pc-crashes/"><u>Troubleshoot Like a Pro: End FIFA 21 Gameplay Interruptions & PC Crashes</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/uncovering-the-potential-of-lenovos-ideapad-130s-compact-power-meets-ease-of-use/"><u>Uncovering the Potential of Lenovo's IdeaPad 130S: Compact Power Meets Ease-of-Use</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-securely-save-your-windows-8-screenshots/"><u>[New] 2024 Approved Securely Save Your Windows 8 Screenshots</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-best-android-experience-with-rich-3d-content-for-2024/"><u>[New] Best Android Experience with Rich 3D Content for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/rmvb2024rmvb/"><u>了解 RMVB格式：我们在2024年推荐哪款RMVB盒子</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/freelancing-edge-6-innovative-ways-to-utilize-chatgpt/"><u>Freelancing Edge: 6 Innovative Ways to Utilize ChatGPT</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-get-excel-data-displayed-in-notepad/"><u>How To Get Excel Data Displayed in Notepad</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/how-to-make-a-slideshow-with-music-for-2024/"><u>How to Make a Slideshow with Music for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-nokia-c12-plus-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Nokia C12 Plus? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/lg-k92-smartphone-reviewed-the-impact-of-5g-on-its-value-proposition/"><u>LG K92 Smartphone Reviewed: The Impact of 5G on Its Value Proposition</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/merging-various-pictures-into-one-image-display-on-your-site-using-flipbuilder/"><u>Merging Various Pictures Into One Image Display on Your Site Using FlipBuilder</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/optimizing-your-documents-with-flipbuilder-the-ultimate-tutorial-for-using-page-references/"><u>Optimizing Your Documents with FlipBuilder: The Ultimate Tutorial for Using Page References</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/optimizing-your-flipbook-creation-for-seamless-mobile-experience-tips-and-tricks/"><u>Optimizing Your FlipBook Creation for Seamless Mobile Experience: Tips & Tricks</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/promoting-download-and-printing-techniques-for-boosting-user-engagement-with-your-flipbooks-at-flipbuildercom/"><u>Promoting Download and Printing: Techniques for Boosting User Engagement with Your Flipbooks at FlipBuilder.com</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/resolving-playback-issues-with-iis-servers-a-comprehensive-guide-to-fixing-your-videos-at-flipbuildercom/"><u>Resolving Playback Issues with IIS Servers: A Comprehensive Guide to Fixing Your Videos at FlipBuilder.com</u></a></li>
 </ul></div>
 

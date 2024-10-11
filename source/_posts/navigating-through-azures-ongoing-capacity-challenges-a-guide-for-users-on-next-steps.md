@@ -1,7 +1,7 @@
 ---
 title: "Navigating Through Azure's Ongoing Capacity Challenges: A Guide for Users on Next Steps"
-date: 2024-09-30T19:11:06.524Z
-updated: 2024-10-05T18:57:34.874Z
+date: 2024-10-07T05:55:19.043Z
+updated: 2024-10-11T12:19:04.439Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +75,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,10 +104,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,10 +143,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -145,13 +158,6 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,24 +202,21 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-hidden-videos-no-more-discover-these-12-efficient-methods-for-visible-vids-on-fb-for-2024/"><u>[New] Hidden Videos No More Discover These 12 Efficient Methods for Visible Vids on FB for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-hitting-high-notes-enhance-your-youtube-content-with-music-edits-for-2024/"><u>[New] Hitting High Notes Enhance Your YouTube Content with Music Edits for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-dealing-with-mistakes-self-representation-during-online-chats/"><u>[New] In 2024, Dealing with Mistakes Self-Representation During Online Chats</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-get-started-on-vimeo-for-free-the-basics-of-video-editing/"><u>[Updated] In 2024, Get Started on Vimeo for Free The Basics of Video Editing</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-simple-routines-for-saving-instagram-stories-efficiently/"><u>[Updated] In 2024, Simple Routines for Saving Instagram Stories Efficiently</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-navigating-through-the-premier-10-image-stock-websites-for-2024/"><u>[Updated] Navigating Through the Premier 10 Image Stock Websites for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-vivo-v27-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Vivo V27 | Dr.fone</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/activate-your-apowerrec-vip-account-with-simple-steps-for-both-pc-and-mac-users/"><u>Activate Your ApowerREC VIP Account with Simple Steps for Both PC & Mac Users</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/advanced-nuxt-pro-dashboard-with-argon-theme-enhanced-laravel-integration-by-creative-tim/"><u>Advanced Nuxt Pro Dashboard with Argon Theme - Enhanced Laravel Integration by Creative Tim</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/commanders-canvas-painting-victory-in-the-top-7-total-wars/"><u>Commanders' Canvas Painting Victory in the Top 7 Total Wars</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/comprehensive-walkthrough-for-beginners-getting-started-with-pc-auto-chess-gameplay/"><u>Comprehensive Walkthrough for Beginners: Getting Started with PC Auto Chess Gameplay</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/creative-tims-advanced-react-native-framework-softui-premium-edition-for-top-tier-app-creation/"><u>Creative Tim's Advanced React Native Framework - SoftUI Premium Edition for Top-Tier App Creation</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/free-solutions-capturing-your-macs-display-using-top-rated-screenshot-tools/"><u>Free Solutions: Capturing Your Mac's Display Using Top-Rated Screenshot Tools</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-realme-narzo-60x-5g-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Realme Narzo 60x 5G using Video Repair Utility on Windows?</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/incredible-techniques-turning-static-pictures-into-engaging-videos/"><u>Incredible Techniques: Turning Static Pictures Into Engaging Videos</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/mastering-text-overlays-on-video-content-a-comprehensive-tutorial/"><u>Mastering Text Overlays on Video Content: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-infinix-zero-30-5g-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Infinix Zero 30 5G Device</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/ultimate-guide-top-substitutes-for-bandicam-on-computers-and-apple-devices/"><u>Ultimate Guide: Top Substitutes for Bandicam on Computers and Apple Devices</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/uncover-and-rescue-gone-footage-the-ultimate-guide-to-samsung-phone-video-recovery/"><u>Uncover and Rescue Gone Footage: The Ultimate Guide to Samsung Phone Video Recovery</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-unveiling-igtv-your-ultimate-tutorial/"><u>[New] 2024 Approved Unveiling IGTV Your Ultimate Tutorial</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-the-global-communicators-essential-list-of-top-36-platforms-for-video-conversion/"><u>[Updated] In 2024, The Global Communicator’s Essential List of Top 36 Platforms for Video Conversion</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/capture-the-world-from-your-mobile-height-for-2024/"><u>Capture the World From Your Mobile Height for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/climbing-the-viewership-ladder-with-igtv-strategies-to-succeed/"><u>Climbing the Viewership Ladder with IGTV Strategies to Succeed</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/complete-guide-to-transferring-lastfm-music-tracks-as-mp3-or-wav-files-on-pc-and-mac/"><u>Complete Guide to Transferring Last.fm Music Tracks as MP3 or WAV Files on PC & Mac</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/convert-and-download-brooks-trading-course-lectures-in-multiple-formats-mp4-mov-avi/"><u>Convert and Download Brooks Trading Course Lectures in Multiple Formats (MP4, MOV, AVI)</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/convert-flashxtv-videos-to-popular-formats-easy-guide-to-downloading-as-mp4-or-avi/"><u>Convert FlashX.TV Videos to Popular Formats: Easy Guide to Downloading as MP4 or AVI</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/convert-your-askfm-videos-into-multiple-formats-mp4-wmv-avi-flv-and-mov-for-pc-and-mac/"><u>Convert Your Ask.fm Videos Into Multiple Formats: MP4, WMV, AVI, FLV & MOV for PC and Mac</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/discover-the-leading-edtech-sites-comparable-to-udemy-our-picks-for-the-best-online-courses/"><u>Discover the Leading EdTech Sites Comparable to Udemy: Our Picks for the Best Online Courses</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/download-and-convert-educational-videography-sitepoint-media-in-mp4avi-format-for-easy-viewing/"><u>Download & Convert Educational Videography - SitePoint Media in MP4/AVI Format for Easy Viewing</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/download-child-friendly-films-in-mp4movavi-formats-with-kid-movie-downloader/"><u>Download Child-Friendly Films in MP4/MOV/AVI Formats with Kid Movie Downloader!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-steps-for-perfect-pairing-hook-up-any-computer-and-bluetooth-speaker-together/"><u>Easy Steps for Perfect Pairing: Hook Up Any Computer and Bluetooth Speaker Together</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/enhance-your-chat-with-direct-spotify-streaming-in-discord/"><u>Enhance Your Chat with Direct Spotify Streaming in Discord</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/restore-game-sounds-overcoming-no-audio-challenge-in-evil-genius-2/"><u>Restore Game Sounds: Overcoming 'No Audio' Challenge in Evil Genius 2</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/troubleshooting-steps-for-resolving-chatgpt-and-plugin-service-connection-problem/"><u>Troubleshooting Steps for Resolving 'ChatGPT and Plugin Service' Connection Problem</u></a></li>
 </ul></div>
 

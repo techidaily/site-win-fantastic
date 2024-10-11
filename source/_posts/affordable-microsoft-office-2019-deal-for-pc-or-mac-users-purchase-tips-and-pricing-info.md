@@ -1,7 +1,7 @@
 ---
 title: Affordable Microsoft Office 2019 Deal for PC or Mac Users – Purchase Tips & Pricing Info
-date: 2024-10-01T16:31:26.546Z
-updated: 2024-10-05T18:45:15.433Z
+date: 2024-10-09T10:09:13.944Z
+updated: 2024-10-11T06:10:04.238Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -64,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -91,10 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,35 +136,22 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,24 +196,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-a-comprehensive-guide-to-crop-your-video-for-instagram-for-2024/"><u>[Updated] A Comprehensive Guide to Crop Your Video for Instagram for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-cutting-edge-video-edits-without-spending-navigate-through-the-8-tools-for-2024/"><u>[Updated] Cutting-Edge Video Edits Without Spending Navigate Through The 8 Tools for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-comprehensive-understanding-leveraging-adobe-cloud-and-finding-alternatives/"><u>2024 Approved Comprehensive Understanding Leveraging Adobe Cloud and Finding Alternatives</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-lava-blaze-2-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Lava Blaze 2 Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/easy-methods-for-transforming-mov-video-clips-into-highly-playable-avi-files/"><u>Easy Methods for Transforming MOV Video Clips Into Highly Playable AVI Files</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/guide-successfully-shifting-files-and-contacts-from-samsung-phones-to-the-latest-iphone-xs-model/"><u>Guide: Successfully Shifting Files and Contacts From Samsung Phones to the Latest iPhone XS Model</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/icloud-password-recovery-tools-top-software-solutions-for-ios-devices/"><u>ICloud Password Recovery Tools: Top Software Solutions for iOS Devices</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-a-guide-to-crafting-impactful-handp-ads-on-facebook/"><u>In 2024, A Guide to Crafting Impactful H&P Ads on Facebook</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-xiaomi-redmi-12-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Xiaomi Redmi 12 5G to New Phone | Dr.fone</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/mastering-m4vmp4-the-complete-compendium-on-multimedia-container-formats/"><u>Mastering M4V/MP4: The Complete Compendium on Multimedia Container Formats</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/mastering-pdf-data-extraction-three-effective-methods-revealed/"><u>Mastering PDF Data Extraction: Three Effective Methods Revealed</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/mastering-the-basics-of-apowersoft-screen-capture-pro-a-step-by-step-guide/"><u>Mastering the Basics of Apowersoft Screen Capture Pro: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/pc-gaming-essentials-learn-how-to-excel-at-marvel-super-war-online/"><u>PC Gaming Essentials: Learn How to Excel at Marvel Super War Online</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/simple-methods-for-transforming-videos-into-format-compatible-with-your-samsung-galaxy-s5/"><u>Simple Methods for Transforming Videos Into Format Compatible with Your Samsung Galaxy S5</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/smooth-screencast-solutions-top-software-selections-to-capture-video-without-latency/"><u>Smooth Screencast Solutions: Top Software Selections to Capture Video Without Latency</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-xiaomi-redmi-note-12t-pro-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Xiaomi Redmi Note 12T Pro Phone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-hdmi-problems-caused-by-conflicting-application-usage/"><u>Troubleshooting HDMI Problems Caused by Conflicting Application Usage</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-dealing-with-non-receiving-calls-on-iphones/"><u>Troubleshooting: Dealing with Non-Receiving Calls on iPhones</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-sony-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Sony Users</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-10-ultimate-webcam-reviews-for-informed-buyers-for-2024/"><u>[New] 10 Ultimate Webcam Reviews for Informed Buyers for 2024</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/1-customizing-your-flipbook-how-to-insert-personal-branding-with-logos-on-flipbuilder/"><u>1) Customizing Your FlipBook: How to Insert Personal Branding with Logos on FlipBuilder</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-screening-success-10-movies-that-energize-and-empower/"><u>2024 Approved Screening Success 10 Movies That Energize & Empower</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/convenient-alias-adjustment-in-google-meet-devices-for-2024/"><u>Convenient Alias Adjustment in Google Meet Devices for 2024</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/create-beautiful-interactive-e-books-from-pdfs-craft-engaging-multi-page-presentations-with-diverse-templates-flipbuildercom/"><u>Create Beautiful Interactive E-Books From PDFs: Craft Engaging Multi-Page Presentations with Diverse Templates [FlipBuilder.com]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-restoring-health-to-damaged-files-on-windows-11-devices/"><u>Expert Tips for Restoring Health to Damaged Files on Windows 11 Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-hp-image-transfer-app-for-windows-systems/"><u>Get the Latest HP Image Transfer App for Windows Systems</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-poco-x6-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Poco X6 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-blurry-or-pixellated-videos-on-vlc-a-step-by-step-guide/"><u>How to Fix Blurry or Pixellated Videos on VLC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/step-by-step-guide-to-embedding-a-company-logo-in-flipbook-backgrounds-using-flipbuilder/"><u>Step-by-Step Guide to Embedding a Company Logo in Flipbook Backgrounds Using FlipBuilder</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/step-by-step-guide-adding-flash-adverts-in-ebooks-using-flipbuilder-tools/"><u>Step-by-Step Guide: Adding Flash Adverts in Ebooks Using FlipBuilder Tools</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/transform-your-pdf-documents-into-interactive-flipbooks-with-custom-watermarks-on-flipbuilder/"><u>Transform Your PDF Documents Into Interactive Flipbooks with Custom Watermarks on FlipBuilder!</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-final-cut-pro-x-troubleshooting-handbook-quick-fixes-and-workarounds/"><u>Updated In 2024, Final Cut Pro X Troubleshooting Handbook Quick Fixes and Workarounds</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/updating-text-attributes-in-flipbook-changing-page-titles-and-font-settings-with-flipbuilder/"><u>Updating Text Attributes in FlipBook: Changing Page Titles and Font Settings with FlipBuilder</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/using-flipbuilder-via-command-line-interface-cli-feasibility-guide/"><u>Using FlipBuilder via Command Line Interface (CLI) – Feasibility Guide</u></a></li>
 </ul></div>
 

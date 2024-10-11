@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Fallout: Microsoft 365 Suffers During a Severe Distributed Denial-of-Service Incident Covered by ZDNET"
-date: 2024-09-30T16:29:54.902Z
-updated: 2024-10-05T21:17:00.863Z
+date: 2024-10-03T19:23:08.110Z
+updated: 2024-10-11T12:37:47.827Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -98,16 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -153,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,24 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-livestream-and-record-software-face-off-obs-vs-bandicam-for-2024/"><u>[New] Livestream & Record Software Face-Off OBS vs Bandicam for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-exploring-hps-vivid-spectrum-with-the-z32x-4k-monitor-for-2024/"><u>[Updated] Exploring HP's Vivid Spectrum with the Z32X 4K Monitor for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-harnessing-high-dynamic-range-the-future-of-photo-techniques/"><u>[Updated] Harnessing High Dynamic Range The Future of Photo Techniques</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-cashing-in-on-content-the-carminati-effect-ajay/"><u>[Updated] In 2024, Cashing In on Content The Carminati Effect (AJay)</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-choosing-faithful-hymns-download-and-modify-guide/"><u>[Updated] In 2024, Choosing Faithful Hymns Download and Modify Guide</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/comprehensive-kodi-resolveurl-module-setup-and-usage-manual/"><u>Comprehensive Kodi ResolveURL Module Setup & Usage Manual</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/create-beautiful-interactive-e-books-from-pdfs-craft-engaging-multi-page-presentations-with-diverse-templates-flipbuildercom/"><u>Create Beautiful Interactive E-Books From PDFs: Craft Engaging Multi-Page Presentations with Diverse Templates [FlipBuilder.com]</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/customizing-flipbook-buttons-a-guide-to-changing-icons-and-colors-with-flipbuilder/"><u>Customizing FlipBook Buttons: A Guide to Changing Icons & Colors with FlipBuilder</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/discover-crystal-clear-comfort-when-zooming-into-pages-made-simple-by-flipbuilder-start-at-flipbuildercom-now/"><u>Discover Crystal-Clear Comfort When Zooming Into Pages Made Simple by FlipBuilder – Start at flipbuilder.com Now!</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/effective-strategies-for-flipbook-security-mastering-protection-using-flipbuilder/"><u>Effective Strategies for Flipbook Security - Mastering Protection Using FlipBuilder</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/enhancing-broken-h264-videos/"><u>Enhancing Broken H.264 Videos</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-realme-c55-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Realme C55</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-sky-sprinting-guide-plus-mastering-the-art-of-fpv-drone-racing/"><u>In 2024, Sky Sprinting Guide + Mastering the Art of FPV Drone Racing</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/is-it-possible-to-create-and-share-digital-flipbooks-for-mobile-devices-via-flipbuilder/"><u>Is It Possible to Create and Share Digital Flipbooks for Mobile Devices via FlipBuilder?</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/is-it-possible-to-integrate-javascript-into-your-e-books-created-with-flipbuilders-platform/"><u>Is It Possible to Integrate JavaScript Into Your E-Books Created with FlipBuilder's Platform?</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/make-pdfs-interactive-and-viral-convert-to-flash-format-using-flipbuilders-powerful-online-editor/"><u>Make PDFs Interactive and Viral: Convert to Flash Format Using FlipBuilder's Powerful Online Editor!</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/mastering-diy-digital-publishing-unleash-your-creativity-with-flip-writers-user-friendly-page-turner-ebook-editor/"><u>Mastering DIY Digital Publishing: Unleash Your Creativity with Flip Writer's User-Friendly Page-Turner Ebook Editor.</u></a></li>
-<li><a href="https://some-tips.techidaily.com/1726223420134-movavi/"><u>Movavi: 다면적 소프트웨어 개발에 전문화되고 있는 경험이 풍부한 팀</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/opening-flipbook-links-on-flipbuilder-a-step-by-step-guide-to-viewing-in-separate-windows/"><u>Opening Flipbook Links on FlipBuilder: A Step-by-Step Guide to Viewing in Separate Windows</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-full-review-utilizing-googles-voice-recognition-in-word-processing/"><u>[New] Full Review Utilizing Google's Voice Recognition in Word Processing</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-harmonizing-tracks-in-youtube-music/"><u>[New] Harmonizing Tracks in YouTube Music</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-navigating-zooms-audio-recording-features-with-ease-for-2024/"><u>[New] Navigating ZOOM's Audio Recording Features with Ease for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-the-social-searchers-guide-fb-profiles-made-easy/"><u>[New] The Social Searcher's Guide FB Profiles Made Easy</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-streamline-your-income-youtubes-new-rules/"><u>[Updated] In 2024, Streamline Your Income YouTube's New Rules</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-twitters-space-best-practices-for-tiktok-videos/"><u>[Updated] In 2024, Twitter's Space Best Practices for TikTok Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/best-tech-to-preserve-classroom-interactions-for-2024/"><u>Best Tech to Preserve Classroom Interactions for 2024</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/critical-deadline-approaching-how-microsoft-is-racing-against-time-to-overcome-windows/"><u>Critical Deadline Approaching: How Microsoft Is Racing Against Time to Overcome Windows</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/declutter-your-inbox-effortlessly-learn-the-key-strategy-without-complicated-settings-zdnet/"><u>Declutter Your Inbox Effortlessly - Learn the Key Strategy without Complicated Settings | ZDNET</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/durable-brydge-sp-max-plus-coverage-an-ultimate-protective-keypad-enclosure-for-surface-pro-8-insights-and-analysis/"><u>Durable Brydge SP Max Plus Coverage: An Ultimate Protective Keypad Enclosure for Surface Pro 8 - Insights and Analysis</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/exclusive-microsofts-revolutionary-ai-chip-vs-apple-macbook-inside-look/"><u>Exclusive: Microsoft's Revolutionary AI Chip Vs. Apple MacBook - Inside Look</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/get-set-go-seamless-steps-to-harnessing-chatgpt-on-your-android-device/"><u>Get Set, Go! Seamless Steps to Harnessing ChatGPT on Your Android Device</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovating-without-constraints-top-gpt-utilities/"><u>Innovating Without Constraints: Top GPT Utilities</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/protecting-your-microsoft-identity-proven-techniques-to-shield-from-hackers-according-to-zdnet-experts/"><u>Protecting Your Microsoft Identity: Proven Techniques to Shield From Hackers, According to ZDNet Experts</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/smart-savings-without-compromising-quality-why-i-chose-the-most-affordable-microsoft-surface-pro-model-gadgetsforgeeks/"><u>Smart Savings without Compromising Quality: Why I Chose the Most Affordable Microsoft Surface Pro Model | GadgetsForGeeks</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-honor-magic-5-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Honor Magic 5 Phone</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/upcoming-change-alert-microsoft-introduces-fees-for-future-windows-11-update-installations-cost-breakdown/"><u>Upcoming Change Alert: Microsoft Introduces Fees for Future Windows 11 Update Installations - Cost Breakdown</u></a></li>
 </ul></div>
 

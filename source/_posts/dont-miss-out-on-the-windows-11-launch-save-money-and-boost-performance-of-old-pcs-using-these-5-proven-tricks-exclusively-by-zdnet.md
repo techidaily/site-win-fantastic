@@ -1,7 +1,7 @@
 ---
 title: "Don't Miss Out on the Windows 11 Launch: Save Money and Boost Performance of Old PCs Using These 5 Proven Tricks (Exclusively by ZDNet)"
-date: 2024-10-04T16:06:42.504Z
-updated: 2024-10-05T16:28:07.487Z
+date: 2024-10-04T00:20:07.003Z
+updated: 2024-10-11T02:44:11.751Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -96,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,34 +129,28 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,20 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-what-drives-imovies-crop-functionality/"><u>[New] 2024 Approved What Drives iMovie's Crop Functionality?</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-pixelperfect-screen-capture-software/"><u>[New] In 2024, PixelPerfect Screen Capture Software</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-the-pathway-to-professional-fb-reel-development/"><u>[Updated] 2024 Approved The Pathway to Professional FB Reel Development</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/discover-the-world-of-mirillis-insightful-business-company-summary/"><u>Discover the World of MirilliS – Insightful Business Company Summary</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/enhance-your-live-playthroughs-mastering-capture-quality-using-nvidias-nvenc-for-gamers-and-streamers/"><u>Enhance Your Live Playthroughs: Mastering Capture Quality Using NVIDIA's NVENC for Gamers and Streamers</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-11-proplus-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme 11 Pro+ to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/mastering-capture-battles-in-battlefield-3-a-comprehensive-recording-guide/"><u>Mastering Capture Battles in Battlefield 3: A Comprehensive Recording Guide</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/optimal-performance-guidelines-pre-setup-checklist-for-action-application/"><u>Optimal Performance Guidelines - Pre-Setup Checklist for Action Application</u></a></li>
-<li><a href="https://win-able.techidaily.com/solution-steps-for-overcoming-vrchat-loading-and-functionality-problems/"><u>Solution Steps for Overcoming VRChat Loading and Functionality Problems</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/step-by-step-tutorial-on-downloading-and-converting-drakes-so-far-gone-album-in-various-audio-types-such-as-mp3-aac-wav/"><u>Step-by-Step Tutorial on Downloading & Converting Drake's 'So Far Gone' Album in Various Audio Types Such as MP3, AAC, WAV</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-no-fuss-podcast-streaming-handbook/"><u>The No-Fuss Podcast Streaming Handbook</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/transforming-money-mastery-courses-seamless-mp4-and-avi-conversion-for-windows-and-macos-users/"><u>Transforming Money Mastery Courses: Seamless MP4 and AVI Conversion for Windows and macOS Users</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/ultimate-guide-converting-your-studioveena-pole-dancing-tutorials-into-high-quality-mp4-format/"><u>Ultimate Guide: Converting Your StudioVeena Pole Dancing Tutorials Into High-Quality MP4 Format</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/unlocking-ppts-potential-with-voiceover-techniques-for-2024/"><u>Unlocking PPT's Potential with Voiceover Techniques for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ogv/"><u>자동 OGV 영상을 무료 원위 프리커스로 변환하는 방법</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-a-filmmakers-guide-to-mastering-green-screen-technology/"><u>[New] 2024 Approved A Filmmaker's Guide to Mastering Green Screen Technology</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-top-10-video-screenshot-tools-reviewed/"><u>[New] Top 10 Video Screenshot Tools Reviewed</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-crack-your-smile-with-these-laughing-and-tearful-ig-meme-pages/"><u>[Updated] In 2024, Crack Your Smile with These Laughing & Tearful IG Meme Pages</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-a-step-by-step-guide-how-to-record-save-and-share-youtube-video-for-no-cost/"><u>2024 Approved A Step-by-Step Guide How To Record, Save & Share YouTube Video for No Cost</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/easy-methods-for-transforming-mov-video-clips-into-highly-playable-avi-files/"><u>Easy Methods for Transforming MOV Video Clips Into Highly Playable AVI Files</u></a></li>
+<li><a href="https://driver-install.techidaily.com/elevate-computing-install-amds-cryptocurrency-drivers/"><u>Elevate Computing: Install AMD's Cryptocurrency Drivers</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/guide-successfully-shifting-files-and-contacts-from-samsung-phones-to-the-latest-iphone-xs-model/"><u>Guide: Successfully Shifting Files and Contacts From Samsung Phones to the Latest iPhone XS Model</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/icloud-password-recovery-tools-top-software-solutions-for-ios-devices/"><u>ICloud Password Recovery Tools: Top Software Solutions for iOS Devices</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-realme-narzo-60x-5g-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-tips-for-smooth-transitioning-from-zoom-to-fb-live-events/"><u>In 2024, Tips for Smooth Transitioning From ZOOM to FB Live Events</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-motorola-moto-g14-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Motorola Moto G14</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/mastering-m4vmp4-the-complete-compendium-on-multimedia-container-formats/"><u>Mastering M4V/MP4: The Complete Compendium on Multimedia Container Formats</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/mastering-pdf-data-extraction-three-effective-methods-revealed/"><u>Mastering PDF Data Extraction: Three Effective Methods Revealed</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/mastering-the-basics-of-apowersoft-screen-capture-pro-a-step-by-step-guide/"><u>Mastering the Basics of Apowersoft Screen Capture Pro: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/optimal-networking-solutions-increase-ports-and-improve-bandwidth-for-faster-speeds/"><u>Optimal Networking Solutions: Increase Ports & Improve Bandwidth for Faster Speeds</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/pc-gaming-essentials-learn-how-to-excel-at-marvel-super-war-online/"><u>PC Gaming Essentials: Learn How to Excel at Marvel Super War Online</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/simple-methods-for-transforming-videos-into-format-compatible-with-your-samsung-galaxy-s5/"><u>Simple Methods for Transforming Videos Into Format Compatible with Your Samsung Galaxy S5</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/smooth-screencast-solutions-top-software-selections-to-capture-video-without-latency/"><u>Smooth Screencast Solutions: Top Software Selections to Capture Video Without Latency</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/top-10-beliebteste-video-konvertierungsprogramme-fur-windows-11-sichere-und-schnelle-optionen/"><u>Top 10 Beliebteste Video-Konvertierungsprogramme Für Windows 11: Sichere Und Schnelle Optionen</u></a></li>
 </ul></div>
 

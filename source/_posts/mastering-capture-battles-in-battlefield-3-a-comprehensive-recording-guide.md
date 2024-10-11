@@ -1,7 +1,7 @@
 ---
 title: "Mastering Capture Battles in Battlefield 3: A Comprehensive Recording Guide"
-date: 2024-10-03T18:23:42.235Z
-updated: 2024-10-05T22:23:54.265Z
+date: 2024-10-03T20:04:57.984Z
+updated: 2024-10-10T23:09:51.409Z
 tags:
   - product
 categories:
@@ -47,16 +47,10 @@ Action Tutorials
  Share this tutorial:
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Introduction 
@@ -66,6 +60,13 @@ Action Tutorials
  Action! provides **"Games & applications"** recording mode dedicated to capture gameplay with the ultimate performance and quality. Games and Applications recording mode is dedicated to capture videos from all **DirectX 8/9/10/11/12** and **OpenGL** games and applications. 
 
  Follow this tutorial to learn how to use "Games & applications" recording mode to record your Battlefield 3 gameplay.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Games and Applications recording mode
 
@@ -99,21 +100,7 @@ Action Tutorials
 
 ![Mirillis Action! - paused Battlefield 3 recording](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_HUD_battlefield3_recording_paused_status.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To resume Battlefield recording use   **Ctrl+F9** hotkey again. 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Battlefield 3 gameplay recordings playback
 
@@ -121,16 +108,16 @@ Action Tutorials
 
 ![Mirillis Action! - Battlefield 3 recording](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_game_recording_thumbnail_battlefield3.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Action! includes internal fast player dedicated for video recordings playback. Select your new Battlefield 3 gameplay recording and use mouse double click on a thumbnail to start gameplay recording playback.
 
 ![Mirillis Action! - gameplay recording playback with Action! player](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_game_recording_playback_battlefield3.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Action! HUD on Battlefield 3 gameplay recordings
 
@@ -139,17 +126,10 @@ Action Tutorials
 ![Mirillis Action! - Settings - Do not record HUD in games and applications](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_HUD_settings_do_not_record_in_games.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Upload Battlefield 3 gameplay recordings to YouTube
@@ -159,10 +139,10 @@ Action Tutorials
 ![Mirillis Action! - Export Battlefield 3 recording to YouTube](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_game_recording_upload_to_youtube.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Add webcam to Battlefield 3 gameplay recordings
@@ -171,11 +151,25 @@ Action Tutorials
 
 ![Mirillis Action! - Add webcam to Battlefield 3 gameplay recordings](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_game_recording_webcam_battlefield3.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Add your logo to Battlefield 3 gameplay recordings
 
  To add your own logo or any other graphics to Battlefield 3 gameplay recording open main Video capture tab and make sure to enable **"Overlay graphics"** option. Select your graphics input file, set position, run Battlefield 3 and start recording to make gameplay recording with your own logo/graphics!
 
 ![Mirillis Action! - Add logo to Battlefield 3 gameplay recordings](https://mirillis.com/res/old/gfx/tutorials/games/mirillis_action_games_overlay_graphics_settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -192,20 +186,22 @@ Action Tutorials
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-fantastic.techidaily.com/flipbuildercom-design-engaging-booklet-style-brochures-using-powerpoint-slides/"><u>[FlipBuilder.com]: Design Engaging Booklet-Style Brochures Using PowerPoint Slides</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-windows-best-facsimile-software-for-ps3-games/"><u>2024 Approved Windows' Best Facsimile Software for PS3 Games</u></a></li>
-<li><a href="https://program-issues.techidaily.com/continuous-audio-non-responsive-videos-on-youtube-heres-how-to-rectify-this-error-with-chrome-or-firefox/"><u>Continuous Audio, Non-Responsive Videos on YouTube? Here's How to Rectify This Error with Chrome or Firefox</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-tailored-preferences-panel-not-working/"><u>Fix: Tailored Preferences Panel Not Working</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/how-to-customize-flipbooks-page-background-a-guide-to-personalizing-your-content-on-flipbuilder/"><u>How to Customize Flipbook's Page Background: A Guide to Personalizing Your Content on FlipBuilder</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/how-to-duplicate-media-elements-on-your-webpage-using-flipbuilder-a-step-by-step-guide/"><u>How to Duplicate Media Elements on Your Webpage Using FlipBuilder - A Step-by-Step Guide</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-learn-to-record-mi-11s-display-effortlessly/"><u>In 2024, Learn to Record Mi 11'S Display Effortlessly</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-premium-audio-playwright-craftsmanship/"><u>In 2024, Premium Audio Playwright Craftsmanship</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-ultimate-filter-guide-to-superior-zoom-quality/"><u>In 2024, The Ultimate Filter Guide to Superior Zoom Quality</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/is-it-possible-to-create-an-editable-ebook-from-office-files-featuring-a-table-of-contents-on-flipbuilder/"><u>Is It Possible to Create an Editable Ebook From Office Files Featuring a Table of Contents on FlipBuilder?</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/mailing-your-creations-a-step-by-step-guide-to-distributing-ebooks-via-email-with-flipbuilder/"><u>Mailing Your Creations: A Step-by-Step Guide to Distributing eBooks via Email with FlipBuilder</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/maximize-e-book-engagement-with-simple-social-share-settings-on-flipbuilder-platform/"><u>Maximize E-Book Engagement with Simple Social Share Settings on FlipBuilder Platform</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/merging-various-pictures-into-one-image-display-on-your-site-using-flipbuilder/"><u>Merging Various Pictures Into One Image Display on Your Site Using FlipBuilder</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Apple iPhone 8 | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-art-of-undetected-supports-on-fb/"><u>The Art of Undetected Supports on FB</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ifting-through-mr-beasts-bank-statements-for-2024/"><u>[New] Sifting Through Mr. Beast's Bank Statements for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-spectral-sync-solutions/"><u>[Updated] Spectral Sync Solutions</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-whats-the-difference-between-360-video-and-vr-video-for-2024/"><u>[Updated] What's the Difference Between 360° Video and VR Video for 2024</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/advanced-ai-powered-music-creation-with-copilot-enhancements-whats-new-on-zdnet/"><u>Advanced AI-Powered Music Creation with Copilot Enhancements - What's New on ZDNet</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/customizing-mac-command-keys-a-comprehensive-walkthrough-for-seo-optimization/"><u>Customizing Mac Command Keys: A Comprehensive Walkthrough for SEO Optimization</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ease-your-anxiety-naturally-with-help-from-chatgpt-technology/"><u>Ease Your Anxiety Naturally with Help From ChatGPT Technology</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/elevate-your-gaming-experience-an-in-depth-review-of-the-havit-five-fan-laptop-cooling-pad/"><u>Elevate Your Gaming Experience: An In-Depth Review of the HAVIT Five-Fan Laptop Cooling Pad</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/enhance-your-live-playthroughs-mastering-capture-quality-using-nvidias-nvenc-for-gamers-and-streamers/"><u>Enhance Your Live Playthroughs: Mastering Capture Quality Using NVIDIA's NVENC for Gamers and Streamers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-epson-wf-2630-driver-download-updated-software-for-windows-os-versions/"><u>Free Epson WF 2630 Driver Download: Updated Software for Windows OS Versions</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/guide-how-to-clean-up-and-eliminate-bloatware-on-your-new-windows-11-pc-expert-advice/"><u>Guide: How to Clean Up and Eliminate Bloatware on Your New Windows 11 PC - Expert Advice</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/navigating-through-azures-ongoing-capacity-challenges-a-guide-for-users-on-next-steps/"><u>Navigating Through Azure's Ongoing Capacity Challenges: A Guide for Users on Next Steps</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/optimal-performance-guidelines-pre-setup-checklist-for-action-application/"><u>Optimal Performance Guidelines - Pre-Setup Checklist for Action Application</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-lava-blaze-2-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Lava Blaze 2 Phone Now with These Tips</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/pay-per-view-microsoft-announces-fees-for-future-windows-11-enhancements-starting-2024-detailed-pricing-guide/"><u>Pay-Per-View: Microsoft Announces Fees for Future Windows 11 Enhancements Starting 2024 - Detailed Pricing Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/srt-simplified-a-practical-manual-for-xmlssattml-transformation-for-2024/"><u>SRT Simplified A Practical Manual for XML/SSA/TTML Transformation for 2024</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/step-by-step-tutorial-how-to-clean-up-and-disable-preinstalled-software-in-windows-11/"><u>Step-by-Step Tutorial: How to Clean Up and Disable Preinstalled Software in Windows 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Change Alert: Microsoft Introduces Fees for Future Windows 11 Update Installations - Cost Breakdown"
-date: 2024-10-01T21:14:18.350Z
-updated: 2024-10-05T18:47:34.373Z
+date: 2024-10-06T16:47:07.946Z
+updated: 2024-10-11T00:33:58.978Z
 tags:
   - microsoft
 categories:
@@ -54,16 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -75,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -136,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -148,15 +135,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,16 +196,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-google-collage-made-fast-and-easy-essential-tips-unveiled/"><u>[New] Google Collage Made Fast & Easy - Essential Tips Unveiled</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-sound-recording-with-studio-mac-guide/"><u>[Updated] Sound Recording with Studio Mac Guide</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-master-the-craft-streamlining-your-online-television-recordings/"><u>2024 Approved Master the Craft Streamlining Your Online Television Recordings</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/allavsoft-the-ultimate-solution-as-an-idm-substitute-for-mac-and-pc-users-looking-for-speedier-downloads/"><u>Allavsoft: The Ultimate Solution as an IDM Substitute for Mac & PC Users Looking for Speedier Downloads</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/complete-guide-to-transferring-lastfm-music-tracks-as-mp3-or-wav-files-on-pc-and-mac/"><u>Complete Guide to Transferring Last.fm Music Tracks as MP3 or WAV Files on PC & Mac</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/convert-and-download-brooks-trading-course-lectures-in-multiple-formats-mp4-mov-avi/"><u>Convert and Download Brooks Trading Course Lectures in Multiple Formats (MP4, MOV, AVI)</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/convert-flashxtv-videos-to-popular-formats-easy-guide-to-downloading-as-mp4-or-avi/"><u>Convert FlashX.TV Videos to Popular Formats: Easy Guide to Downloading as MP4 or AVI</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/convert-your-askfm-videos-into-multiple-formats-mp4-wmv-avi-flv-and-mov-for-pc-and-mac/"><u>Convert Your Ask.fm Videos Into Multiple Formats: MP4, WMV, AVI, FLV & MOV for PC and Mac</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/how-to-access-the-freshest-films-for-free-on-iphone-models-xs-xs-max-and-xr-a-guide-with-three-tips/"><u>How to Access the Freshest Films for Free on iPhone Models XS, XS Max & XR: A Guide with Three Tips</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-ispoofer-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Samsung Galaxy A34 5G? | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unleash-potential-our-picks-for-the-most-inspiring-films/"><u>In 2024, Unleash Potential Our Picks for the Most Inspiring Films</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-engage-inspire-convert-strategizing-for-impactful-instavideo-content/"><u>[New] Engage, Inspire, Convert Strategizing for Impactful InstaVideo Content</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-mastering-panoramic-videos-on-iphone-perfect-for-facebook/"><u>[New] Mastering Panoramic Videos on iPhone, Perfect for Facebook</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-perfecting-your-audio-presence-in-video-creations/"><u>[Updated] Perfecting Your Audio Presence in Video Creations</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/a-comprehensive-review-of-microsofts-october-surface-event-revelations-gadgetpundit/"><u>A Comprehensive Review of Microsoft's October Surface Event Revelations | GadgetPundit</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/affordable-microsoft-office-2019-deal-for-pc-or-mac-users-purchase-tips-and-pricing-info/"><u>Affordable Microsoft Office 2019 Deal for PC or Mac Users – Purchase Tips & Pricing Info</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/deciding-between-top-productivity-tools-a-side-by-side-comparison-of-microsoft-to-do-and-google-tasks-for-efficient-list-management-expert-analysis-from-zdn125/"><u>Deciding Between Top Productivity Tools: A Side-by-Side Comparison of Microsoft To Do and Google Tasks for Efficient List Management | Expert Analysis From ZDNet</u></a></li>
+<li><a href="https://fox-links.techidaily.com/fine-tuning-zoom-visuals-top-techniques/"><u>Fine-Tuning Zoom Visuals Top Techniques</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-p55t-phone-without-pin-by-drfone-android/"><u>How to Unlock Itel P55T Phone without PIN</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/revive-your-aging-computer-with-these-5-free-upgrades-before-windows-11-insights-and-tips-from-zdnet/"><u>Revive Your Aging Computer with These 5 Free Upgrades Before Windows 11: Insights & Tips From ZDNet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/should-you-rely-on-artificial-intelligence-for-investment-tips/"><u>Should You Rely on Artificial Intelligence for Investment Tips?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-google-pixel-8-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Google Pixel 8 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/unlocking-advanced-features-a-guide-to-mastery-of-powertoys-fancyzones-on-windows-learn-and-optimize/"><u>Unlocking Advanced Features: A Guide to Mastery of PowerToys FancyZones on Windows - Learn & Optimize!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unwrapping-the-truth-behind-windows-error-code-0x80073d26/"><u>Unwrapping the Truth Behind Windows' Error Code 0X80073D26</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/why-participate-in-microsofts-windows-insider-beta-a-guide-to-joining-and-advantages-techradar/"><u>Why Participate in Microsoft's Windows Insider Beta? A Guide to Joining & Advantages - TechRadar</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Announces Imminent Discontinuation of Paint 3D App: Implications and Guidance for Existing Users - Insights From ZDNet"
-date: 2024-09-30T22:06:26.952Z
-updated: 2024-10-05T20:41:44.384Z
+date: 2024-10-05T08:26:44.369Z
+updated: 2024-10-11T02:19:32.130Z
 tags:
   - windows
 categories:
@@ -33,6 +33,13 @@ First, make sure you're signed into your Windows 11 PC with an account that has 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Create a new folder
 
 Next, right-click on any empty area of the Desktop. In the popup menu, move to New and select the command for Folder**.**
@@ -48,13 +55,6 @@ When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Launch the icon
 
 Double-click the icon, and a window opens with all the available settings. The commands are organized by Control Panel applet, so you can browse through the various categories, including Backup and Restore, Devices and Printers, File History, Mouse, Programs and Features, Security and Maintenance, Troubleshooting, and User Accounts.
@@ -62,16 +62,10 @@ Double-click the icon, and a window opens with all the available settings. The c
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Search for a command
@@ -98,10 +92,10 @@ When done, click Next.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Name the shortcut
@@ -117,10 +111,10 @@ To change the icon from the generic folder image, right-click on it and select P
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
@@ -162,19 +156,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-the-instagram-edge-a-quick-guide-to-editing-vertical-footage-in-final-cut/"><u>[New] The Instagram Edge A Quick Guide to Editing Vertical Footage in Final Cut</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-ps5xbox-x-visuals-the-leading-game-screens-ranked-for-2024/"><u>[Updated] PS5/Xbox X Visuals The Leading Game Screens Ranked for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-unlocking-the-mysteries-of-proper-youtube-channel-monetization/"><u>2024 Approved Unlocking the Mysteries of Proper YouTube Channel Monetization</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-nubia-red-magic-8s-proplus-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Nubia Red Magic 8S Pro+</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/easy-methods-for-transforming-mov-video-clips-into-highly-playable-avi-files/"><u>Easy Methods for Transforming MOV Video Clips Into Highly Playable AVI Files</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/evenings-reassessment-alternate-vision/"><u>Evening's Reassessment Alternate Vision</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/guide-successfully-shifting-files-and-contacts-from-samsung-phones-to-the-latest-iphone-xs-model/"><u>Guide: Successfully Shifting Files and Contacts From Samsung Phones to the Latest iPhone XS Model</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Oppo A1 5G | Dr.fone</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/icloud-password-recovery-tools-top-software-solutions-for-ios-devices/"><u>ICloud Password Recovery Tools: Top Software Solutions for iOS Devices</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-elitemac-hd-video-and-sound-recordist/"><u>In 2024, EliteMac HD Video & Sound Recordist</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/mastering-pdf-data-extraction-three-effective-methods-revealed/"><u>Mastering PDF Data Extraction: Three Effective Methods Revealed</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/pc-gaming-essentials-learn-how-to-excel-at-marvel-super-war-online/"><u>PC Gaming Essentials: Learn How to Excel at Marvel Super War Online</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/smooth-screencast-solutions-top-software-selections-to-capture-video-without-latency/"><u>Smooth Screencast Solutions: Top Software Selections to Capture Video Without Latency</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-hogwarts-legacy-expert-solutions-to-startup-issues/"><u>Troubleshooting Hogwarts Legacy: Expert Solutions to Startup Issues</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-video-mastery-leading-text-manipulations/"><u>[New] In 2024, Video Mastery Leading Text Manipulations</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-skip-unwanted-podcast-advice-on-the-spotify-app/"><u>[New] Skip Unwanted Podcast Advice on the Spotify App</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-standard-to-spectacited-mobile-devices-vr-conversion-path/"><u>[Updated] From Standard to Spectacited Mobile Device's VR Conversion Path</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/durable-brydge-sp-max-plus-coverage-an-ultimate-protective-keypad-enclosure-for-surface-pro-8-insights-and-analysis/"><u>Durable Brydge SP Max Plus Coverage: An Ultimate Protective Keypad Enclosure for Surface Pro 8 - Insights and Analysis</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/entropy-changes-can-be-calculated-using-the-formula-ds-qrevt-for-reversible-processes-where-qrev-is-the-heat-exchanged-and-t-is-the-absolute-temperature/"><u>Entropy Changes Can Be Calculated Using the Formula ΔS = Q_rev/T for Reversible Processes, Where Q_rev Is the Heat Exchanged and T Is the Absolute Temperature.</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/exploring-the-fallout-microsoft-365-suffers-during-a-severe-distributed-denial-of-service-incident-covered-by-zdnet/"><u>Exploring the Fallout: Microsoft 365 Suffers During a Severe Distributed Denial-of-Service Incident Covered by ZDNET</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-a-missing-mouse-icon-on-your-windows-11-pc-expert-solutions/"><u>How to Fix a Missing Mouse Icon on Your Windows 11 PC – Expert Solutions</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-mastering-the-art-of-freefire-a-gaming-youtubers-guide/"><u>In 2024, Mastering the Art of FreeFire A Gaming Youtuber’s Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-poco-x6-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Poco X6 Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/maximize-impact-with-custom-icons-and-graphics-on-your-instagram-posts-for-2024/"><u>Maximize Impact with Custom Icons and Graphics on Your Instagram Posts for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/maximizing-video-quality-with-gopro-max-or-hero-11-in-2024/"><u>Maximizing Video Quality with GoPro Max or Hero 11, In 2024</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/microsoft-tempted-me-into-creativity-with-excel-heres-how-zdnet/"><u>Microsoft Tempted Me Into Creativity with Excel – Here's How! [ZDNet]</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/paid-maintenance-microsoft-plans-to-introduce-fees-for-windows-11-update-subscriptions-from-next-year-estimated-costs/"><u>Paid Maintenance: Microsoft Plans To Introduce Fees For Windows 11 Update Subscriptions From Next Year - Estimated Costs</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/smart-savings-without-compromising-quality-why-i-chose-the-most-affordable-microsoft-surface-pro-model-gadgetsforgeeks/"><u>Smart Savings without Compromising Quality: Why I Chose the Most Affordable Microsoft Surface Pro Model | GadgetsForGeeks</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/unlocking-advanced-features-a-guide-to-mastery-of-powertoys-fancyzones-on-windows-learn-and-optimize/"><u>Unlocking Advanced Features: A Guide to Mastery of PowerToys FancyZones on Windows - Learn & Optimize!</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/upcoming-change-alert-microsoft-introduces-fees-for-future-windows-11-update-installations-cost-breakdown/"><u>Upcoming Change Alert: Microsoft Introduces Fees for Future Windows 11 Update Installations - Cost Breakdown</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/why-participate-a-step-by-step-tutorial-on-joining-microsofts-exclusive-windows-testing-program-featured-by-zdnet/"><u>Why Participate? A Step-by-Step Tutorial on Joining Microsoft's Exclusive Windows Testing Program, Featured by ZDNet</u></a></li>
 </ul></div>
 
