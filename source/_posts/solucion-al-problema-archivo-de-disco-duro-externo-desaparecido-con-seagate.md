@@ -1,7 +1,7 @@
 ---
 title: "Solución Al Problema: Archivo De Disco Duro Externo Desaparecido Con Seagate"
-date: 2024-11-19T23:00:35.606Z
-updated: 2024-11-23T02:38:16.450Z
+date: 2024-11-27T17:00:10.731Z
+updated: 2024-12-01T02:40:02.400Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/e9d9b71440a916b77a73a65e520d732ec704accfc7970398f4d716c0fa346167.jpg
@@ -66,20 +66,24 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 
 [![Designs](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/themes.png "Designs")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 3**. Wählen Sie „**Desktopsymbol-Einstellungen**“ und suchen Sie das Symbol „**Papierkorb**“.
 
 [![Desktopsymbol-Einstellungen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/desktop-icon-settings.png "Desktopsymbol-Einstellungen")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Schritt 4**. Suchen Sie das „**Papierkorb**“-Symbol, entfernen Sie das Häkchen und bestätigen Sie mit „**Übernehmen**“ und „**OK**“.
 
 [![Papierkorb](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/check-recycle-bin-click-ok.png "Papierkorb")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Teil 2\. Wie kann man den Papierkorb vom Desktop entfernen?
@@ -90,12 +94,16 @@ Wenn Sie den Papierkorb mittels erhöhter Eingabeaufforderung zurücksetzen möc
 
 [![Als Administrator ausführen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/run-as-administrator.png "Als Administrator ausführen")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Schritt 2**. Geben Sie „**rd /s /q C:\\Papierkorb**“ in das Eingabeaufforderungsfenster ein und drücken Sie „**Enter**“, um den Vorgang zu starten. Wenn erforderlich, ersetzen Sie das Laufwerk C durch Ihren gewünschten Laufwerksbuchstaben.
 
 [![cmd Papierkorb zurücksetzen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/command-prompt/cmd-reset-recycle-bin.png "cmd Papierkorb zurücksetzen")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Teil 3\. Wie kann man gelöschte Dateien aus dem Papierkorb nach dem Leeren wiederherstellen?
@@ -122,13 +130,13 @@ Sicherer Download
 
 [![Laufwerk scannen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/scanning-drive.png "Laufwerk scannen")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 3**. Gehen Sie zum Papierkorb, um die gewünschten Dateien zu lokalisieren. Klicken Sie dann auf „**x Dateien wiederherstellen**“, um die ausgewählten Dateien wiederherzustellen. Speichern Sie diese wiederhergestellten Dateien bitte an einem neuen Ort.
 
 [![x Dateien wiederherstellen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png "x Dateien wiederherstellen")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Bonus-Tipps: Wie verhindert man Datenverlust auf Computern?**
 
@@ -153,10 +161,6 @@ Sicherer Download
 
 [![dateisicherung](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/file-backup.png "dateisicherung")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt** **2**. Sie können ihn im Feld „**Aufgabename**“ benennen, um ihn von anderen Backups zu unterscheiden.
 
 [![aufgabename eingeben](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/task-name.png)
@@ -165,14 +169,10 @@ Sicherer Download
 
 [![Ordner hinzufügen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/add-folder.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 4**. Nach Abschluss des Sicherungsvorgangs klicken Sie auf „Fertig“, um das Fenster zu schließen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Zusammenfassung
@@ -212,7 +212,7 @@ Waren die angebotenen Informationen nützlich? Ihre Stimme ist wichtig für uns!
 Holiday ist seit dem 1\. Juni 2020 bei AOMEI und beschäftigt sich mit Sichern & Wiederherstellen, Festplatten- und Partitionsverwaltung usw. für AOMEI. Ob Arbeit, Studien oder Leben, sie versucht gerne, neue Dinge zu lernen und denkt, dass Überraschungen auf sie warten, egal wann und wo.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Folgende Artikel könnten Sie auch interessieren
@@ -247,11 +247,11 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Sauber & Sicher
 
-![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -268,21 +268,18 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-youtubes-quick-tunes-essential-insights-for-short-video-fans/"><u>[New] 2024 Approved YouTube's Quick Tunes Essential Insights for Short Video Fans</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-unveiling-the-power-of-zoom-in-enhancing-your-youtube-experience/"><u>[New] In 2024, Unveiling the Power of Zoom in Enhancing Your YouTube Experience</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-insiders-look-at-vlc-functionality-on-macbooks/"><u>[Updated] Insider's Look at VLC Functionality on MacBooks</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/1728484431990-hddssd/"><u>大型HDDを小型SSDに変換する独自方法：専門家アドバイスあり</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/achetez-aomei-cyberbackup-solution-de-sauvegarde-dentreprise-abordable-et-rentable/"><u>Achetez AOMEI CyberBackup : Solution De Sauvegarde D'entreprise Abordable Et Rentable</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/crafting-professional-gamers-content-with-obs-recordings-for-2024/"><u>Crafting Professional Gamers' Content with OBS Recordings for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Realme C55 | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-trouble-with-iphone-13-mini-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>In 2024, Trouble with iPhone 13 mini Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/metodo-infallibile-per-la-perdita-completa-dei-dati-da-ununita-ssd-guida-facile-su-windows-tutti-i-giorni-11/"><u>Metodo Infallibile per La Perdita Completa Dei Dati Da Un'Unità SSD: Guida Facile Su Windows Tutti I Giorni 11</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/movavi-webp-online-webp/"><u>Movavi의 WEBP 이미지를 쉽게 구문 분석하고 원하는 모드로 변환: Online 무료 WEBP 변환기</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/safeguard-personal-information-the-ultimate-tutorial-for-wiping-external-hard-drives-using-windows-11/"><u>Safeguard Personal Information: The Ultimate Tutorial for Wiping External Hard Drives Using Windows 지원 11</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/schritt-fur-schritt-anleitung-datenwiederherstellung-nach-einem-pc-crash-verstehen-und-umsetzen/"><u>Schritt-Für-Schritt-Anleitung: Datenwiederherstellung Nach Einem PC-Crash Verstehen Und Umsetzen</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/soluciones-efectivas-para-acelerar-la-transferencia-de-archivos-en-windows-11-8-metodos-probados/"><u>Soluciones Efectivas Para Acelerar La Transferencia De Archivos en Windows 11: 8 Métodos Probados</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/step-by-step-guide-to-live-vmware-virtual-machine-backups-without-downtime/"><u>Step-by-Step Guide to Live VMware Virtual Machine Backups Without Downtime</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/the-ultimate-guide-to-choosing-the-right-dvd-cloner-apps-for-windows-version-11817-ranked-list-of-2023s-top-software-solutions/"><u>The Ultimate Guide to Choosing the Right DVD Cloner Apps for Windows (Version 11/8(.1/)7) - Ranked List of 2023'S Top Software Solutions</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unveiling-novel-window-11-secrets-for-enhanced-usage-for-2024/"><u>Unveiling Novel WINDOW 11 Secrets for Enhanced Usage for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-chasing-likes-and-loads-jake-pauls-youtube-ambition/"><u>[New] 2024 Approved Chasing Likes and Loads Jake Paul's YouTube Ambition</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-swift-effective-methods-for-iphone-screen-recordings/"><u>[New] Swift, Effective Methods for iPhone Screen Recordings</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/hotmailgmail/"><u>「HotmailアカウントをGmailに変更するための完全なフォローガイド：連絡先のインポート方法」</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/1728505903178-windows-111087/"><u>全能硬碟擦除解決方案:便利Windows 11、10、8以及7使用者清理存儲空間</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/all-day-all-night-sports-entertainment-now-available-on-roku-platforms/"><u>All-Day, All-Night Sports Entertainment Now Available on Roku Platforms</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/comment-cloner-facilement-un-hdd-ou-ssd-sur-windows-11-sans-defaut/"><u>Comment Cloner Facilement Un HDD Ou SSD Sur Windows 11 Sans Défaut</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/comment-migrer-en-douceur-vers-windows-64-bits-depuis-windows-7-tout-en-preservant-vos-fichiers/"><u>Comment Migrer en Douceur Vers Windows 64-Bits Depuis Windows 7, Tout en Préservant Vos Fichiers</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/facil-solucion-al-fenomeno-de-parpadeo-de-pantalla-e-incrustacion-de-la-barra-de-tareas-en-windows-11/"><u>Fácil Solución Al Fenómeno De Parpadeo De Pantalla E Incrustación De La Barra De Tareas en Windows 11</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/high-quality-game-recordings-methods-and-tools-for-2024/"><u>High-Quality Game Recordings Methods and Tools for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-prime-binge-worthy-hits-highest-tweets-and-view-counts/"><u>In 2024, Prime Binge-Worthy Hits Highest Tweets & View Counts</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-unleashing-the-best-mobile-moba-battles/"><u>In 2024, Unleashing the Best Mobile MOBA Battles</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/preserve-and-upload-the-ultimate-guide-to-moving-all-music-from-iphone-to-itunes-effortlessly/"><u>Preserve and Upload: The Ultimate Guide to Moving All Music From iPhone to iTunes Effortlessly</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/ultimate-fixes-and-troubleshooting-tips-for-resolving-windows-0x800f081e0x20003-errors/"><u>Ultimate Fixes & Troubleshooting Tips for Resolving Windows 0X800f081e/0x20003 Errors</u></a></li>
 </ul></div>
 
