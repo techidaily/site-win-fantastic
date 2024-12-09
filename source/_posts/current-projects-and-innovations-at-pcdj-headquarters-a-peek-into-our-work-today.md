@@ -1,7 +1,7 @@
 ---
 title: "Current Projects and Innovations at PCDJ Headquarters: A Peek Into Our Work Today"
-date: 2024-11-25T02:03:16.948Z
-updated: 2024-12-01T04:04:31.300Z
+date: 2024-12-03T22:57:59.958Z
+updated: 2024-12-09T01:17:35.186Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ No, this is all about what’s next, and what new and fantastic features we have
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DJ Software: What We’re Working On Now
@@ -38,7 +38,7 @@ No, this is all about what’s next, and what new and fantastic features we have
 * In addition to Visualizations, DEX 3 users will have the ability to run picture slide-shows while mixing music or music videos. Select a directory of images/pictures and they will play on screen (_secondary audience display_) using smooth transitions between pictures. DJs will also have the ability to run picture overlays over-top playing music videos, allowing DJs to create a completely custom visual presentation. We can see many useful applications for this, such as advertisements or “drink specials”.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -60,16 +60,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/03/comingsoontopcdj-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-best-7-streaming-tools-for-mac-users/"><u>[New] 2024 Approved Best 7 Streaming Tools for Mac Users</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-fpv-fantasy-a-closer-look-at-the-hubsan-h501x4/"><u>[New] FPV Fantasy A Closer Look at the Hubsan H501X4</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-cutting-edge-webcam-utilization-at-home/"><u>[Updated] Cutting-Edge Webcam Utilization at Home</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-foundational-methods-to-improve-color-balance/"><u>[Updated] Foundational Methods to Improve Color Balance</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ghost-recon-breakpoint-no-more-crash-issues-effective-troubleshooting-tips/"><u>Ghost Recon Breakpoint No More Crash Issues: Effective Troubleshooting Tips</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/master-text-editing-with-emeditor-advanced-features-in-a-simple-interface/"><u>Master Text Editing with EmEditor - Advanced Features in a Simple Interface</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/mastering-bare-metal-restoration-a-guide-to-three-wbadmin-techniques/"><u>Mastering Bare Metal Restoration: A Guide to Three WBAdmin Techniques</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/organizational-guide-comprehensive-insights-into-the-strings-segment-task-force/"><u>Organizational Guide: Comprehensive Insights Into the Strings Segment Task Force</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/secure-your-data-a-step-by-step-guide-to-safely-formatting-a-hard-drive-using-cmd-in-windows-11-and-10/"><u>Secure Your Data: A Step-by-Step Guide to Safely Formatting a Hard Drive Using CMD in Windows 11 & 10</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/strategic-use-of-hashtags-in-gaming-vlog-production/"><u>Strategic Use of Hashtags in Gaming Vlog Production</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/1728488217964-windows-11/"><u>Windows 11 オペレーティングシステムを読み込めないエラー修復法</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-dissecting-youtubes-strategy-to-empower-short-form-content-makers/"><u>[New] 2024 Approved Dissecting YouTube’s Strategy to Empower Short-Form Content Makers</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207975204-solved-ps4-controller-wont-charge/"><u>[SOLVED] PS4 Controller Won't Charge</u></a></li>
+<li><a href="https://video-capture.techidaily.com/best-free-desktop-and-web-based-video-trimmers-of-2024-top-picks/"><u>Best Free Desktop & Web-Based Video Trimmers of 2024: Top Picks</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/easy-guide-updating-your-windows-os-tips-from-yl-computing/"><u>Easy Guide: Updating Your Windows OS - Tips From YL Computing</u></a></li>
+<li><a href="https://facebook.techidaily.com/exclude-acquaintances-from-on-this-day-highlights/"><u>Exclude Acquaintances From On This Day Highlights</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/eye-catching-imagery-for-fans-exclusive-tomioka-demon-slayer-wallpapers-and-themes-from-yl-software/"><u>Eye-Catching Imagery for Fans: Exclusive Tomioka Demon Slayer Wallpapers and Themes From YL Software</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/fixing-your-scanners-blank-output-problem-expert-advice-from-yl-software/"><u>Fixing Your Scanner's Blank Output Problem: Expert Advice From YL Software</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-captivating-stories-in-motion-best-video-theme-choices/"><u>In 2024, Captivating Stories in Motion Best Video Theme Choices</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-atandt-iphone-15-pro-max-with-3-methods-by-drfone-ios/"><u>In 2024, How to Unlock AT&T iPhone 15 Pro Max with 3 Methods</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/perfect-your-content-discover-these-top-8-mobile-editors-for-2024/"><u>Perfect Your Content Discover These Top 8 Mobile Editors for 2024</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/quick-fixes-for-common-printer-issues-expert-tips-from-yl-computing-solutions/"><u>Quick Fixes for Common Printer Issues - Expert Tips From YL Computing Solutions</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/resetting-your-devices-network-configuration-a-step-by-step-guide-insights-from-yl-computing/"><u>Resetting Your Device's Network Configuration: A Step-by-Step Guide - Insights From YL Computing</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/tracing-influence-the-quest-for-your-passionate-pioneers/"><u>Tracing Influence The Quest for Your Passionate Pioneers</u></a></li>
 </ul></div>
 

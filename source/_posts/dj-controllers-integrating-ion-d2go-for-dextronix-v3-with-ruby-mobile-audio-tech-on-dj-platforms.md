@@ -1,7 +1,7 @@
 ---
 title: "Dj Controllers: Integrating Ion D2Go for Dextronix v3 with Ruby Mobile Audio Tech on DJ Platforms"
-date: 2024-11-24T19:41:41.928Z
-updated: 2024-11-30T16:10:41.113Z
+date: 2024-12-02T00:14:27.904Z
+updated: 2024-12-09T02:56:29.015Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ Based on a users recent request we’ve just created a new [DEX 3](https://tools
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More On The DJ2GO From ION’s Website:
@@ -35,7 +35,7 @@ Based on a users recent request we’ve just created a new [DEX 3](https://tools
 [![](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/DJ2GO_left_weblg.png?fit=300%2C188&ssl=1 "DJ2GO_left_weblg")](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/DJ2GO%5Fleft%5Fweblg.png?fit=1030%2C644&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 DJ2GO gives you a tactile feel that can’t be matched by DJing with just your computer mouse and keyboard. In fact, with DJ2GO there’s virtually no need to touch your mouse or keyboard while performing. Everything you need to do, from selecting songs and cueing, to beat-matching and volume adjustment can be controlled by DJ2GO’s generous array of faders, knobs and bright, backlit buttons. DJ2GO weighs just 13 oz. but provides a layout that DJs prefer, including two platters, a crossfader, pitch and level controls as well as Deck A, Deck B, Master and Headphone gain controls. Sync and headphone buttons allow you to instantly sync two tracks and monitor either deck section.
@@ -55,7 +55,7 @@ The ION DJ2Go is selling for around $99 on Amazon and some other online retailer
 **INSTALLATION INSTRUCTIONS:** **Unzip the Map (js file) To:** **C: (Windows) or App Folder for DEX 3 (MAC) – Program Files (x86) _\-> PCDJ -> DEX3 -> CONTROLLERS. REPLACE THE EXISTING Numark DJ2GO SCRIPT WITH THE NEW ONE!_**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -77,16 +77,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/iondj2go-blogcoverimage.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-the-ultimate-guide-to-tiktoks-most-engaging-rap-songs/"><u>[New] 2024 Approved The Ultimate Guide to TikTok's Most Engaging Rap Songs</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-oppo-a59-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Oppo A59 5G Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/guia-paso-a-paso-para-respaldar-windows-11-con-nas-y-unidades-de-red-metodos-probados-que-te-ayudan/"><u>Guía Paso a Paso Para Respaldar Windows 11 Con NAS Y Unidades De Red: Métodos Probados Que Te Ayudan</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/how-to-recover-your-picasa-photo-library-on-windows-11-a-step-by-step-guide/"><u>How to Recover Your Picasa Photo Library on Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-15-plusipad-drfone-by-drfone-virtual-ios/"><u>In 2024, A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone 15 Plus/iPad | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-masterclass-setting-up-countdowns-in-obs-studio/"><u>In 2024, Masterclass Setting Up Countdowns in OBS Studio</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/retrieve-your-vanished-memories-effective-techniques-for-restoring-erased-pictures-from-computers-and-iphones/"><u>Retrieve Your Vanished Memories: Effective Techniques for Restoring Erased Pictures From Computers and iPhones</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/schritt-fur-schritt-aufraumen-nach-dem-update-von-windows-10-drei-methoden/"><u>Schritt-Für-Schritt: Aufräumen Nach Dem Update Von Windows 10 (Drei Methoden)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-recover-unlinked-devices-in-windows/"><u>Steps to Recover Unlinked Devices in Windows</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-most-affordable-and-sturdy-tv-mounts-reviewed-cheetahs-model/"><u>The Most Affordable & Sturdy TV Mounts Reviewed - Cheetah's Model</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-for-malfunctioning-mac-programs-and-applications/"><u>Troubleshooting Tips for Malfunctioning Mac Programs and Applications</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-unveiling-inauthentic-accounts-on-brand-pages-for-2024/"><u>[New] Unveiling Inauthentic Accounts on Brand Pages for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-stay-ahead-in-the-stream-top-5-video-capture-platforms-reviewed/"><u>[Updated] 2024 Approved Stay Ahead in the Stream Top 5 Video Capture Platforms Reviewed</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-from-novice-to-pro-streamlining-your-win11-zoom-sessions-for-2024/"><u>[Updated] From Novice to Pro Streamlining Your Win11 Zoom Sessions for 2024</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/can-you-rely-on-windows-defender-for-effective-malware-and-cybersecurity-protection-insights-from-yl-computing-yl-software/"><u>Can You Rely on Windows Defender for Effective Malware and Cybersecurity Protection? Insights From YL Computing | YL Software</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/customizing-your-personal-data-protection-a-step-by-step-guide-to-tweaking-privacy-settings-on-windows-10-yl-software/"><u>Customizing Your Personal Data Protection: A Step-by-Step Guide to Tweaking Privacy Settings on Windows 10 - YL Software</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/enhancing-crowd-engagement-for-live-performances-using-remote-request-features-in-pcdjs-karaoki-and-songbookdb/"><u>Enhancing Crowd Engagement for Live Performances Using Remote Request Features in PCDJ's Karaoki and SongBookDB</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/essential-strategies-for-protecting-your-online-property-learn-from-yl-computing-and-yl-software-experts/"><u>Essential Strategies for Protecting Your Online Property: Learn From YL Computing and YL Software Experts</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/file-compression-techniques-in-windows-a-simple-guide-by-yl-software/"><u>File Compression Techniques in Windows: A Simple Guide by YL Software</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-art-of-game-recording-a-comprehensive-look/"><u>In 2024, The Art of Game Recording A Comprehensive Look</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Nokia C12 Plus? | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/overcoming-jpeg-artifacts-post-export/"><u>Overcoming Jpeg Artifacts Post-Export</u></a></li>
+<li><a href="https://extra-support.techidaily.com/reel-success-unlocking-the-best-10-text-strategies-for-videos-for-2024/"><u>Reel Success - Unlocking the Best 10 Text Strategies for Videos for 2024</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/resolving-driver-setup-issues-essential-advice-from-the-experts-at-yl-software/"><u>Resolving Driver Setup Issues: Essential Advice From the Experts at YL Software</u></a></li>
+<li><a href="https://android-frp.techidaily.com/samsung-galaxy-a05-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Samsung Galaxy A05 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/understanding-constant-operation-of-windows-defender-for-continuous-cybersecurity-insights-from-yl-computing/"><u>Understanding Constant Operation of Windows Defender for Continuous Cybersecurity - Insights From YL Computing</u></a></li>
 </ul></div>
 

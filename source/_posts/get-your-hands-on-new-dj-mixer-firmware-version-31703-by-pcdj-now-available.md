@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on New DJ Mixer Firmware, Version 3.17.0.3 by PCDJ Now Available!
-date: 2024-11-29T18:36:01.708Z
-updated: 2024-12-01T03:40:31.410Z
+date: 2024-12-03T18:15:16.629Z
+updated: 2024-12-09T07:09:35.628Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ We suggest you install the new 3.17.0.3 release of DEX 3 immediately. Simply dow
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in DEX 3.17.0.3
@@ -50,7 +50,7 @@ We suggest you install the new 3.17.0.3 release of DEX 3 immediately. Simply dow
 _Have questions about the latest 3.17.0.3 version of our **Top DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,19 +72,17 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2022/04/download-dex31703-1.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-keyword-optimization-for-higher-youtube-viewership/"><u>[New] 2024 Approved Keyword Optimization for Higher YouTube Viewership</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-essential-tactics-for-youtube-short-troubleshooting/"><u>[New] In 2024, Essential Tactics for YouTube Short Troubleshooting</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-top-10-best-free-facetime-for-android-alternatives/"><u>[Updated] In 2024, Top 10 Best Free FaceTime for Android Alternatives</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-sleek-line-up-best-7-fps-arenas/"><u>[Updated] Sleek Line-Up Best 7 FPS Arenas</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/eliminar-archivos-de-respaldo-completos-del-disco-duro-en-windows-10-guia-detallada/"><u>Eliminar Archivos De Respaldo Completos Del Disco Duro en Windows 10 - Guía Detallada</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/kostenloze-ape-wav-convertoren-online-voor-gratis-expertise-van-movavi/"><u>Kostenloze APE-WAV Convertoren Online Voor Gratis - Expertise Van Movavi</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/lautstarke-und-nicht-bootende-festplatten-problemlosung-fur-interne-and-externe-laufwerke/"><u>Lautstarke Und Nicht Bootende Festplatten - Problemlösung Für Interne & Externe Laufwerke</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/les-meilleurs-solutions-de-backup-pour-windows-server-2012-r2-un-guide-dachat-pratique/"><u>Les Meilleurs Solutions De Backup Pour Windows Server 2012 R2: Un Guide D'Achat Pratique</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/logiciel-de-recuperation-de-donnees-pour-windows-10-fichiers-perdus-restaure-gratuitement/"><u>Logiciel De Récupération De Données Pour Windows 10 : Fichiers Perdus, Restauré Gratuitement</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/sicheres-datensicherungsverfahren-mit-automatischem-nas-backup-in-windows-betriebssystemen/"><u>Sicheres Datensicherungsverfahren Mit Automatischem NAS-Backup in Windows-Betriebssystemen</u></a></li>
-<li><a href="https://article-posts.techidaily.com/the-editing-odyssey-journey-to-photo-mastery/"><u>The Editing Odyssey Journey to Photo Mastery</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-ultimate-guide-to-metaverse-laughter/"><u>The Ultimate Guide to Metaverse Laughter</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/ultimate-tutorial-on-effective-techniques-for-retrieving-data-from-a-damaged-hard-disk/"><u>Ultimate Tutorial on Effective Techniques for Retrieving Data From a Damaged Hard Disk</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unlock-higher-frame-rates-ultimate-strategies-to-boost-fps-in-ring-of-elysium/"><u>Unlock Higher Frame Rates: Ultimate Strategies to Boost FPS in Ring of Elysium</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-video-embedding-for-dynamic-online-articles/"><u>[Updated] 2024 Approved Free Video Embedding for Dynamic Online Articles</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-seamless-transformation-top-tools-for-youtube-videos/"><u>[Updated] Seamless Transformation Top Tools for YouTube Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-understanding-the-transformations-in-vegaspro-19/"><u>2024 Approved Understanding the Transformations in VegasPro '19</u></a></li>
+<li><a href="https://discover-able.techidaily.com/1728499093749-windows-11-windows-defender/"><u>针对 Windows 11 操作系统，升级 Windows Defender 的完整指南</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/can-i-use-this-scanner-with-my-pc-discover-compatibility-tips-from-yl-computing/"><u>Can I Use This Scanner With My PC? Discover Compatibility Tips From YL Computing</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-vivo-v30-pro-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Vivo V30 Pro is off? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/effortlessly-download-every-tiktok-video/"><u>Effortlessly Download Every TikTok Video</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/navigating-video-landscape-vimeo-and-youtube-distinguished/"><u>Navigating Video Landscape Vimeo and YouTube Distinguished</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/network-adapter-problem-solving-step-by-step-guide-by-yl-computing/"><u>Network Adapter Problem-Solving: Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/personalizing-your-mouse-and-touchpad-preferences-with-windows-control-panel-tips-from-yl-computings-expert-guides/"><u>Personalizing Your Mouse & Touchpad Preferences with Windows Control Panel - Tips From YL Computing's Expert Guides</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/um-microphones-for-videographers-for-2024/"><u>Premium Microphones for Videographers for 2024</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/top-recommended-tools-for-efficiently-removing-unnecessary-file-clutter-insights-from-yl-computings-expertise/"><u>Top Recommended Tools for Efficiently Removing Unnecessary File Clutter: Insights From YL Computing's Expertise</u></a></li>
 </ul></div>
 
