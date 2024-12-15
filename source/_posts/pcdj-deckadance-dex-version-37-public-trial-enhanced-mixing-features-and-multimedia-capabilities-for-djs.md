@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Deckadance DEX Version 3.7 Public Trial: Enhanced Mixing Features & Multimedia Capabilities for DJs"
-date: 2024-12-07T02:13:55.122Z
-updated: 2024-12-08T17:10:33.109Z
+date: 2024-12-13T07:36:13.553Z
+updated: 2024-12-14T17:33:47.636Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ This is a much anticipated and requested feature update for DEX 3 and while test
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here are the key highlights of this major update to DEX 3.7 (Public Beta 1)
@@ -55,7 +55,7 @@ This is a much anticipated and requested feature update for DEX 3 and while test
 _Have questions about our [video mixing software](https://tools.techidaily.com/pcdj/products/)? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -77,22 +77,21 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/08/dex3publicbeta-overlays-co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-pinnacle-devices-best-cars-surveillance-tech/"><u>[New] Pinnacle Devices Best Cars Surveillance Tech</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/nveiling-hidden-gems-top-purchasers-of-youtube-creators/"><u>[New] Unveiling Hidden Gems Top Purchasers of YouTube Creators</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/avoid-cutting-corners-the-risks-of-discount-dj-systems-and-how-it-impacts-your-performance/"><u>Avoid Cutting Corners: The Risks of Discount DJ Systems and How It Impacts Your Performance</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/boost-your-computers-performance-with-effective-hardware-upgrades-insights-from-yl-computing/"><u>Boost Your Computer's Performance with Effective Hardware Upgrades: Insights From YL Computing</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpts-role-in-future-proofing-healthcare/"><u>ChatGPT's Role in Future-Proofing Healthcare</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/corsair-virtuoso-headset-troubleshooting-what-to-do-when-it-wont-work-anymore/"><u>Corsair Virtuoso Headset Troubleshooting: What To Do When It Won't Work Anymore</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/effective-techniques-for-unclogging-printer-head-cartridges-insights-by-yl-computing/"><u>Effective Techniques for Unclogging Printer Head Cartridges - Insights by YL Computing</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-honor-90-by-drfone-android/"><u>In 2024, How to Bypass FRP on Honor 90?</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-ideal-editors-perfect-for-high-quality-youtube-videos/"><u>In 2024, Ideal Editors Perfect for High-Quality YouTube Videos</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-apple-iphone-11-pro-look-no-further-drfone-by-drfone-virtual-ios/"><u>In 2024, Looking For A Location Changer On Apple iPhone 11 Pro? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/maximizing-your-apple-vision-pro-experience-top-reasons-and-step-by-step-guide-for-securing-a-demo-tech-insights/"><u>Maximizing Your Apple Vision Pro Experience: Top Reasons & Step-by-Step Guide for Securing a Demo | Tech Insights</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/maximizing-your-computers-performance-effective-strategies-for-clearing-disk-space-insights-by-yl-computing/"><u>Maximizing Your Computer's Performance: Effective Strategies for Clearing Disk Space – Insights by YL Computing</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/no-click-no-response-decoding-mouse-issues-with-insights-by-yl-software-professionals/"><u>No Click, No Response: Decoding Mouse Issues with Insights by YL Software Professionals</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/pcdj-revolutionizes-karaoki-interface-bigger-rotation-screens-for-seamless-dj-experience/"><u>PCDJ Revolutionizes Karaoki Interface: Bigger Rotation Screens for Seamless DJ Experience</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/resolving-no-display-problems-expert-guide-from-yl-computing/"><u>Resolving 'No Display' Problems: Expert Guide From YL Computing</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Motorola Edge 40 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/yl-software-presents-the-ultimate-set-of-kim-kardashian-backgrounds-and-imagery-for-your-screen/"><u>YL Software Presents: The Ultimate Set of Kim Kardashian Backgrounds and Imagery for Your Screen</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-expertly-selected-best-5-free-online-convertors-for-2024/"><u>[New] Expertly Selected Best 5 Free Online Convertors for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-screencast-o-matic-review/"><u>[New] In 2024, Screencast-O-Matic Review</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-masterful-marketing-essential-expressions-for-professionals/"><u>[New] Masterful Marketing Essential Expressions for Professionals</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-power-of-personalization-upgrade-your-youtube-url/"><u>[New] The Power of Personalization Upgrade Your YouTube URL</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-how-to-feature-music-on-instant-stories/"><u>[Updated] In 2024, How to Feature Music on Instant Stories</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-new-windows-11-insiders-edge-techniques/"><u>[Updated] New Windows 11 Insider's Edge Techniques</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/customizing-your-system-with-yl-softwares-control-panel-settings/"><u>Customizing Your System with YL Software's Control Panel Settings</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/dealing-with-a-faulty-memory-on-your-machine-proactive-steps-by-yl-computing-experts/"><u>Dealing with a Faulty Memory on Your Machine: Proactive Steps by YL Computing Experts</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/diy-guide-checking-your-pcs-psu-functionality-yl-software-solutions/"><u>DIY Guide: Checking Your PC's PSU Functionality - YL Software Solutions</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/how-to-recover-damaged-files-using-windows-file-recovery-a-guide-by-yl-computing/"><u>How to Recover Damaged Files Using Windows File Recovery: A Guide by YL Computing</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-computer-security-securing-your-pc-in-five-ways-on-windows/"><u>Mastering Computer Security: Securing Your PC in Five Ways on Windows</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/mastering-privacy-and-safety-adjusting-windows-10-security-settings-simplified-yl-computing/"><u>Mastering Privacy & Safety: Adjusting Windows 10 Security Settings Simplified - YL Computing</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/shambling-successes-the-cutthroat-list-of-best-zombies-gaming-for-2024/"><u>Shambling Successes The Cutthroat List of Best Zombies Gaming for 2024</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/step-by-step-guide-updating-your-graphics-card-drivers-tips-from-yl-computing/"><u>Step-by-Step Guide: Updating Your Graphics Card Drivers - Tips From YL Computing</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/step-by-step-scan-troubleshooting-for-optimal-performance-with-yl-software-support/"><u>Step-by-Step Scan Troubleshooting for Optimal Performance with YL Software Support</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlock-a-steep-discount-on-the-asus-rog-strix-g1ve-for-gamers-shop-now-with-600-savings-zdnet/"><u>Unlock a Steep Discount on the Asus ROG Strix G1ve for Gamers! Shop Now with $600 Savings | ZDNET</u></a></li>
 </ul></div>
 

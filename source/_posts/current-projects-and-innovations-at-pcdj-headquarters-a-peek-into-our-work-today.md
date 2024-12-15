@@ -1,7 +1,7 @@
 ---
 title: "Current Projects and Innovations at PCDJ Headquarters: A Peek Into Our Work Today"
-date: 2024-12-03T22:57:59.958Z
-updated: 2024-12-09T01:17:35.186Z
+date: 2024-12-07T19:09:37.260Z
+updated: 2024-12-15T02:51:17.731Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ No, this is all about what’s next, and what new and fantastic features we have
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DJ Software: What We’re Working On Now
@@ -38,7 +38,7 @@ No, this is all about what’s next, and what new and fantastic features we have
 * In addition to Visualizations, DEX 3 users will have the ability to run picture slide-shows while mixing music or music videos. Select a directory of images/pictures and they will play on screen (_secondary audience display_) using smooth transitions between pictures. DJs will also have the ability to run picture overlays over-top playing music videos, allowing DJs to create a completely custom visual presentation. We can see many useful applications for this, such as advertisements or “drink specials”.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -60,18 +60,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/03/comingsoontopcdj-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-dissecting-youtubes-strategy-to-empower-short-form-content-makers/"><u>[New] 2024 Approved Dissecting YouTube’s Strategy to Empower Short-Form Content Makers</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723207975204-solved-ps4-controller-wont-charge/"><u>[SOLVED] PS4 Controller Won't Charge</u></a></li>
-<li><a href="https://video-capture.techidaily.com/best-free-desktop-and-web-based-video-trimmers-of-2024-top-picks/"><u>Best Free Desktop & Web-Based Video Trimmers of 2024: Top Picks</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/easy-guide-updating-your-windows-os-tips-from-yl-computing/"><u>Easy Guide: Updating Your Windows OS - Tips From YL Computing</u></a></li>
-<li><a href="https://facebook.techidaily.com/exclude-acquaintances-from-on-this-day-highlights/"><u>Exclude Acquaintances From On This Day Highlights</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/eye-catching-imagery-for-fans-exclusive-tomioka-demon-slayer-wallpapers-and-themes-from-yl-software/"><u>Eye-Catching Imagery for Fans: Exclusive Tomioka Demon Slayer Wallpapers and Themes From YL Software</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/fixing-your-scanners-blank-output-problem-expert-advice-from-yl-software/"><u>Fixing Your Scanner's Blank Output Problem: Expert Advice From YL Software</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-captivating-stories-in-motion-best-video-theme-choices/"><u>In 2024, Captivating Stories in Motion Best Video Theme Choices</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-atandt-iphone-15-pro-max-with-3-methods-by-drfone-ios/"><u>In 2024, How to Unlock AT&T iPhone 15 Pro Max with 3 Methods</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/perfect-your-content-discover-these-top-8-mobile-editors-for-2024/"><u>Perfect Your Content Discover These Top 8 Mobile Editors for 2024</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/quick-fixes-for-common-printer-issues-expert-tips-from-yl-computing-solutions/"><u>Quick Fixes for Common Printer Issues - Expert Tips From YL Computing Solutions</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/resetting-your-devices-network-configuration-a-step-by-step-guide-insights-from-yl-computing/"><u>Resetting Your Device's Network Configuration: A Step-by-Step Guide - Insights From YL Computing</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/tracing-influence-the-quest-for-your-passionate-pioneers/"><u>Tracing Influence The Quest for Your Passionate Pioneers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-the-ultimate-guide-elevating-your-fb-video-content-game/"><u>[New] 2024 Approved The Ultimate Guide Elevating Your FB Video Content Game</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/1-ultimate-guide-boost-your-pcs-performance-with-the-right-software-yl-solutions/"><u>1. Ultimate Guide: Boost Your PC's Performance with the Right Software - YL Solutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-zero-cost-custom-video-conclusions/"><u>2024 Approved Exclusive, Zero-Cost Custom Video Conclusions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-navigating-through-luts-for-improved-photography-techniques/"><u>2024 Approved Navigating Through LUTs for Improved Photography Techniques</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/address-and-repair-windows-11-search-problems-efficiently/"><u>Address and Repair Windows 11 Search Problems Efficiently</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/captivating-cherry-blossom-visual-content-images-photos-and-wallpaper-collections-from-yl-software/"><u>Captivating Cherry Blossom Visual Content: Images, Photos, and Wallpaper Collections From YL Software</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>How to Check Distance and Radius on Google Maps For your Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-honor-90-gt-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Honor 90 GT to New Android? | Dr.fone</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/is-it-necessary-to-enhance-your-security-with-extra-virus-scanners-above-windows-defender-expert-advice-by-yl-computing/"><u>Is It Necessary to Enhance Your Security with Extra Virus Scanners Above Windows Defender - Expert Advice by YL Computing</u></a></li>
+<li><a href="https://extra-information.techidaily.com/record-setting-stories-a-list-of-the-most-popular-reddit-threads/"><u>Record-Setting Stories A List of the Most Popular Reddit Threads</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/secure-transactions-with-cryptocurrency-tips-and-best-practices-by-yl-computing/"><u>Secure Transactions with Cryptocurrency: Tips & Best Practices by YL Computing</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/the-puzzle-of-skewed-scan-results-understanding-image-distortion-with-expertise-from-yl-computing/"><u>The Puzzle of Skewed Scan Results: Understanding Image Distortion with Expertise From YL Computing</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-the-leading-contenders-in-elgato-steam-decks/"><u>Unveiling the Leading Contenders in Elgato Steam Decks</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/yl-computing-explains-how-to-customize-system-audio-preferences/"><u>YL Computing Explains How to Customize System Audio Preferences</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/yl-software-guide-optimize-your-computer-for-peak-performance/"><u>YL Software Guide: Optimize Your Computer for Peak Performance</u></a></li>
 </ul></div>
 

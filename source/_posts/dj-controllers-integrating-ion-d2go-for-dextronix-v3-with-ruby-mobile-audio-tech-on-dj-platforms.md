@@ -1,7 +1,7 @@
 ---
 title: "Dj Controllers: Integrating Ion D2Go for Dextronix v3 with Ruby Mobile Audio Tech on DJ Platforms"
-date: 2024-12-02T00:14:27.904Z
-updated: 2024-12-09T02:56:29.015Z
+date: 2024-12-13T21:18:28.854Z
+updated: 2024-12-15T08:41:09.257Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ Based on a users recent request we’ve just created a new [DEX 3](https://tools
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More On The DJ2GO From ION’s Website:
@@ -35,7 +35,7 @@ Based on a users recent request we’ve just created a new [DEX 3](https://tools
 [![](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/DJ2GO_left_weblg.png?fit=300%2C188&ssl=1 "DJ2GO_left_weblg")](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/DJ2GO%5Fleft%5Fweblg.png?fit=1030%2C644&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 DJ2GO gives you a tactile feel that can’t be matched by DJing with just your computer mouse and keyboard. In fact, with DJ2GO there’s virtually no need to touch your mouse or keyboard while performing. Everything you need to do, from selecting songs and cueing, to beat-matching and volume adjustment can be controlled by DJ2GO’s generous array of faders, knobs and bright, backlit buttons. DJ2GO weighs just 13 oz. but provides a layout that DJs prefer, including two platters, a crossfader, pitch and level controls as well as Deck A, Deck B, Master and Headphone gain controls. Sync and headphone buttons allow you to instantly sync two tracks and monitor either deck section.
@@ -55,7 +55,7 @@ The ION DJ2Go is selling for around $99 on Amazon and some other online retailer
 **INSTALLATION INSTRUCTIONS:** **Unzip the Map (js file) To:** **C: (Windows) or App Folder for DEX 3 (MAC) – Program Files (x86) _\-> PCDJ -> DEX3 -> CONTROLLERS. REPLACE THE EXISTING Numark DJ2GO SCRIPT WITH THE NEW ONE!_**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -77,20 +77,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/iondj2go-blogcoverimage.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-unveiling-inauthentic-accounts-on-brand-pages-for-2024/"><u>[New] Unveiling Inauthentic Accounts on Brand Pages for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-stay-ahead-in-the-stream-top-5-video-capture-platforms-reviewed/"><u>[Updated] 2024 Approved Stay Ahead in the Stream Top 5 Video Capture Platforms Reviewed</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-from-novice-to-pro-streamlining-your-win11-zoom-sessions-for-2024/"><u>[Updated] From Novice to Pro Streamlining Your Win11 Zoom Sessions for 2024</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/can-you-rely-on-windows-defender-for-effective-malware-and-cybersecurity-protection-insights-from-yl-computing-yl-software/"><u>Can You Rely on Windows Defender for Effective Malware and Cybersecurity Protection? Insights From YL Computing | YL Software</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/customizing-your-personal-data-protection-a-step-by-step-guide-to-tweaking-privacy-settings-on-windows-10-yl-software/"><u>Customizing Your Personal Data Protection: A Step-by-Step Guide to Tweaking Privacy Settings on Windows 10 - YL Software</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/enhancing-crowd-engagement-for-live-performances-using-remote-request-features-in-pcdjs-karaoki-and-songbookdb/"><u>Enhancing Crowd Engagement for Live Performances Using Remote Request Features in PCDJ's Karaoki and SongBookDB</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/essential-strategies-for-protecting-your-online-property-learn-from-yl-computing-and-yl-software-experts/"><u>Essential Strategies for Protecting Your Online Property: Learn From YL Computing and YL Software Experts</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/file-compression-techniques-in-windows-a-simple-guide-by-yl-software/"><u>File Compression Techniques in Windows: A Simple Guide by YL Software</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-art-of-game-recording-a-comprehensive-look/"><u>In 2024, The Art of Game Recording A Comprehensive Look</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Nokia C12 Plus? | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/overcoming-jpeg-artifacts-post-export/"><u>Overcoming Jpeg Artifacts Post-Export</u></a></li>
-<li><a href="https://extra-support.techidaily.com/reel-success-unlocking-the-best-10-text-strategies-for-videos-for-2024/"><u>Reel Success - Unlocking the Best 10 Text Strategies for Videos for 2024</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/resolving-driver-setup-issues-essential-advice-from-the-experts-at-yl-software/"><u>Resolving Driver Setup Issues: Essential Advice From the Experts at YL Software</u></a></li>
-<li><a href="https://android-frp.techidaily.com/samsung-galaxy-a05-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Samsung Galaxy A05 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/understanding-constant-operation-of-windows-defender-for-continuous-cybersecurity-insights-from-yl-computing/"><u>Understanding Constant Operation of Windows Defender for Continuous Cybersecurity - Insights From YL Computing</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-free-picture-quality-enhancement-techniques/"><u>[New] Mastering Free Picture Quality Enhancement Techniques</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-understanding-digital-color-with-rgb-and-srgb-analysis/"><u>[Updated] 2024 Approved Understanding Digital Color with Rgb & Srgb Analysis</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-top-5-instagram-strategies-for-aspiring-influencers-real-success-stories/"><u>2024 Approved Top 5 Instagram Strategies for Aspiring Influencers Real Success Stories</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/exploring-reasons-behind-windows-program-failures-a-deep-dive-with-yl-computing/"><u>Exploring Reasons Behind Windows Program Failures: A Deep Dive with YL Computing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/game-changer-review-dji-mavic-air-takes-on-spark-for-2024/"><u>Game Changer Review DJI Mavic Air Takes on Spark for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-picks-youtube-to-hd-mastering-quality-conversions/"><u>In 2024, Top Picks YouTube to HD - Mastering Quality Conversions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-simple-guide-to-updating-your-lenovo-t420-drivers-on-windows-pcs/"><u>Quick and Simple Guide to Updating Your Lenovo T420 Drivers on Windows PCs</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/solving-scanner-detection-issues-selecting-and-installing-accurate-scanning-drivers-insights-from-yl-computing/"><u>Solving Scanner Detection Issues: Selecting and Installing Accurate Scanning Drivers - Insights From YL Computing</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/stylish-city-scenes-by-yl-software-premium-collection-of-720x1280-background-images-and-themes-for-computers-and-smartphones/"><u>Stylish City Scenes by YL Software – Premium Collection of 720X1280 Background Images and Themes for Computers & Smartphones</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/the-art-of-forethought-in-djing-unveiling-advanced-features-for-cutting-edge-beat-selection-using-pcdj-tools/"><u>The Art of Forethought in DJing - Unveiling Advanced Features for Cutting-Edge Beat Selection Using PCDJ Tools</u></a></li>
+<li><a href="https://facebook.techidaily.com/transform-your-social-media-presence-with-effective-backgrounds/"><u>Transform Your Social Media Presence with Effective Backgrounds</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/unveiling-your-computers-secrets-with-windows-system-information-in-the-control-panel-tips-from-yl-solutions/"><u>Unveiling Your Computer's Secrets with Windows System Information in the Control Panel – Tips From YL Solutions</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-reinstall-your-hardware-drivers-in-windows-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to reinstall your hardware drivers in Windows 10 & 7</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/yl-computing-unveils-coin-balance-tracker-v10-the-ultimate-wallet-management-app/"><u>YL Computing Unveils Coin Balance Tracker v1.0 - The Ultimate Wallet Management App</u></a></li>
 </ul></div>
 

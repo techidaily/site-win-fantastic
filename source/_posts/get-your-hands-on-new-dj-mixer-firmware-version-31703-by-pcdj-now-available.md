@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on New DJ Mixer Firmware, Version 3.17.0.3 by PCDJ Now Available!
-date: 2024-12-03T18:15:16.629Z
-updated: 2024-12-09T07:09:35.628Z
+date: 2024-12-12T16:35:50.682Z
+updated: 2024-12-15T08:15:54.073Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ We suggest you install the new 3.17.0.3 release of DEX 3 immediately. Simply dow
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in DEX 3.17.0.3
@@ -50,7 +50,7 @@ We suggest you install the new 3.17.0.3 release of DEX 3 immediately. Simply dow
 _Have questions about the latest 3.17.0.3 version of our **Top DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,17 +72,17 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2022/04/download-dex31703-1.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-video-embedding-for-dynamic-online-articles/"><u>[Updated] 2024 Approved Free Video Embedding for Dynamic Online Articles</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-seamless-transformation-top-tools-for-youtube-videos/"><u>[Updated] Seamless Transformation Top Tools for YouTube Videos</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-understanding-the-transformations-in-vegaspro-19/"><u>2024 Approved Understanding the Transformations in VegasPro '19</u></a></li>
-<li><a href="https://discover-able.techidaily.com/1728499093749-windows-11-windows-defender/"><u>针对 Windows 11 操作系统，升级 Windows Defender 的完整指南</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/can-i-use-this-scanner-with-my-pc-discover-compatibility-tips-from-yl-computing/"><u>Can I Use This Scanner With My PC? Discover Compatibility Tips From YL Computing</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-vivo-v30-pro-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Vivo V30 Pro is off? | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/effortlessly-download-every-tiktok-video/"><u>Effortlessly Download Every TikTok Video</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/navigating-video-landscape-vimeo-and-youtube-distinguished/"><u>Navigating Video Landscape Vimeo and YouTube Distinguished</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/network-adapter-problem-solving-step-by-step-guide-by-yl-computing/"><u>Network Adapter Problem-Solving: Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/personalizing-your-mouse-and-touchpad-preferences-with-windows-control-panel-tips-from-yl-computings-expert-guides/"><u>Personalizing Your Mouse & Touchpad Preferences with Windows Control Panel - Tips From YL Computing's Expert Guides</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/um-microphones-for-videographers-for-2024/"><u>Premium Microphones for Videographers for 2024</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/top-recommended-tools-for-efficiently-removing-unnecessary-file-clutter-insights-from-yl-computings-expertise/"><u>Top Recommended Tools for Efficiently Removing Unnecessary File Clutter: Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-step-by-step-legally-convert-youtube-to-mp4-format/"><u>[New] 2024 Approved Step-by-Step Legally Convert YouTube to MP4 Format</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-must-see-mac-video-frames-selection-limited-to-156-characters/"><u>[New] Must-See Mac Video Frames Selection (Limited to 156 Characters)</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-becoming-an-expert-in-igtv-a-complete-overview/"><u>[Updated] Becoming an Expert in IGTV A Complete Overview</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/addremove-user-profiles-easily-a-step-by-step-guide-on-using-the-control-panel-tips-from-yl-computing/"><u>Add/Remove User Profiles Easily: A Step-by-Step Guide on Using the Control Panel - Tips From YL Computing</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-on-apple-iphone-15-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled On Apple iPhone 15? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/do-i-need-to-run-a-disk-defragmentation-on-my-pc-insights-from-yl-computings-experts/"><u>Do I Need to Run a Disk Defragmentation on My PC? Insights From YL Computing's Experts</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/full-guide-to-unlock-apple-iphone-13-pro-max-with-itunes-drfone-by-drfone-ios/"><u>Full Guide to Unlock Apple iPhone 13 Pro Max with iTunes | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-iphone-11-pro-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass iPhone 11 Pro Passcode Easily Video Inside</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-optimal-orientation-top-tripods-for-iphones-and-androids/"><u>In 2024, Optimal Orientation Top Tripods for iPhones & Androids</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-selecting-the-perfect-fps-a-deep-dive-into-30fps-vs-60fps/"><u>In 2024, Selecting the Perfect FPS A Deep Dive Into 30Fps Vs. 60Fps</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/resolving-graphics-card-errors-a-guide-from-yl-software-experts/"><u>Resolving Graphics Card Errors: A Guide From YL Software Experts</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/troubleshooting-a-missing-network-adapter-expert-solutions-from-yl-computing/"><u>Troubleshooting a Missing Network Adapter: Expert Solutions From YL Computing</u></a></li>
 </ul></div>
 

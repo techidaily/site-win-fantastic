@@ -1,7 +1,7 @@
 ---
 title: "Excluding Specific Files From Windows Defender: A Step-by-Step Guide - Tips by YL Software"
-date: 2024-12-04T02:14:04.502Z
-updated: 2024-12-08T18:48:48.461Z
+date: 2024-12-10T21:45:03.827Z
+updated: 2024-12-15T06:10:20.361Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,22 +56,21 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-accelerated-learning-path-with-final-cut-pro/"><u>[Updated] Accelerated Learning Path with Final Cut Pro</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-content-makers-compensation-breakdown-for-youtube-shorts/"><u>[Updated] In 2024, Content Makers' Compensation Breakdown for YouTube Shorts</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/5lin6kab5pou5bplusd6kkr6kqk5yiq55qe6zu75a2q6yo15lu2ic0g5a2457pluss5b6e5asa5ycl5lplush566x5zue5ps25lif5asx5zwp6agm/"><u>不要擔心被誤刪的電子郵件 - 學習從多個信箱回收丟失問題</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/crafting-a-strong-dj-online-presence-mastering-facebook-and-twitter-in-part-1-guided-by-pcdj/"><u>Crafting a Strong DJ Online Presence: Mastering Facebook & Twitter in Part 1 - Guided by PCDJ</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/download-the-latest-update-lyrx-karaoke-app-version-102-for-mac-enhance-your-singing-experience-with-top-dj-features/"><u>Download the Latest Update: Lyrx Karaoke App (Version 1.02) for Mac - Enhance Your Singing Experience with Top DJ Features!</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/expert-tips-for-fixing-malfunctioning-graphics-card-drivers-with-yl-software-solutions/"><u>Expert Tips for Fixing Malfunctioning Graphics Card Drivers with YL Software Solutions</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/guide-to-shifting-files-across-sections-in-windows-os-by-yl-software-master-the-copy-process-with-expert-tips/"><u>Guide to Shifting Files Across Sections in Windows OS by YL Software – Master the Copy Process with Expert Tips!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-itel-a60s-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Itel A60s to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-harnessing-the-power-of-hdr-an-advanced-guide-to-ps/"><u>In 2024, Harnessing the Power of HDR An Advanced Guide to PS</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-realme-11-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Realme 11 5G Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-11-pro-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock iPhone 11 Pro Without Passcode Easily</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/optimizing-gameplay-at-30fps-across-gaming-consoles-and-personal-computers/"><u>Optimizing Gameplay at 30FPS Across Gaming Consoles and Personal Computers</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/recognizing-signs-key-indicators-of-graphics-card-malfunction-insights-by-yl-computing/"><u>Recognizing Signs: Key Indicators of Graphics Card Malfunction - Insights by YL Computing</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/solving-scanner-detection-issues-selecting-and-installing-accurate-scanning-drivers-insights-from-yl-computing/"><u>Solving Scanner Detection Issues: Selecting and Installing Accurate Scanning Drivers - Insights From YL Computing</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/stylish-city-scenes-by-yl-software-premium-collection-of-720x1280-background-images-and-themes-for-computers-and-smartphones/"><u>Stylish City Scenes by YL Software – Premium Collection of 720X1280 Background Images and Themes for Computers & Smartphones</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-solving-xbox-controller-drivers-in-microsoft-windows-systems/"><u>Troubleshooting and Solving Xbox Controller Drivers in Microsoft Windows Systems</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/upgrade-your-music-production-skills-with-the-new-pcdj-software-dex-3909-update-available-now/"><u>Upgrade Your Music Production Skills with the New PCDJ Software, DEX 3.9.0.9 Update Available Now!</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-3-step-financial-forecasting-assessing-revenue-from-googles-platform-youtube/"><u>[New] In 2024, 3-Step Financial Forecasting Assessing Revenue From Google's Platform, YouTube</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-visualizing-your-vision-the-art-of-using-luts-in-photos/"><u>[Updated] 2024 Approved Visualizing Your Vision The Art of Using LUTs in Photos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-tech-savvy-academics-recording-education-talks-with-macos-for-2024/"><u>[Updated] Tech-Savvy Academics Recording Education Talks with MacOS for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-art-of-capturing-human-gestures-an-in-depth-guide/"><u>[Updated] The Art of Capturing Human Gestures An In-Depth Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-transform-your-in-game-voice-and-sound-presence-naturally-expert-tips-for-free/"><u>2024 Approved How to Transform Your In-Game Voice and Sound Presence Naturally Expert Tips for FREE</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boosting-scholarly-performance-innovative-strategies-for-applying-chatgpt-in-research-projects-and-writing-assignments/"><u>Boosting Scholarly Performance: Innovative Strategies for Applying ChatGPT in Research Projects & Writing Assignments</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/download-stunning-carlito-olivero-image-pack-for-desktop-backgrounds-from-the-official-yl-software-store/"><u>Download Stunning Carlito Olivero Image Pack for Desktop Backgrounds, From the Official YL Software Store</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/easy-fix-for-print-issues-how-to-uninstall-and-install-printer-drivers-correctly/"><u>Easy Fix for Print Issues: How to Uninstall and Install Printer Drivers Correctly</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/enhance-pc-speed-and-reliability-with-our-expert-cleanup-tips-from-yl-software/"><u>Enhance PC Speed & Reliability with Our Expert Cleanup Tips From YL Software</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/how-to-fix-a-sudden-blank-screen-during-gaming-sessions-expert-advice-from-yl-software-experts/"><u>How to Fix a Sudden Blank Screen During Gaming Sessions - Expert Advice From YL Software Experts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-use-luts-in-photoshop-cc/"><u>How to Use LUTs in PhotoShop CC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-nokia-c300-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Nokia C300 to Another | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-privacy-hiding-your-online-footprints-across-popular-web-browsers/"><u>Mastering Privacy: Hiding Your Online Footprints Across Popular Web Browsers</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/mastering-your-system-security-a-comprehensive-walkthrough-to-configure-windows-defender-firewall-by-professionals-at-yl-software/"><u>Mastering Your System Security: A Comprehensive Walkthrough to Configure Windows Defender Firewall by Professionals at YL Software</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/navigating-through-crashes-a-guide-to-diagnosing-and-correcting-systems-blue-screen-errors-by-yl-software-experts/"><u>Navigating Through Crashes: A Guide to Diagnosing and Correcting System's Blue Screen Errors by YL Software Experts</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/troubleshooting-guide-how-to-fix-a-malfunctioning-computer-mouse-expert-advice-from-yl-computing/"><u>Troubleshooting Guide: How To Fix A Malfunctioning Computer Mouse - Expert Advice From YL Computing</u></a></li>
 </ul></div>
 
