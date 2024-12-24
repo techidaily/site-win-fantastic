@@ -1,7 +1,7 @@
 ---
 title: "Dj Controllers: Integrating Ion D2Go for Dextronix v3 with Ruby Mobile Audio Tech on DJ Platforms"
-date: 2024-12-13T21:18:28.854Z
-updated: 2024-12-15T08:41:09.257Z
+date: 2024-12-22T06:03:06.021Z
+updated: 2024-12-24T02:32:27.758Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ Based on a users recent request we’ve just created a new [DEX 3](https://tools
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More On The DJ2GO From ION’s Website:
@@ -35,7 +35,7 @@ Based on a users recent request we’ve just created a new [DEX 3](https://tools
 [![](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/DJ2GO_left_weblg.png?fit=300%2C188&ssl=1 "DJ2GO_left_weblg")](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/DJ2GO%5Fleft%5Fweblg.png?fit=1030%2C644&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 DJ2GO gives you a tactile feel that can’t be matched by DJing with just your computer mouse and keyboard. In fact, with DJ2GO there’s virtually no need to touch your mouse or keyboard while performing. Everything you need to do, from selecting songs and cueing, to beat-matching and volume adjustment can be controlled by DJ2GO’s generous array of faders, knobs and bright, backlit buttons. DJ2GO weighs just 13 oz. but provides a layout that DJs prefer, including two platters, a crossfader, pitch and level controls as well as Deck A, Deck B, Master and Headphone gain controls. Sync and headphone buttons allow you to instantly sync two tracks and monitor either deck section.
@@ -55,7 +55,7 @@ The ION DJ2Go is selling for around $99 on Amazon and some other online retailer
 **INSTALLATION INSTRUCTIONS:** **Unzip the Map (js file) To:** **C: (Windows) or App Folder for DEX 3 (MAC) – Program Files (x86) _\-> PCDJ -> DEX3 -> CONTROLLERS. REPLACE THE EXISTING Numark DJ2GO SCRIPT WITH THE NEW ONE!_**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -77,20 +77,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/iondj2go-blogcoverimage.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-free-picture-quality-enhancement-techniques/"><u>[New] Mastering Free Picture Quality Enhancement Techniques</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-understanding-digital-color-with-rgb-and-srgb-analysis/"><u>[Updated] 2024 Approved Understanding Digital Color with Rgb & Srgb Analysis</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-top-5-instagram-strategies-for-aspiring-influencers-real-success-stories/"><u>2024 Approved Top 5 Instagram Strategies for Aspiring Influencers Real Success Stories</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/exploring-reasons-behind-windows-program-failures-a-deep-dive-with-yl-computing/"><u>Exploring Reasons Behind Windows Program Failures: A Deep Dive with YL Computing</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/game-changer-review-dji-mavic-air-takes-on-spark-for-2024/"><u>Game Changer Review DJI Mavic Air Takes on Spark for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Honor Play 40C | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-top-picks-youtube-to-hd-mastering-quality-conversions/"><u>In 2024, Top Picks YouTube to HD - Mastering Quality Conversions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-and-simple-guide-to-updating-your-lenovo-t420-drivers-on-windows-pcs/"><u>Quick and Simple Guide to Updating Your Lenovo T420 Drivers on Windows PCs</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/solving-scanner-detection-issues-selecting-and-installing-accurate-scanning-drivers-insights-from-yl-computing/"><u>Solving Scanner Detection Issues: Selecting and Installing Accurate Scanning Drivers - Insights From YL Computing</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/stylish-city-scenes-by-yl-software-premium-collection-of-720x1280-background-images-and-themes-for-computers-and-smartphones/"><u>Stylish City Scenes by YL Software – Premium Collection of 720X1280 Background Images and Themes for Computers & Smartphones</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/the-art-of-forethought-in-djing-unveiling-advanced-features-for-cutting-edge-beat-selection-using-pcdj-tools/"><u>The Art of Forethought in DJing - Unveiling Advanced Features for Cutting-Edge Beat Selection Using PCDJ Tools</u></a></li>
-<li><a href="https://facebook.techidaily.com/transform-your-social-media-presence-with-effective-backgrounds/"><u>Transform Your Social Media Presence with Effective Backgrounds</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/unveiling-your-computers-secrets-with-windows-system-information-in-the-control-panel-tips-from-yl-solutions/"><u>Unveiling Your Computer's Secrets with Windows System Information in the Control Panel – Tips From YL Solutions</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-reinstall-your-hardware-drivers-in-windows-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to reinstall your hardware drivers in Windows 10 & 7</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/yl-computing-unveils-coin-balance-tracker-v10-the-ultimate-wallet-management-app/"><u>YL Computing Unveils Coin Balance Tracker v1.0 - The Ultimate Wallet Management App</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/1-revising-your-username-a-step-by-step-guide-through-control-panel-settings/"><u>1. Revising Your Username: A Step-by-Step Guide Through Control Panel Settings</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-the-ultimate-guide-to-earning-money-on-reddit-for-beginners/"><u>2024 Approved The Ultimate Guide to Earning Money on Reddit for Beginners</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-novel-approach-to-delivery-reinvented-box-revelations-for-2024/"><u>A Novel Approach to Delivery Reinvented Box Revelations for 2024</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/access-over-300-new-karaoke-tracks-immediately-exclusive-offer-for-karaoke-cloud-pro-members/"><u>Access Over 300 New Karaoke Tracks Immediately - Exclusive Offer for Karaoke Cloud Pro Members!</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-ending-risk-of-rain-2-game-freezes-and-crashes/"><u>Effective Solutions: Ending Risk of Rain ^2 Game Freezes and Crashes</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/expert-analysis-on-overheating-cpus-by-yl-software-professionals/"><u>Expert Analysis on Overheating CPUs by YL Software Professionals</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96317219-9781401929978-how-my-death-saved-my-life/"><u>How My Death Saved My Life | Free Book</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Oppo Find X6? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-how-to-make-a-lasting-impression-with-your-facebook-profile-story/"><u>In 2024, How to Make a Lasting Impression with Your Facebook Profile Story</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/is-money-taken-for-access-to-crypto-balance-trackers-with-yl-softwares-innovative-solutions/"><u>Is Money Taken for Access to Crypto Balance Trackers with YL Software's Innovative Solutions?</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/mastering-privacy-and-safety-adjusting-windows-10-security-settings-simplified-yl-computing/"><u>Mastering Privacy & Safety: Adjusting Windows 10 Security Settings Simplified - YL Computing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/tips-and-tricks-for-enhancing-frames-per-second-fps-in-tainted-grail-conquest-gameplay/"><u>Tips and Tricks for Enhancing Frames Per Second (FPS) in Tainted Grail: Conquest Gameplay</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/top-free-software-replacements-for-acronis-backup-and-recovery/"><u>Top Free Software Replacements for Acronis Backup & Recovery</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Ultimate Tutorial on Using LYRX for Karaoke with Your PCDJ Setup | Video Walkthrough
-date: 2024-12-14T03:24:42.711Z
-updated: 2024-12-14T18:51:45.247Z
+date: 2024-12-18T22:34:06.170Z
+updated: 2024-12-24T05:41:34.813Z
 tags:
   - product
 categories:
@@ -18,7 +18,7 @@ In the video tutorial above, we demonstrate how to use the commercially-legal [P
 You can learn more about LYRX and download a free trial at [LYRXKaraoke.com](http://www.lyrxkaraoke.com)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -40,21 +40,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2019/02/pt-lyrx-cover.jpg?fit=706%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ssential-errors-to-dodge-beginner-youtubers-guide-for-2024/"><u>[New] Essential Errors to Dodge Beginner YouTuber's Guide for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-swift-film-techniques-for-at-home-creators/"><u>[New] Swift Film Techniques for At-Home Creators</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-beginners-roadmap-to-free-youtube-intro-videos/"><u>[New] The Beginner's Roadmap to Free YouTube Intro Videos</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-sound-connection-a-podcasters-guide/"><u>2024 Approved Ultimate Sound Connection A Podcaster's Guide</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/customizing-your-system-with-yl-softwares-control-panel-settings/"><u>Customizing Your System with YL Software's Control Panel Settings</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/diy-guide-checking-your-pcs-psu-functionality-yl-software-solutions/"><u>DIY Guide: Checking Your PC's PSU Functionality - YL Software Solutions</u></a></li>
-<li><a href="https://win-dash.techidaily.com/easy-guide-downloading-and-installing-windows-drivers-for-the-canon-mf743cdw/"><u>Easy Guide: Downloading & Installing Windows Drivers for the Canon MF743CDW</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/enhance-your-pcs-cooling-system-expert-tips-from-yl-computing-the-ultimate-guide/"><u>Enhance Your PC's Cooling System: Expert Tips From YL Computing - The Ultimate Guide</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/how-to-recover-damaged-files-using-windows-file-recovery-a-guide-by-yl-computing/"><u>How to Recover Damaged Files Using Windows File Recovery: A Guide by YL Computing</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723012051804-how-to-solve-platinum-dust-stutter-issues-the-ultimate-fixes-guide/"><u>How To Solve 'Platinum: Dust' Stutter Issues - The Ultimate Fixes Guide!</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-ice-and-velocity-memorable-moments-from-the-winter-olympics-snowboard-race/"><u>In 2024, Ice & Velocity Memorable Moments From the Winter Olympics Snowboard Race</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/karaoke-cloud-pro-from-pioneer-dj-transforming-vocalists-into-stars-this-week/"><u>Karaoke Cloud Pro From Pioneer DJ: Transforming Vocalists Into Stars This Week!</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/master-your-mouse-controls-a-step-by-step-setup-using-yl-software-solutions/"><u>Master Your Mouse Controls: A Step-by-Step Setup Using YL Software Solutions</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-zte-blade-a73-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on ZTE Blade A73 5G | Dr.fone</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/step-by-step-guide-updating-your-graphics-card-drivers-tips-from-yl-computing/"><u>Step-by-Step Guide: Updating Your Graphics Card Drivers - Tips From YL Computing</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unlock-the-power-of-spotifys-advertising-potential-for-2024/"><u>Unlock the Power of Spotify’s Advertising Potential for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-stunning-photography-10-top-grid-software/"><u>[New] 2024 Approved Stunning Photography 10 Top Grid Software</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/pic-playlist-over-a-hundred-top-tier-titles-for-2024/"><u>[New] Epic Playlist Over a Hundred Top-Tier Titles for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-behind-the-scenes-expert-video-editing-techniques-for-youtubers/"><u>[New] In 2024, Behind the Scenes Expert Video Editing Techniques for YouTubers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-essential-youtube-rules-for-content-creators/"><u>[New] In 2024, Essential YouTube Rules for Content Creators</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-simplifying-live-broadcasts-with-efficient-obs-tips/"><u>[New] Simplifying Live Broadcasts with Efficient OBS Tips</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-youtube-movie-maker-unveiled-your-path-to-video-mastery/"><u>[Updated] In 2024, YouTube Movie Maker Unveiled Your Path to Video Mastery</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/avoid-slower-pc-speeds-with-yl-computing-a-guide-on-preventing-unnecessary-program-run-throughs-in-the-background/"><u>Avoid Slower PC Speeds with YL Computing: A Guide on Preventing Unnecessary Program Run-Throughs in the Background</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/confirm-window-compatibility-of-your-sound-card-expert-tips-from-yl-computing/"><u>Confirm Window-Compatibility of Your Sound Card - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/diaporamas-depousailles-comment-realiser-des-diapositives-pour-un-voyage-au-dela-des-promesses-maker-dimages-nuptiales/"><u>Diaporamas D'Épousailles: Comment Réaliser Des Diapositives Pour Un Voyage Au-Delà Des Promesses - Maker D'Images Nuptiales</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/disabling-unnecessary-processes-in-windows-10/"><u>Disabling Unnecessary Processes in Windows 10</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/get-your-hands-on-new-dj-mixer-firmware-version-31703-by-pcdj-now-available/"><u>Get Your Hands on New DJ Mixer Firmware, Version 3.17.0.3 by PCDJ Now Available!</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/optimize-computer-performance-by-expanding-disk-space-tips-and-techniques-by-yl-software-experts/"><u>Optimize Computer Performance by Expanding Disk Space: Tips and Techniques by YL Software Experts</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/premium-gmc-trucks-backgrounds-for-pc-professional-graphics-designed-by-yl-computings-expert-software-team/"><u>Premium GMC Trucks Backgrounds for PC: Professional Graphics Designed by YL Computing's Expert Software Team</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/step-by-step-guide-to-tweaking-mousetouchpad-preferences-in-windows-control-panel-with-yl-software-insights/"><u>Step-by-Step Guide to Tweaking Mouse/Touchpad Preferences in Windows Control Panel with YL Software Insights</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/step-by-step-guide-align-your-pcs-time-with-an-internet-time-authority-using-windows-tips-from-yl-computing/"><u>Step-by-Step Guide: Align Your PC's Time with an Internet Time Authority Using Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-solution-to-fix-your-windows-store-cache-problems-today/"><u>The Ultimate Solution to Fix Your Windows Store Cache Problems Today</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/the-ultimate-tutorial-on-disabling-yl-computings-software-from-your-pc-step-by-step-process/"><u>The Ultimate Tutorial on Disabling YL Computing's Software From Your PC - Step-by-Step Process</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unparalleled-audio-experience-premiere-wired-headphones-of-2024/"><u>Unparalleled Audio Experience: Premiere Wired Headphones of 2024</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/why-does-my-pc-turn-off-without-warning-solutions-by-yl-software-experts/"><u>Why Does My PC Turn Off Without Warning? Solutions by YL Software Experts</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Current Projects and Innovations at PCDJ Headquarters: A Peek Into Our Work Today"
-date: 2024-12-07T19:09:37.260Z
-updated: 2024-12-15T02:51:17.731Z
+date: 2024-12-17T20:16:19.551Z
+updated: 2024-12-24T03:27:12.219Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ No, this is all about what’s next, and what new and fantastic features we have
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DJ Software: What We’re Working On Now
@@ -38,7 +38,7 @@ No, this is all about what’s next, and what new and fantastic features we have
 * In addition to Visualizations, DEX 3 users will have the ability to run picture slide-shows while mixing music or music videos. Select a directory of images/pictures and they will play on screen (_secondary audience display_) using smooth transitions between pictures. DJs will also have the ability to run picture overlays over-top playing music videos, allowing DJs to create a completely custom visual presentation. We can see many useful applications for this, such as advertisements or “drink specials”.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -60,20 +60,14 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/03/comingsoontopcdj-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-the-ultimate-guide-elevating-your-fb-video-content-game/"><u>[New] 2024 Approved The Ultimate Guide Elevating Your FB Video Content Game</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/1-ultimate-guide-boost-your-pcs-performance-with-the-right-software-yl-solutions/"><u>1. Ultimate Guide: Boost Your PC's Performance with the Right Software - YL Solutions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-zero-cost-custom-video-conclusions/"><u>2024 Approved Exclusive, Zero-Cost Custom Video Conclusions</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-navigating-through-luts-for-improved-photography-techniques/"><u>2024 Approved Navigating Through LUTs for Improved Photography Techniques</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/address-and-repair-windows-11-search-problems-efficiently/"><u>Address and Repair Windows 11 Search Problems Efficiently</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/captivating-cherry-blossom-visual-content-images-photos-and-wallpaper-collections-from-yl-software/"><u>Captivating Cherry Blossom Visual Content: Images, Photos, and Wallpaper Collections From YL Software</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>How to Check Distance and Radius on Google Maps For your Apple iPhone SE (2020) | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-honor-90-gt-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Honor 90 GT to New Android? | Dr.fone</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/is-it-necessary-to-enhance-your-security-with-extra-virus-scanners-above-windows-defender-expert-advice-by-yl-computing/"><u>Is It Necessary to Enhance Your Security with Extra Virus Scanners Above Windows Defender - Expert Advice by YL Computing</u></a></li>
-<li><a href="https://extra-information.techidaily.com/record-setting-stories-a-list-of-the-most-popular-reddit-threads/"><u>Record-Setting Stories A List of the Most Popular Reddit Threads</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/secure-transactions-with-cryptocurrency-tips-and-best-practices-by-yl-computing/"><u>Secure Transactions with Cryptocurrency: Tips & Best Practices by YL Computing</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/the-puzzle-of-skewed-scan-results-understanding-image-distortion-with-expertise-from-yl-computing/"><u>The Puzzle of Skewed Scan Results: Understanding Image Distortion with Expertise From YL Computing</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-the-leading-contenders-in-elgato-steam-decks/"><u>Unveiling the Leading Contenders in Elgato Steam Decks</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/yl-computing-explains-how-to-customize-system-audio-preferences/"><u>YL Computing Explains How to Customize System Audio Preferences</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/yl-software-guide-optimize-your-computer-for-peak-performance/"><u>YL Software Guide: Optimize Your Computer for Peak Performance</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-instantpodstreams-a-step-by-step-approach-to-live-broadcasting-for-2024/"><u>[New] InstantPodStreams A Step-by-Step Approach to Live Broadcasting for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-masterclass-in-instagram-designing-eye-catching-cover-images/"><u>[Updated] 2024 Approved Masterclass in Instagram Designing Eye-Catching Cover Images</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unforgettable-visuals-key-elements-in-podcast-logo-creation/"><u>2024 Approved Unforgettable Visuals Key Elements in Podcast Logo Creation</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/addremove-user-profiles-easily-a-step-by-step-guide-on-using-the-control-panel-tips-from-yl-computing/"><u>Add/Remove User Profiles Easily: A Step-by-Step Guide on Using the Control Panel - Tips From YL Computing</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/do-i-need-to-run-a-disk-defragmentation-on-my-pc-insights-from-yl-computings-experts/"><u>Do I Need to Run a Disk Defragmentation on My PC? Insights From YL Computing's Experts</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/easy-extraction-top-10-youtube-text-grabber-apps-reviewed-for-2024/"><u>Easy Extraction Top 10 YouTube Text Grabber Apps Reviewed for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/how-to-broadcast-your-online-meeting-via-youtube-google-meet-steps-for-2024/"><u>How To Broadcast Your Online Meeting via YouTube - Google Meet Steps for 2024</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/how-to-recover-data-when-your-pc-wont-start-due-to-hard-drive-issues-insights-by-yl-computing/"><u>How To Recover Data When Your PC Won't Start Due to Hard Drive Issues - Insights by YL Computing</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/troubleshooting-a-missing-network-adapter-expert-solutions-from-yl-computing/"><u>Troubleshooting a Missing Network Adapter: Expert Solutions From YL Computing</u></a></li>
 </ul></div>
 

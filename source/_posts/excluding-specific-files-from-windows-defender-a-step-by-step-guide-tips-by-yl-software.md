@@ -1,7 +1,7 @@
 ---
 title: "Excluding Specific Files From Windows Defender: A Step-by-Step Guide - Tips by YL Software"
-date: 2024-12-10T21:45:03.827Z
-updated: 2024-12-15T06:10:20.361Z
+date: 2024-12-22T05:31:38.859Z
+updated: 2024-12-23T23:33:41.307Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,21 +56,21 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-3-step-financial-forecasting-assessing-revenue-from-googles-platform-youtube/"><u>[New] In 2024, 3-Step Financial Forecasting Assessing Revenue From Google's Platform, YouTube</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-visualizing-your-vision-the-art-of-using-luts-in-photos/"><u>[Updated] 2024 Approved Visualizing Your Vision The Art of Using LUTs in Photos</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-tech-savvy-academics-recording-education-talks-with-macos-for-2024/"><u>[Updated] Tech-Savvy Academics Recording Education Talks with MacOS for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-art-of-capturing-human-gestures-an-in-depth-guide/"><u>[Updated] The Art of Capturing Human Gestures An In-Depth Guide</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-transform-your-in-game-voice-and-sound-presence-naturally-expert-tips-for-free/"><u>2024 Approved How to Transform Your In-Game Voice and Sound Presence Naturally Expert Tips for FREE</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boosting-scholarly-performance-innovative-strategies-for-applying-chatgpt-in-research-projects-and-writing-assignments/"><u>Boosting Scholarly Performance: Innovative Strategies for Applying ChatGPT in Research Projects & Writing Assignments</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/download-stunning-carlito-olivero-image-pack-for-desktop-backgrounds-from-the-official-yl-software-store/"><u>Download Stunning Carlito Olivero Image Pack for Desktop Backgrounds, From the Official YL Software Store</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/easy-fix-for-print-issues-how-to-uninstall-and-install-printer-drivers-correctly/"><u>Easy Fix for Print Issues: How to Uninstall and Install Printer Drivers Correctly</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/enhance-pc-speed-and-reliability-with-our-expert-cleanup-tips-from-yl-software/"><u>Enhance PC Speed & Reliability with Our Expert Cleanup Tips From YL Software</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/how-to-fix-a-sudden-blank-screen-during-gaming-sessions-expert-advice-from-yl-software-experts/"><u>How to Fix a Sudden Blank Screen During Gaming Sessions - Expert Advice From YL Software Experts</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/how-to-use-luts-in-photoshop-cc/"><u>How to Use LUTs in PhotoShop CC</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-nokia-c300-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Nokia C300 to Another | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-privacy-hiding-your-online-footprints-across-popular-web-browsers/"><u>Mastering Privacy: Hiding Your Online Footprints Across Popular Web Browsers</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/mastering-your-system-security-a-comprehensive-walkthrough-to-configure-windows-defender-firewall-by-professionals-at-yl-software/"><u>Mastering Your System Security: A Comprehensive Walkthrough to Configure Windows Defender Firewall by Professionals at YL Software</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/navigating-through-crashes-a-guide-to-diagnosing-and-correcting-systems-blue-screen-errors-by-yl-software-experts/"><u>Navigating Through Crashes: A Guide to Diagnosing and Correcting System's Blue Screen Errors by YL Software Experts</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/troubleshooting-guide-how-to-fix-a-malfunctioning-computer-mouse-expert-advice-from-yl-computing/"><u>Troubleshooting Guide: How To Fix A Malfunctioning Computer Mouse - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-free-top-10-best-drawing-software-for-mac/"><u>[New] In 2024, FREE Top 10 Best Drawing Software for Mac</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-poker-playpersonalized-projections/"><u>[New] POKER PLAYPERSONALIZED PROJECTIONS</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-why-are-my-instagram-videos-playing-sideways-seeking-answers-for-2024/"><u>[New] Why Are My Instagram Videos Playing Sideways - Seeking Answers for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-comprehensive-sierras-icloud-drives-the-full-experience/"><u>[Updated] Comprehensive Sierra's iCloud Drives – The Full Experience</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/dealing-with-the-blue-screen-of-death-handling-hardware-related-issues-guidance-by-yl-computing/"><u>Dealing with the Blue Screen of Death: Handling Hardware-Related Issues - Guidance by YL Computing</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/ensuring-your-safety-a-deep-dive-into-the-security-of-cryptocurrency-wallet-balance-verification-tools-yl-computing/"><u>Ensuring Your Safety: A Deep Dive Into the Security of Cryptocurrency Wallet Balance Verification Tools - YL Computing</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/experience-the-latest-partytyme-karaoke-on-dex-39-subscription-launch-demo/"><u>Experience the Latest PartyTyme Karaoke on DEX 3.9 - Subscription Launch Demo</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/expert-tips-for-troubleshooting-wireless-connection-woes-with-yl-software/"><u>Expert Tips for Troubleshooting Wireless Connection Woes with YL Software</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-poco-x5-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Poco X5 to iPad | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/inside-look-how-xbox-sanctions-misconduct/"><u>Inside Look: How Xbox Sanctions Misconduct</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/make-your-windows-10-desktop-reflect-you-customization-techniques-from-yl-software-experts/"><u>Make Your Windows 10 Desktop Reflect You: Customization Techniques From YL Software Experts</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/palette-playbook-utilizing-theoretical-knowledge-for-2024/"><u>Palette Playbook Utilizing Theoretical Knowledge for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-how-to-get-your-hyperx-cloud-headset-mic-working-again/"><u>Solved! How to Get Your HyperX Cloud Headset Mic Working Again</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-resolving-crashes-in-outpost-infinity-siege-on-windows/"><u>Step-by-Step Guide: Resolving Crashes in Outpost: Infinity Siege on Windows</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/troubleshooting-ram-problems-for-smoother-performance-advice-from-yl-software-experts/"><u>Troubleshooting RAM Problems for Smoother Performance - Advice From YL Software Experts</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/ultimate-tutorial-on-using-lyrx-for-karaoke-with-your-pcdj-setup-video-walkthrough/"><u>Ultimate Tutorial on Using LYRX for Karaoke with Your PCDJ Setup | Video Walkthrough</u></a></li>
 </ul></div>
 

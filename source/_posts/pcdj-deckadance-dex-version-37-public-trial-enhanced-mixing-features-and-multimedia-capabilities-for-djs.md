@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Deckadance DEX Version 3.7 Public Trial: Enhanced Mixing Features & Multimedia Capabilities for DJs"
-date: 2024-12-13T07:36:13.553Z
-updated: 2024-12-14T17:33:47.636Z
+date: 2024-12-20T05:32:33.333Z
+updated: 2024-12-23T19:11:08.823Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ This is a much anticipated and requested feature update for DEX 3 and while test
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here are the key highlights of this major update to DEX 3.7 (Public Beta 1)
@@ -55,7 +55,7 @@ This is a much anticipated and requested feature update for DEX 3 and while test
 _Have questions about our [video mixing software](https://tools.techidaily.com/pcdj/products/)? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -77,21 +77,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/08/dex3publicbeta-overlays-co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-expertly-selected-best-5-free-online-convertors-for-2024/"><u>[New] Expertly Selected Best 5 Free Online Convertors for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-screencast-o-matic-review/"><u>[New] In 2024, Screencast-O-Matic Review</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-masterful-marketing-essential-expressions-for-professionals/"><u>[New] Masterful Marketing Essential Expressions for Professionals</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-power-of-personalization-upgrade-your-youtube-url/"><u>[New] The Power of Personalization Upgrade Your YouTube URL</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-how-to-feature-music-on-instant-stories/"><u>[Updated] In 2024, How to Feature Music on Instant Stories</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-new-windows-11-insiders-edge-techniques/"><u>[Updated] New Windows 11 Insider's Edge Techniques</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/customizing-your-system-with-yl-softwares-control-panel-settings/"><u>Customizing Your System with YL Software's Control Panel Settings</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/dealing-with-a-faulty-memory-on-your-machine-proactive-steps-by-yl-computing-experts/"><u>Dealing with a Faulty Memory on Your Machine: Proactive Steps by YL Computing Experts</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/diy-guide-checking-your-pcs-psu-functionality-yl-software-solutions/"><u>DIY Guide: Checking Your PC's PSU Functionality - YL Software Solutions</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/how-to-recover-damaged-files-using-windows-file-recovery-a-guide-by-yl-computing/"><u>How to Recover Damaged Files Using Windows File Recovery: A Guide by YL Computing</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-computer-security-securing-your-pc-in-five-ways-on-windows/"><u>Mastering Computer Security: Securing Your PC in Five Ways on Windows</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/mastering-privacy-and-safety-adjusting-windows-10-security-settings-simplified-yl-computing/"><u>Mastering Privacy & Safety: Adjusting Windows 10 Security Settings Simplified - YL Computing</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/shambling-successes-the-cutthroat-list-of-best-zombies-gaming-for-2024/"><u>Shambling Successes The Cutthroat List of Best Zombies Gaming for 2024</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/step-by-step-guide-updating-your-graphics-card-drivers-tips-from-yl-computing/"><u>Step-by-Step Guide: Updating Your Graphics Card Drivers - Tips From YL Computing</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/step-by-step-scan-troubleshooting-for-optimal-performance-with-yl-software-support/"><u>Step-by-Step Scan Troubleshooting for Optimal Performance with YL Software Support</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unlock-a-steep-discount-on-the-asus-rog-strix-g1ve-for-gamers-shop-now-with-600-savings-zdnet/"><u>Unlock a Steep Discount on the Asus ROG Strix G1ve for Gamers! Shop Now with $600 Savings | ZDNET</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-earning-strategies-for-successful-youtube-shorts-what-you-need-and-how-much/"><u>[New] 2024 Approved Earning Strategies for Successful Youtube Shorts What You Need & How Much?</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-snap-edit-and-enchant-the-ultimate-guide-to-stellar-tiktok-videos/"><u>[New] 2024 Approved Snap, Edit & Enchant The Ultimate Guide to Stellar TikTok Videos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-top-picks-for-traditional-japanese-huts-in-mc-worlds/"><u>[New] 2024 Approved Top Picks for Traditional Japanese Huts in MC Worlds</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-abletons-precision-in-sound-reduction/"><u>[New] Ableton's Precision in Sound Reduction</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/configuring-windows-for-immediate-file-opens-by-default-expert-tips-from-yl-software/"><u>Configuring Windows for Immediate File Opens by Default - Expert Tips From YL Software</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/easy-steps-to-link-your-desktop-to-wifi-expert-advice-by-yl-software/"><u>Easy Steps to Link Your Desktop to WiFi - Expert Advice by YL Software</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/exclusive-dj-curated-pop-and-hip-hop-playlist-access-unlock-your-professional-karaoke-experience/"><u>Exclusive DJ-Curated Pop & Hip Hop Playlist Access: Unlock Your Professional Karaoke Experience!</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/fix-a-non-responsive-printer-essential-guidance-from-yl-computing-experts/"><u>Fix a Non-Responsive Printer: Essential Guidance From YL Computing Experts</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-vivo-x-flip-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Vivo X Flip</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-send-ringtones-from-apple-iphone-14-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Send Ringtones from Apple iPhone 14 to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-streamline-your-filming-journey-a-step-by-step-guide-to-utilize-your-logitech-camera/"><u>In 2024, Streamline Your Filming Journey A Step-by-Step Guide to Utilize Your Logitech Camera</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transform-ideas-into-reality-get-movie-maker-for-w11-users/"><u>In 2024, Transform Ideas Into Reality Get Movie Maker for W11 Users</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/step-by-step-guide-updating-your-password-on-yl-computing-platform/"><u>Step-by-Step Guide: Updating Your Password on YL Computing Platform</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/ultimate-guide-top-methods-for-eradicating-malware-and-viruses-from-your-pc-expert-advice-by-yl-computing/"><u>Ultimate Guide: Top Methods for Eradicating Malware and Viruses From Your PC - Expert Advice by YL Computing</u></a></li>
 </ul></div>
 

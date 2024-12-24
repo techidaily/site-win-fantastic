@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on New DJ Mixer Firmware, Version 3.17.0.3 by PCDJ Now Available!
-date: 2024-12-12T16:35:50.682Z
-updated: 2024-12-15T08:15:54.073Z
+date: 2024-12-19T03:39:52.527Z
+updated: 2024-12-23T20:08:15.516Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ We suggest you install the new 3.17.0.3 release of DEX 3 immediately. Simply dow
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in DEX 3.17.0.3
@@ -50,7 +50,7 @@ We suggest you install the new 3.17.0.3 release of DEX 3 immediately. Simply dow
 _Have questions about the latest 3.17.0.3 version of our **Top DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,17 +72,17 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2022/04/download-dex31703-1.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-step-by-step-legally-convert-youtube-to-mp4-format/"><u>[New] 2024 Approved Step-by-Step Legally Convert YouTube to MP4 Format</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-must-see-mac-video-frames-selection-limited-to-156-characters/"><u>[New] Must-See Mac Video Frames Selection (Limited to 156 Characters)</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-becoming-an-expert-in-igtv-a-complete-overview/"><u>[Updated] Becoming an Expert in IGTV A Complete Overview</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/addremove-user-profiles-easily-a-step-by-step-guide-on-using-the-control-panel-tips-from-yl-computing/"><u>Add/Remove User Profiles Easily: A Step-by-Step Guide on Using the Control Panel - Tips From YL Computing</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-on-apple-iphone-15-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled On Apple iPhone 15? 7 Mehtods You Cant-Miss</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/do-i-need-to-run-a-disk-defragmentation-on-my-pc-insights-from-yl-computings-experts/"><u>Do I Need to Run a Disk Defragmentation on My PC? Insights From YL Computing's Experts</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/full-guide-to-unlock-apple-iphone-13-pro-max-with-itunes-drfone-by-drfone-ios/"><u>Full Guide to Unlock Apple iPhone 13 Pro Max with iTunes | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-iphone-11-pro-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass iPhone 11 Pro Passcode Easily Video Inside</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-optimal-orientation-top-tripods-for-iphones-and-androids/"><u>In 2024, Optimal Orientation Top Tripods for iPhones & Androids</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-selecting-the-perfect-fps-a-deep-dive-into-30fps-vs-60fps/"><u>In 2024, Selecting the Perfect FPS A Deep Dive Into 30Fps Vs. 60Fps</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/resolving-graphics-card-errors-a-guide-from-yl-software-experts/"><u>Resolving Graphics Card Errors: A Guide From YL Software Experts</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/troubleshooting-a-missing-network-adapter-expert-solutions-from-yl-computing/"><u>Troubleshooting a Missing Network Adapter: Expert Solutions From YL Computing</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-convenient-tactics-for-transferring-imovie-projects-to-vimeo-for-2024/"><u>[New] Convenient Tactics for Transferring iMovie Projects to Vimeo for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-seamless-igtv-and-fb-sharing-guide/"><u>[New] In 2024, Seamless IGTV and FB Sharing Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-fb-content-extraction-made-simple-windows-and-macos/"><u>[Updated] 2024 Approved FB Content Extraction Made Simple Windows & macOS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-hand-tracking-an-in-depth-look/"><u>2024 Approved Exploring Hand Tracking An In-Depth Look</u></a></li>
+<li><a href="https://win-answers.techidaily.com/improve-your-avatar-experience-fixes-for-fps-and-stuttering-problems/"><u>Improve Your Avatar Experience - Fixes for FPS and Stuttering Problems</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/navigating-windows-defenders-interaction-with-alternate-av-programs-a-guide-by-yl-software-experts/"><u>Navigating Windows Defender's Interaction with Alternate AV Programs: A Guide by YL Software Experts</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/restorasi-data-sketchup-tutorial-jelajah-untuk-mengembalikan-file-yang-hilang/"><u>Restorasi Data SketchUp: Tutorial Jelajah Untuk Mengembalikan File Yang Hilang</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/step-by-step-guide-on-replacing-defective-parts-by-yl-software-experts/"><u>Step-by-Step Guide on Replacing Defective Parts by YL Software Experts</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/tailor-made-windows-control-panel-configurations-with-yl-softwares-expert-tips-and-tricks/"><u>Tailor-Made Windows Control Panel Configurations with YL Software's Expert Tips and Tricks</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-guide-to-using-green-screen-in-kinemaster-a-stepwise-approach/"><u>The Ultimate Guide to Using Green Screen in Kinemaster A Stepwise Approach</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/the-ultimate-techniques-for-retrieving-aol-emails-with-yl-software-expertise/"><u>The Ultimate Techniques for Retrieving AOL Emails with YL Software Expertise</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/troubleshooting-visual-disturbances-in-windows-systems-with-expert-tips-from-yl-computing/"><u>Troubleshooting Visual Disturbances in Windows Systems with Expert Tips From YL Computing</u></a></li>
 </ul></div>
 
