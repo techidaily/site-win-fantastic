@@ -1,7 +1,7 @@
 ---
 title: "Excluding Specific Files From Windows Defender: A Step-by-Step Guide - Tips by YL Software"
-date: 2024-12-22T05:31:38.859Z
-updated: 2024-12-23T23:33:41.307Z
+date: 2024-12-24T16:30:43.815Z
+updated: 2024-12-30T00:05:44.703Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,21 +56,22 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-free-top-10-best-drawing-software-for-mac/"><u>[New] In 2024, FREE Top 10 Best Drawing Software for Mac</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-poker-playpersonalized-projections/"><u>[New] POKER PLAYPERSONALIZED PROJECTIONS</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-why-are-my-instagram-videos-playing-sideways-seeking-answers-for-2024/"><u>[New] Why Are My Instagram Videos Playing Sideways - Seeking Answers for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-comprehensive-sierras-icloud-drives-the-full-experience/"><u>[Updated] Comprehensive Sierra's iCloud Drives – The Full Experience</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/dealing-with-the-blue-screen-of-death-handling-hardware-related-issues-guidance-by-yl-computing/"><u>Dealing with the Blue Screen of Death: Handling Hardware-Related Issues - Guidance by YL Computing</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/ensuring-your-safety-a-deep-dive-into-the-security-of-cryptocurrency-wallet-balance-verification-tools-yl-computing/"><u>Ensuring Your Safety: A Deep Dive Into the Security of Cryptocurrency Wallet Balance Verification Tools - YL Computing</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/experience-the-latest-partytyme-karaoke-on-dex-39-subscription-launch-demo/"><u>Experience the Latest PartyTyme Karaoke on DEX 3.9 - Subscription Launch Demo</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/expert-tips-for-troubleshooting-wireless-connection-woes-with-yl-software/"><u>Expert Tips for Troubleshooting Wireless Connection Woes with YL Software</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-poco-x5-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Poco X5 to iPad | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/inside-look-how-xbox-sanctions-misconduct/"><u>Inside Look: How Xbox Sanctions Misconduct</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/make-your-windows-10-desktop-reflect-you-customization-techniques-from-yl-software-experts/"><u>Make Your Windows 10 Desktop Reflect You: Customization Techniques From YL Software Experts</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/palette-playbook-utilizing-theoretical-knowledge-for-2024/"><u>Palette Playbook Utilizing Theoretical Knowledge for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-how-to-get-your-hyperx-cloud-headset-mic-working-again/"><u>Solved! How to Get Your HyperX Cloud Headset Mic Working Again</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-resolving-crashes-in-outpost-infinity-siege-on-windows/"><u>Step-by-Step Guide: Resolving Crashes in Outpost: Infinity Siege on Windows</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/troubleshooting-ram-problems-for-smoother-performance-advice-from-yl-software-experts/"><u>Troubleshooting RAM Problems for Smoother Performance - Advice From YL Software Experts</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/ultimate-tutorial-on-using-lyrx-for-karaoke-with-your-pcdj-setup-video-walkthrough/"><u>Ultimate Tutorial on Using LYRX for Karaoke with Your PCDJ Setup | Video Walkthrough</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-easy-guide-to-using-your-phone-as-an-alternative-camera/"><u>[Updated] In 2024, Easy Guide to Using Your Phone as an Alternative Camera</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-xiaomi-mi-11-crafting-memories-in-unprecedented-detail-for-2024/"><u>[Updated] Xiaomi Mi 11 Crafting Memories in Unprecedented Detail for 2024</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/captivating-hd-earth-day-image-collection-for-desktops-and-mobile-devices-curated-by-yl-software/"><u>Captivating HD Earth Day Image Collection for Desktops & Mobile Devices - Curated by YL Software</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/comprehensive-guide-effective-strategies-by-yl-computing-to-shield-your-pc-from-cyber-threats/"><u>Comprehensive Guide: Effective Strategies by YL Computing to Shield Your PC From Cyber Threats</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/crystal-clear-visuals-for-your-screen-unique-hd-picture-backdrops-with-yl-softwares-imagery-collection/"><u>Crystal-Clear Visuals for Your Screen: Unique HD Picture Backdrops with YL Software's Imagery Collection</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easily-upgrade-download-current-insignia-to-ethernet-device-software/"><u>Easily Upgrade: Download Current Insignia to Ethernet Device Software</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/how-to-resolve-error-messages-during-internet-connection-attempts-comprehensive-solutions-by-yl-software/"><u>How to Resolve Error Messages During Internet Connection Attempts - Comprehensive Solutions by YL Software</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-behind-the-scenes-of-successful-onestream-livestreams/"><u>In 2024, Behind-the-Scenes of Successful OneStream Livestreams</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-a25-5g-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy A25 5G Bootloader Easily</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-instagram-integrity-at-stake-with-artificial-approvals/"><u>In 2024, Instagram Integrity at Stake with Artificial Approvals</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installing-and-updating-toshiba-satellite-dynabox-drivers-for-windows-computers/"><u>Installing and Updating Toshiba Satellite Dynabox Drivers for Windows Computers</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/resolving-graphics-card-errors-a-guide-from-yl-software-experts/"><u>Resolving Graphics Card Errors: A Guide From YL Software Experts</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/top-50-trending-music-clips-download-get-your-favorites-from-the-video-pool-pcdj-collection/"><u>Top 50 Trending Music Clips Download: Get Your Favorites From [The Video Pool] - PCDJ Collection</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/transferring-documents-between-directories-on-your-pc-a-step-by-step-guide-yl-tech-tips/"><u>Transferring Documents Between Directories on Your PC: A Step-by-Step Guide - YL Tech Tips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-resolving-freezing-issues-on-your-macbook-air/"><u>Ultimate Guide: Resolving Freezing Issues on Your MacBook Air</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-lava-blaze-pro-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Lava Blaze Pro 5G Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/yl-software-secrets-enhance-system-speed-and-optimize-performance/"><u>YL Software Secrets: Enhance System Speed & Optimize Performance</u></a></li>
 </ul></div>
 

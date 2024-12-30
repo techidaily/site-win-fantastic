@@ -1,7 +1,7 @@
 ---
 title: "Dj Controllers: Integrating Ion D2Go for Dextronix v3 with Ruby Mobile Audio Tech on DJ Platforms"
-date: 2024-12-22T06:03:06.021Z
-updated: 2024-12-24T02:32:27.758Z
+date: 2024-12-24T22:21:12.094Z
+updated: 2024-12-29T22:13:50.801Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ Based on a users recent request we’ve just created a new [DEX 3](https://tools
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More On The DJ2GO From ION’s Website:
@@ -35,7 +35,7 @@ Based on a users recent request we’ve just created a new [DEX 3](https://tools
 [![](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/DJ2GO_left_weblg.png?fit=300%2C188&ssl=1 "DJ2GO_left_weblg")](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/DJ2GO%5Fleft%5Fweblg.png?fit=1030%2C644&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 DJ2GO gives you a tactile feel that can’t be matched by DJing with just your computer mouse and keyboard. In fact, with DJ2GO there’s virtually no need to touch your mouse or keyboard while performing. Everything you need to do, from selecting songs and cueing, to beat-matching and volume adjustment can be controlled by DJ2GO’s generous array of faders, knobs and bright, backlit buttons. DJ2GO weighs just 13 oz. but provides a layout that DJs prefer, including two platters, a crossfader, pitch and level controls as well as Deck A, Deck B, Master and Headphone gain controls. Sync and headphone buttons allow you to instantly sync two tracks and monitor either deck section.
@@ -55,7 +55,7 @@ The ION DJ2Go is selling for around $99 on Amazon and some other online retailer
 **INSTALLATION INSTRUCTIONS:** **Unzip the Map (js file) To:** **C: (Windows) or App Folder for DEX 3 (MAC) – Program Files (x86) _\-> PCDJ -> DEX3 -> CONTROLLERS. REPLACE THE EXISTING Numark DJ2GO SCRIPT WITH THE NEW ONE!_**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -77,18 +77,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/iondj2go-blogcoverimage.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-fantastic.techidaily.com/1-revising-your-username-a-step-by-step-guide-through-control-panel-settings/"><u>1. Revising Your Username: A Step-by-Step Guide Through Control Panel Settings</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-the-ultimate-guide-to-earning-money-on-reddit-for-beginners/"><u>2024 Approved The Ultimate Guide to Earning Money on Reddit for Beginners</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/a-novel-approach-to-delivery-reinvented-box-revelations-for-2024/"><u>A Novel Approach to Delivery Reinvented Box Revelations for 2024</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/access-over-300-new-karaoke-tracks-immediately-exclusive-offer-for-karaoke-cloud-pro-members/"><u>Access Over 300 New Karaoke Tracks Immediately - Exclusive Offer for Karaoke Cloud Pro Members!</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-solutions-ending-risk-of-rain-2-game-freezes-and-crashes/"><u>Effective Solutions: Ending Risk of Rain ^2 Game Freezes and Crashes</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/expert-analysis-on-overheating-cpus-by-yl-software-professionals/"><u>Expert Analysis on Overheating CPUs by YL Software Professionals</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96317219-9781401929978-how-my-death-saved-my-life/"><u>How My Death Saved My Life | Free Book</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Oppo Find X6? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-how-to-make-a-lasting-impression-with-your-facebook-profile-story/"><u>In 2024, How to Make a Lasting Impression with Your Facebook Profile Story</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/is-money-taken-for-access-to-crypto-balance-trackers-with-yl-softwares-innovative-solutions/"><u>Is Money Taken for Access to Crypto Balance Trackers with YL Software's Innovative Solutions?</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/mastering-privacy-and-safety-adjusting-windows-10-security-settings-simplified-yl-computing/"><u>Mastering Privacy & Safety: Adjusting Windows 10 Security Settings Simplified - YL Computing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/tips-and-tricks-for-enhancing-frames-per-second-fps-in-tainted-grail-conquest-gameplay/"><u>Tips and Tricks for Enhancing Frames Per Second (FPS) in Tainted Grail: Conquest Gameplay</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/top-free-software-replacements-for-acronis-backup-and-recovery/"><u>Top Free Software Replacements for Acronis Backup & Recovery</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-pcs-premier-ps3-imitators-ranked-top-5-choices/"><u>[Updated] 2024 Approved PC's Premier PS3 Imitators Ranked Top 5 Choices</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-to-selecting-a-premier-fb-cover-photo-designer/"><u>[Updated] 2024 Approved The Ultimate Guide to Selecting a Premier FB Cover Photo Designer</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-sierra-users-the-ultimate-list-for-video-editing-apps/"><u>[Updated] Sierra Users The Ultimate List for Video Editing Apps</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/boost-your-pcs-speed-effortless-guide-to-tidy-up-and-optimize-startup-programs-insights-from-yl-computing/"><u>Boost Your PC's Speed: Effortless Guide to Tidy Up and Optimize Startup Programs - Insights From YL Computing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-unlocks-wearable-potential-with-six-pioneering-capabilities/"><u>ChatGPT Unlocks Wearable Potential with Six Pioneering Capabilities</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/decoding-the-art-of-successful-fb-cover-videos/"><u>Decoding the Art of Successful FB Cover Videos</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/exploring-the-sync-capabilities-of-dex-38-in-pcdj-software-via-video-tutorial/"><u>Exploring the Sync Capabilities of DEX 3.8 in PCDJ Software via Video Tutorial</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-youtube-videography-essentials-7-free-audio-choices/"><u>In 2024, YouTube Videography Essentials - 7 Free Audio Choices</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/optimizing-your-pc-performance-how-to-turn-off-non-essential-windows-services-expert-tips-by-yl-computing/"><u>Optimizing Your PC Performance: How to Turn Off Non-Essential Windows Services - Expert Tips by YL Computing</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Oppo Reno 11 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/professional-apric-2020-background-images-for-officehome-use-high-definition-graphics-by-yl-solutions/"><u>Professional Apric 2020 Background Images for Office/Home Use | High Definition Graphics by YL Solutions</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/resolving-microsoft-edge-browsing-problems-a-step-by-step-guide-by-yl-computing/"><u>Resolving Microsoft Edge Browsing Problems: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/simple-repair-guide-resolving-astro-a20-microphone-malfunctions/"><u>Simple Repair Guide: Resolving Astro A20 Microphone Malfunctions</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/the-architects-of-change-unraveling-who-drove-the-1966-cultural-revolution-with-yl-tech-expertise/"><u>The Architects of Change: Unraveling Who Drove the 1966 Cultural Revolution with YL Tech Expertise</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-potential-of-hps-latest-creation-zbook-firefly-15-g8-notebook-insights/"><u>Unveiling the Potential of HP's Latest Creation - ZBook Firefly 15 G8 Notebook Insights</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Current Projects and Innovations at PCDJ Headquarters: A Peek Into Our Work Today"
-date: 2024-12-17T20:16:19.551Z
-updated: 2024-12-24T03:27:12.219Z
+date: 2024-12-23T21:55:05.065Z
+updated: 2024-12-29T20:11:42.950Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ No, this is all about what’s next, and what new and fantastic features we have
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DJ Software: What We’re Working On Now
@@ -38,7 +38,7 @@ No, this is all about what’s next, and what new and fantastic features we have
 * In addition to Visualizations, DEX 3 users will have the ability to run picture slide-shows while mixing music or music videos. Select a directory of images/pictures and they will play on screen (_secondary audience display_) using smooth transitions between pictures. DJs will also have the ability to run picture overlays over-top playing music videos, allowing DJs to create a completely custom visual presentation. We can see many useful applications for this, such as advertisements or “drink specials”.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -60,14 +60,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/03/comingsoontopcdj-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-instantpodstreams-a-step-by-step-approach-to-live-broadcasting-for-2024/"><u>[New] InstantPodStreams A Step-by-Step Approach to Live Broadcasting for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-masterclass-in-instagram-designing-eye-catching-cover-images/"><u>[Updated] 2024 Approved Masterclass in Instagram Designing Eye-Catching Cover Images</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unforgettable-visuals-key-elements-in-podcast-logo-creation/"><u>2024 Approved Unforgettable Visuals Key Elements in Podcast Logo Creation</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/addremove-user-profiles-easily-a-step-by-step-guide-on-using-the-control-panel-tips-from-yl-computing/"><u>Add/Remove User Profiles Easily: A Step-by-Step Guide on Using the Control Panel - Tips From YL Computing</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/do-i-need-to-run-a-disk-defragmentation-on-my-pc-insights-from-yl-computings-experts/"><u>Do I Need to Run a Disk Defragmentation on My PC? Insights From YL Computing's Experts</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/easy-extraction-top-10-youtube-text-grabber-apps-reviewed-for-2024/"><u>Easy Extraction Top 10 YouTube Text Grabber Apps Reviewed for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/how-to-broadcast-your-online-meeting-via-youtube-google-meet-steps-for-2024/"><u>How To Broadcast Your Online Meeting via YouTube - Google Meet Steps for 2024</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/how-to-recover-data-when-your-pc-wont-start-due-to-hard-drive-issues-insights-by-yl-computing/"><u>How To Recover Data When Your PC Won't Start Due to Hard Drive Issues - Insights by YL Computing</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/troubleshooting-a-missing-network-adapter-expert-solutions-from-yl-computing/"><u>Troubleshooting a Missing Network Adapter: Expert Solutions From YL Computing</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-5-essential-ios-downloader-apps-for-your-favorite-facebook-videos-for-2024/"><u>[New] 5 Essential iOS Downloader Apps for Your Favorite Facebook Videos for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-arena-of-achievements-a-million-gaming-milestones/"><u>[New] In 2024, Arena of Achievements A Million Gaming Milestones</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-streamline-your-media-files-8-pro-convertors-sub-to-srt-style/"><u>[New] Streamline Your Media Files 8 Pro Convertors, Sub to Srt Style</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-tech-equality-checked-expert-analysis/"><u>[Updated] 2024 Approved Tech Equality Checked Expert Analysis</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-maximizing-video-collection-on-tiktok-efficiently/"><u>[Updated] Maximizing Video Collection on TikTok Efficiently</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/boost-your-pcs-speed-effortless-guide-to-tidy-up-and-optimize-startup-programs-insights-from-yl-computing/"><u>Boost Your PC's Speed: Effortless Guide to Tidy Up and Optimize Startup Programs - Insights From YL Computing</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/concrete-must-be-kept-at-a-minimum-temperature-of-5c-40f-during-the-first-48-hours-after-placement-in-cold-weather-conditions/"><u>Concrete Must Be Kept at a Minimum Temperature of 5°C (40°F) During the First 48 Hours After Placement in Cold Weather Conditions.</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/exploring-the-sync-capabilities-of-dex-38-in-pcdj-software-via-video-tutorial/"><u>Exploring the Sync Capabilities of DEX 3.8 in PCDJ Software via Video Tutorial</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-insights-what-helldivers-2-teaches-about-successful-titles/"><u>Gaming Insights: What Helldivers 2 Teaches About Successful Titles</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-user-interaction-with-windows-narrators-shortcuts/"><u>Optimizing User Interaction with Windows Narrator's Shortcuts</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/optimizing-your-pc-performance-how-to-turn-off-non-essential-windows-services-expert-tips-by-yl-computing/"><u>Optimizing Your PC Performance: How to Turn Off Non-Essential Windows Services - Expert Tips by YL Computing</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/professional-apric-2020-background-images-for-officehome-use-high-definition-graphics-by-yl-solutions/"><u>Professional Apric 2020 Background Images for Office/Home Use | High Definition Graphics by YL Solutions</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/resolving-microsoft-edge-browsing-problems-a-step-by-step-guide-by-yl-computing/"><u>Resolving Microsoft Edge Browsing Problems: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://media-tips.techidaily.com/solving-connectivity-and-functionality-issues-in-xbox-app-while-updating-to-windows-10/"><u>Solving Connectivity and Functionality Issues in Xbox App While Updating to Windows # 10</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/solving-your-sound-card-problems-expert-tips-and-tricks/"><u>Solving Your Sound Card Problems: Expert Tips & Tricks</u></a></li>
+<li><a href="https://games-able.techidaily.com/sonic-sleuths-find-your-melodic-match-with-mobile-gaming/"><u>Sonic Sleuths: Find Your Melodic Match with Mobile Gaming</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/the-architects-of-change-unraveling-who-drove-the-1966-cultural-revolution-with-yl-tech-expertise/"><u>The Architects of Change: Unraveling Who Drove the 1966 Cultural Revolution with YL Tech Expertise</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ate-list-of-16-starter-videos-for-more-watchers/"><u>Ultimate List of 16 Starter Videos for More Watchers</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/yl-computings-comprehensive-guide-setting-up-your-own-crypto-wallet/"><u>YL Computing's Comprehensive Guide: Setting Up Your Own Crypto Wallet</u></a></li>
 </ul></div>
 

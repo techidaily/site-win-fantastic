@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Deckadance DEX Version 3.7 Public Trial: Enhanced Mixing Features & Multimedia Capabilities for DJs"
-date: 2024-12-20T05:32:33.333Z
-updated: 2024-12-23T19:11:08.823Z
+date: 2024-12-27T16:42:44.685Z
+updated: 2024-12-29T21:18:48.712Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ This is a much anticipated and requested feature update for DEX 3 and while test
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here are the key highlights of this major update to DEX 3.7 (Public Beta 1)
@@ -55,7 +55,7 @@ This is a much anticipated and requested feature update for DEX 3 and while test
 _Have questions about our [video mixing software](https://tools.techidaily.com/pcdj/products/)? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -77,19 +77,17 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/08/dex3publicbeta-overlays-co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-earning-strategies-for-successful-youtube-shorts-what-you-need-and-how-much/"><u>[New] 2024 Approved Earning Strategies for Successful Youtube Shorts What You Need & How Much?</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-snap-edit-and-enchant-the-ultimate-guide-to-stellar-tiktok-videos/"><u>[New] 2024 Approved Snap, Edit & Enchant The Ultimate Guide to Stellar TikTok Videos</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-top-picks-for-traditional-japanese-huts-in-mc-worlds/"><u>[New] 2024 Approved Top Picks for Traditional Japanese Huts in MC Worlds</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-abletons-precision-in-sound-reduction/"><u>[New] Ableton's Precision in Sound Reduction</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/configuring-windows-for-immediate-file-opens-by-default-expert-tips-from-yl-software/"><u>Configuring Windows for Immediate File Opens by Default - Expert Tips From YL Software</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/easy-steps-to-link-your-desktop-to-wifi-expert-advice-by-yl-software/"><u>Easy Steps to Link Your Desktop to WiFi - Expert Advice by YL Software</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/exclusive-dj-curated-pop-and-hip-hop-playlist-access-unlock-your-professional-karaoke-experience/"><u>Exclusive DJ-Curated Pop & Hip Hop Playlist Access: Unlock Your Professional Karaoke Experience!</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/fix-a-non-responsive-printer-essential-guidance-from-yl-computing-experts/"><u>Fix a Non-Responsive Printer: Essential Guidance From YL Computing Experts</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-vivo-x-flip-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Vivo X Flip</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-send-ringtones-from-apple-iphone-14-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Send Ringtones from Apple iPhone 14 to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-streamline-your-filming-journey-a-step-by-step-guide-to-utilize-your-logitech-camera/"><u>In 2024, Streamline Your Filming Journey A Step-by-Step Guide to Utilize Your Logitech Camera</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transform-ideas-into-reality-get-movie-maker-for-w11-users/"><u>In 2024, Transform Ideas Into Reality Get Movie Maker for W11 Users</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/step-by-step-guide-updating-your-password-on-yl-computing-platform/"><u>Step-by-Step Guide: Updating Your Password on YL Computing Platform</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/ultimate-guide-top-methods-for-eradicating-malware-and-viruses-from-your-pc-expert-advice-by-yl-computing/"><u>Ultimate Guide: Top Methods for Eradicating Malware and Viruses From Your PC - Expert Advice by YL Computing</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-streamline-your-listening-experience-how-to-get-apple-podcasts-downloaded-for-2024/"><u>[New] Streamline Your Listening Experience How to Get Apple Podcasts Downloaded for 2024</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/1-ultimate-guide-boost-your-pcs-performance-with-the-right-software-yl-solutions/"><u>1. Ultimate Guide: Boost Your PC's Performance with the Right Software - YL Solutions</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-constructing-captivating-valorant-youtube-thumbnails/"><u>2024 Approved Constructing Captivating Valorant YouTube Thumbnails</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/assessing-the-impact-of-chatgpt-on-user-data-security-is-it-safe/"><u>Assessing the Impact of ChatGPT on User Data Security: Is It Safe?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/gratuita-conversion-de-archivos-ogg-a-wma-online-usando-movavi/"><u>Gratuita Conversión De Archivos OGG a WMA Online: Usando Movavi</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/impact-of-windows-defender-on-system-performance-is-it-causing-lag/"><u>Impact of Windows Defender on System Performance: Is It Causing Lag?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-realme-gt-neo-5-se-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Realme GT Neo 5 SE FRP</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-engage-and-inspire-viewers-animated-subscribers-in-filmora-explained/"><u>In 2024, Engage and Inspire Viewers - Animated Subscribers in Filmora Explained</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-premium-monitors-the-best-5-selection-for-ps5-gaming/"><u>In 2024, Premium Monitors The Best 5 Selection for PS5 Gaming</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-top-rated-video-editor-videopad-review-pricing-and-recommendations-for-2024/"><u>New Top Rated Video Editor Videopad Review, Pricing, and Recommendations for 2024</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/secure-transactions-with-cryptocurrency-tips-and-best-practices-by-yl-computing/"><u>Secure Transactions with Cryptocurrency: Tips & Best Practices by YL Computing</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/understanding-the-blue-screen-of-death-troubleshooting-steps-and-solutions/"><u>Understanding the Blue Screen of Death: Troubleshooting Steps & Solutions</u></a></li>
 </ul></div>
 

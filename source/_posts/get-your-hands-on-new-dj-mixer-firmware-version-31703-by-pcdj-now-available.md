@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on New DJ Mixer Firmware, Version 3.17.0.3 by PCDJ Now Available!
-date: 2024-12-19T03:39:52.527Z
-updated: 2024-12-23T20:08:15.516Z
+date: 2024-12-27T00:02:06.597Z
+updated: 2024-12-29T22:06:50.097Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ We suggest you install the new 3.17.0.3 release of DEX 3 immediately. Simply dow
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in DEX 3.17.0.3
@@ -50,7 +50,7 @@ We suggest you install the new 3.17.0.3 release of DEX 3 immediately. Simply dow
 _Have questions about the latest 3.17.0.3 version of our **Top DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,17 +72,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2022/04/download-dex31703-1.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-convenient-tactics-for-transferring-imovie-projects-to-vimeo-for-2024/"><u>[New] Convenient Tactics for Transferring iMovie Projects to Vimeo for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-seamless-igtv-and-fb-sharing-guide/"><u>[New] In 2024, Seamless IGTV and FB Sharing Guide</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-fb-content-extraction-made-simple-windows-and-macos/"><u>[Updated] 2024 Approved FB Content Extraction Made Simple Windows & macOS</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-hand-tracking-an-in-depth-look/"><u>2024 Approved Exploring Hand Tracking An In-Depth Look</u></a></li>
-<li><a href="https://win-answers.techidaily.com/improve-your-avatar-experience-fixes-for-fps-and-stuttering-problems/"><u>Improve Your Avatar Experience - Fixes for FPS and Stuttering Problems</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/navigating-windows-defenders-interaction-with-alternate-av-programs-a-guide-by-yl-software-experts/"><u>Navigating Windows Defender's Interaction with Alternate AV Programs: A Guide by YL Software Experts</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/restorasi-data-sketchup-tutorial-jelajah-untuk-mengembalikan-file-yang-hilang/"><u>Restorasi Data SketchUp: Tutorial Jelajah Untuk Mengembalikan File Yang Hilang</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/step-by-step-guide-on-replacing-defective-parts-by-yl-software-experts/"><u>Step-by-Step Guide on Replacing Defective Parts by YL Software Experts</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/tailor-made-windows-control-panel-configurations-with-yl-softwares-expert-tips-and-tricks/"><u>Tailor-Made Windows Control Panel Configurations with YL Software's Expert Tips and Tricks</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-ultimate-guide-to-using-green-screen-in-kinemaster-a-stepwise-approach/"><u>The Ultimate Guide to Using Green Screen in Kinemaster A Stepwise Approach</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/the-ultimate-techniques-for-retrieving-aol-emails-with-yl-software-expertise/"><u>The Ultimate Techniques for Retrieving AOL Emails with YL Software Expertise</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/troubleshooting-visual-disturbances-in-windows-systems-with-expert-tips-from-yl-computing/"><u>Troubleshooting Visual Disturbances in Windows Systems with Expert Tips From YL Computing</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-premier-ios-platform-for-psp-emulation-1-5/"><u>[New] Premier iOS Platform for PSP Emulation #1-5</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-srt-extraction-procedure-from-zipped-contents/"><u>[New] Srt Extraction Procedure From Zipped Contents</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-premier-advice-superior-iphone-audio-artists/"><u>[Updated] 2024 Approved Premier Advice Superior iPhone Audio Artists</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-infusing-watermarks-in-youtube-content-for-trademarks/"><u>[Updated] Infusing Watermarks in YouTube Content for Trademarks</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/customizing-your-system-with-yl-softwares-control-panel-settings/"><u>Customizing Your System with YL Software's Control Panel Settings</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/diy-guide-checking-your-pcs-psu-functionality-yl-software-solutions/"><u>DIY Guide: Checking Your PC's PSU Functionality - YL Software Solutions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/harmonic-headstarts-curated-spots-with-the-best-music-picks/"><u>Harmonic Headstarts Curated Spots with the Best Music Picks</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/how-to-recover-damaged-files-using-windows-file-recovery-a-guide-by-yl-computing/"><u>How to Recover Damaged Files Using Windows File Recovery: A Guide by YL Computing</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/master-your-mouse-controls-a-step-by-step-setup-using-yl-software-solutions/"><u>Master Your Mouse Controls: A Step-by-Step Setup Using YL Software Solutions</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/step-by-step-guide-updating-your-graphics-card-drivers-tips-from-yl-computing/"><u>Step-by-Step Guide: Updating Your Graphics Card Drivers - Tips From YL Computing</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/step-by-step-scan-troubleshooting-for-optimal-performance-with-yl-software-support/"><u>Step-by-Step Scan Troubleshooting for Optimal Performance with YL Software Support</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/the-essential-handbook-to-planning-zoom-sessions/"><u>The Essential Handbook to Planning Zoom Sessions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-xiaomi-redmi-a2-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Xiaomi Redmi A2 Device</u></a></li>
 </ul></div>
 
