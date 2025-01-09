@@ -1,7 +1,7 @@
 ---
 title: Enhancing Crowd Engagement for Live Performances Using Remote Request Features in PCDJ's Karaoki and SongBookDB
-date: 2024-12-23T18:37:42.667Z
-updated: 2024-12-29T23:38:02.425Z
+date: 2025-01-05T23:22:49.192Z
+updated: 2025-01-09T08:59:05.292Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ We kicked off the open [beta test of SongbookDB’s remote request system’s](h
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How will SongBookDB interface with PCDJ Karaoki?
@@ -37,7 +37,7 @@ The next Karaoki public beta will have a new option “_Remote Users_” on the 
 [![](https://i2.wp.com/pcdj.com/wp-content/uploads/2014/10/Karaoki-Remote-Users..png?fit=594%2C374&ssl=1 "Karaoki Remote Users.")](https://i2.wp.com/pcdj.com/wp-content/uploads/2014/10/Karaoki-Remote-Users..png?fit=594%2C374&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The new interface also supports the old Karaoki ‘request terminals’, and 95% of the functionality in the image above is for remote terminals and not songbookDB… but it made sense to combine all the remote user systems onto the one screen within Karaoki.
@@ -53,7 +53,7 @@ Shaun at SongBookDB has developed a plugin that will connect to the new interfac
 [![](https://i1.wp.com/pcdj.com/wp-content/uploads/2014/10/Songbook-Plugin.png?fit=981%2C601&ssl=1 "Songbook Plugin")](https://i1.wp.com/pcdj.com/wp-content/uploads/2014/10/Songbook-Plugin.png?fit=981%2C601&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _**NOTE**_: If you want you can already also login to SongbookDB as a ‘_Kiosk_‘ in a web browser… There is no longer any need to install the old terminal on a third parties Computer, just go to [**SongbookDB.com**](http://www.songbookdb.com) and log-in using your ‘_Requests Password_‘ preceded with the word ‘kiosk’!
@@ -63,7 +63,7 @@ _**NOTE**_: If you want you can already also login to SongbookDB as a ‘_Kiosk_
 _**I hope this clears a few things up. Full on beta test to commence soon, keep checking back!**_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -85,18 +85,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/10/songbookdb-coverimage.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-going-beyond-why-you-might-want-an-alternate-to-vidmas-reader/"><u>[Updated] 2024 Approved Going Beyond Why You Might Want an Alternate to Vidma's Reader</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-ace-search-engine-rankings-on-youtube-11-proven-seo-methods-for-2024/"><u>[Updated] Ace Search Engine Rankings on YouTube 11 Proven SEO Methods for 2024</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/country-western-themed-wallpapers-and-imagery-premium-selection-by-yl-software/"><u>Country Western Themed Wallpapers & Imagery: Premium Selection by YL Software</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/enhanced-macx-mediatrans-v32-revolutionizing-your-image-e-book-and-ringtone-organization/"><u>Enhanced MacX MediaTrans V3.2: Revolutionizing Your Image, E-Book & Ringtone Organization</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/hd-metro-exodus-desktop-wrappers-high-resolution-game-artwork-and-backdrops-yl-graphics/"><u>HD Metro Exodus Desktop Wrappers: High-Resolution Game Artwork & Backdrops | YL Graphics</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/identifying-and-fixing-defective-ram-a-step-by-step-guide-from-yl-computing/"><u>Identifying and Fixing Defective RAM: A Step-by-Step Guide From YL Computing</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/step-by-step-guide-for-removing-copy-protection-from-your-disney-movie-dvd-set-disney99/"><u>Step-by-Step Guide for Removing Copy Protection From Your Disney Movie DVD Set (Disney99)</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamlining-windows-startech-fixes-from-7-to-11/"><u>Streamlining Windows: StarTech Fixes From 7 to 11</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-evolution-of-huaweis-kirin-cpu-insights-into-potential-inspirations-from-apple-m-series-and-intel-lunar-lake-technologies/"><u>The Evolution of Huawei's Kirin CPU - Insights Into Potential Inspirations From Apple M-Series and Intel Lunar Lake Technologies</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-9-lava-yuva-3-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Lava Yuva 3 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/top-issues-in-scanning-device-setup-insights-from-yl-computing-and-yl-software/"><u>Top Issues in Scanning Device Setup: Insights From YL Computing & YL Software</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-the-funniest-face-swap-apps-a-comprehensive-review/"><u>Updated In 2024, The Funniest Face Swap Apps A Comprehensive Review</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/web-based-gratis-convert-your-files-from-m4a-to-wav-without-fee-movavi/"><u>Web-Based Gratis: Convert Your Files From M4A to WAV without Fee - Movavi</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-revolutionize-how-you-interact-with-tech-best-mac-tts-programs-reviewed/"><u>[New] In 2024, Revolutionize How You Interact with Tech Best Mac TTS Programs Reviewed</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-toolwiz-demystified-detailed-app-evaluation-for-photo-experts/"><u>[New] Toolwiz Demystified Detailed App Evaluation for Photo Experts</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-ultimate-approach-to-enhancing-mp4-content-with-srt-captions/"><u>[New] Ultimate Approach to Enhancing MP4 Content with SRT Captions</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-guide-to-fade-out-music-in-premiere-pro/"><u>[Updated] 2024 Approved Guide To Fade Out Music In Premiere Pro</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-strategies-for-structuring-an-efficient-collaborative-office-environment-for-2024/"><u>[Updated] Strategies for Structuring an Efficient, Collaborative Office Environment for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-real-value-of-selfie-verifications-in-2024/"><u>[Updated] The Real Value of Selfie Verifications, In 2024</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/1728488828131-windows-114/"><u>復元ポイントが作れないWindows 11：4つの解析方法</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/wd-my-cloud-drive/"><u>如何使用WD My Cloud Drive進行資料救援: 簡要分析四種方法</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/comment-migrer-en-toute-confiance-votre-contenu-wd-mycloud-vers-amazon-drive-ou-un-service-cloud-alternatif/"><u>Comment Migrer en Toute Confiance Votre Contenu WD MyCloud Vers Amazon Drive Ou Un Service Cloud Alternatif ?</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/complete-step-by-step-strategies-for-free-photo-restoration-after-accidental-delete/"><u>Complete Step-by-Step Strategies for FREE Photo Restoration After Accidental Delete</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/hassle-free-repairs-ensuring-safety-while-resolving-high-end-sound-drivers-from-intel/"><u>Hassle-Free Repairs: Ensuring Safety While Resolving High-End Sound Drivers From Intel</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-factory-unlock-your-telstra-apple-iphone-11-pro-by-drfone-ios/"><u>How To Factory Unlock Your Telstra Apple iPhone 11 Pro</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-the-art-of-idevice-keyboards-resolve-these-6-frequent-problems-now/"><u>Mastering the Art of iDevice Keyboards: Resolve These 6 Frequent Problems Now!</u></a></li>
+<li><a href="https://extra-support.techidaily.com/perfect-iphone-images-abide-by-these-10-rules-for-2024/"><u>Perfect iPhone Images Abide by These 10 Rules for 2024</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/solutions-detaillees-pour-la-panne-de-restauration-du-systeme-avec-le-code-erreur-0x80070002-sous-windows-117/"><u>Solutions Détaillées Pour La Panne De Restauration Du Système Avec Le Code Erreur 0X80070002 Sous Windows 11/7</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/step-by-step-guide-to-building-bootable-backup-solutions-for-critical-pc-emergencies/"><u>Step-by-Step Guide to Building Bootable Backup Solutions for Critical PC Emergencies</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/step-by-step-guide-transferring-your-iphone-data-to-an-external-hdd-using-windows/"><u>Step-by-Step Guide: Transferring Your iPhone Data to an External HDD Using Windows</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/two-free-methods-for-creating-a-complete-backup-of-your-windows-8-or-81-os/"><u>Two FREE Methods for Creating a Complete Backup of Your Windows 8 or 8.1 OS</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/k-the-secrets-of-efficient-banner-use-in-game-channels-for-2024/"><u>Unlock the Secrets of Efficient Banner Use in Game Channels for 2024</u></a></li>
 </ul></div>
 

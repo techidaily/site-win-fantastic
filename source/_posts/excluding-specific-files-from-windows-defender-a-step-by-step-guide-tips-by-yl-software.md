@@ -1,7 +1,7 @@
 ---
 title: "Excluding Specific Files From Windows Defender: A Step-by-Step Guide - Tips by YL Software"
-date: 2024-12-24T16:30:43.815Z
-updated: 2024-12-30T00:05:44.703Z
+date: 2025-01-07T19:17:41.249Z
+updated: 2025-01-09T00:28:40.923Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,22 +56,21 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-easy-guide-to-using-your-phone-as-an-alternative-camera/"><u>[Updated] In 2024, Easy Guide to Using Your Phone as an Alternative Camera</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-xiaomi-mi-11-crafting-memories-in-unprecedented-detail-for-2024/"><u>[Updated] Xiaomi Mi 11 Crafting Memories in Unprecedented Detail for 2024</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/captivating-hd-earth-day-image-collection-for-desktops-and-mobile-devices-curated-by-yl-software/"><u>Captivating HD Earth Day Image Collection for Desktops & Mobile Devices - Curated by YL Software</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/comprehensive-guide-effective-strategies-by-yl-computing-to-shield-your-pc-from-cyber-threats/"><u>Comprehensive Guide: Effective Strategies by YL Computing to Shield Your PC From Cyber Threats</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/crystal-clear-visuals-for-your-screen-unique-hd-picture-backdrops-with-yl-softwares-imagery-collection/"><u>Crystal-Clear Visuals for Your Screen: Unique HD Picture Backdrops with YL Software's Imagery Collection</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easily-upgrade-download-current-insignia-to-ethernet-device-software/"><u>Easily Upgrade: Download Current Insignia to Ethernet Device Software</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/how-to-resolve-error-messages-during-internet-connection-attempts-comprehensive-solutions-by-yl-software/"><u>How to Resolve Error Messages During Internet Connection Attempts - Comprehensive Solutions by YL Software</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-behind-the-scenes-of-successful-onestream-livestreams/"><u>In 2024, Behind-the-Scenes of Successful OneStream Livestreams</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-a25-5g-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy A25 5G Bootloader Easily</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-instagram-integrity-at-stake-with-artificial-approvals/"><u>In 2024, Instagram Integrity at Stake with Artificial Approvals</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/installing-and-updating-toshiba-satellite-dynabox-drivers-for-windows-computers/"><u>Installing and Updating Toshiba Satellite Dynabox Drivers for Windows Computers</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/resolving-graphics-card-errors-a-guide-from-yl-software-experts/"><u>Resolving Graphics Card Errors: A Guide From YL Software Experts</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/top-50-trending-music-clips-download-get-your-favorites-from-the-video-pool-pcdj-collection/"><u>Top 50 Trending Music Clips Download: Get Your Favorites From [The Video Pool] - PCDJ Collection</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/transferring-documents-between-directories-on-your-pc-a-step-by-step-guide-yl-tech-tips/"><u>Transferring Documents Between Directories on Your PC: A Step-by-Step Guide - YL Tech Tips</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-resolving-freezing-issues-on-your-macbook-air/"><u>Ultimate Guide: Resolving Freezing Issues on Your MacBook Air</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-lava-blaze-pro-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Lava Blaze Pro 5G Has Black Screen of Death? | Dr.fone</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/yl-software-secrets-enhance-system-speed-and-optimize-performance/"><u>YL Software Secrets: Enhance System Speed & Optimize Performance</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-easy-tutorial-uploading-youtube-shorts-video-via-computer-and-phone/"><u>[Updated] Easy Tutorial Uploading YouTube Shorts Video via Computer & Phone</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/how-to-prevent-loss-of-memory-caches-in-your-browser-at-any-time/"><u>解決方法：無論何時，如何阻止網路浏览器的丟失記憶卷？ - How to Prevent Loss of Memory Caches in Your Browser at Any Time</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/comparing-windows-11-version-history-with-free-aomei-backupper-software/"><u>Comparing Windows 11 Version History with Free AOMEI Backupper Software</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/dynamic-igtv-covers-design-and-update-strategies/"><u>Dynamic IGTV Covers Design & Update Strategies</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/tial-youtube-end-screen-templates-for-content-makers-for-2024/"><u>Essential YouTube End Screen Templates for Content Makers for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/excel-in-football-leadership-managing-teams-without-spending/"><u>Excel in Football Leadership: Managing Teams Without Spending</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/fixing-a-frozen-apple-watch-solutions-when-it-gets-stuck-on-the-startup-screen/"><u>Fixing a Frozen Apple Watch: Solutions When It Gets Stuck on the Startup Screen</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>How to Fake Snapchat Location without Jailbreak On Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/how-to-restore-your-iphone-apps-from-an-itunes-backup-a-step-by-step-guide/"><u>How to Restore Your iPhone Apps From an iTunes Backup: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/iphone-sms-drucken-zwei-einfache-techniken-erklart/"><u>IPhone-SMS Drucken: Zwei Einfache Techniken Erklärt</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-art-of-smooth-gameplay-strategies-for-tackling-fps-drops-on-a-computer-system/"><u>Master the Art of Smooth Gameplay: Strategies for Tackling FPS Drops on a Computer System</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/restoring-lost-vcf-contacts-a-step-by-step-guide-from-your-sd-card/"><u>Restoring Lost VCF Contacts: A Step-by-Step Guide From Your SD Card</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/sicheres-kopieren-von-ssd-partitionen-profi-tipps-fur-den-einsatz-mit-secure-boot/"><u>Sicheres Kopieren Von SSD-Partitionen: Profi-Tipps Für Den Einsatz Mit Secure Boot</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/social-network-synergy-broadcasting-twitch-on-social-media-platforms-for-2024/"><u>Social Network Synergy Broadcasting Twitch on Social Media Platforms for 2024</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/trasferisci-gratis-un-hard-disk-da-2tb-su-ununita-a-stato-solido-da-1tb-con-protezione-iniziale/"><u>Trasferisci Gratis Un Hard Disk Da 2TB Su Un'Unità a Stato Solido Da 1TB Con Protezione Iniziale</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unleash-new-possibebilities-with-the-innovative-acemagic-x1-two-display-device/"><u>Unleash New Possibebilities With the Innovative Acemagic X1 Two-Display Device</u></a></li>
 </ul></div>
 
