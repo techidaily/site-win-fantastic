@@ -1,7 +1,7 @@
 ---
 title: "Current Projects and Innovations at PCDJ Headquarters: A Peek Into Our Work Today"
-date: 2025-01-07T01:11:29.385Z
-updated: 2025-01-08T18:56:56.752Z
+date: 2025-01-07T22:51:58.724Z
+updated: 2025-01-14T17:09:33.285Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ No, this is all about what’s next, and what new and fantastic features we have
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DJ Software: What We’re Working On Now
@@ -38,7 +38,7 @@ No, this is all about what’s next, and what new and fantastic features we have
 * In addition to Visualizations, DEX 3 users will have the ability to run picture slide-shows while mixing music or music videos. Select a directory of images/pictures and they will play on screen (_secondary audience display_) using smooth transitions between pictures. DJs will also have the ability to run picture overlays over-top playing music videos, allowing DJs to create a completely custom visual presentation. We can see many useful applications for this, such as advertisements or “drink specials”.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -60,20 +60,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/03/comingsoontopcdj-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-how-to-seamlessly-add-vimeo-videos-to-insta-feed-for-2024/"><u>[New] How to Seamlessly Add Vimeo Videos to Insta Feed for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-perfect-iphone-silhouette-captures-101/"><u>[New] Perfect iPhone Silhouette Captures 101</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-affordable-methods-for-video-and-text-synergy/"><u>[Updated] In 2024, Affordable Methods for Video and Text Synergy</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-constructing-imagery-wonders-with-montages/"><u>[Updated] In 2024, Constructing Imagery Wonders with Montages</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/windowsaomei-backupperaik/"><u>如何在Windows上下载并使用AOMEI Backupper的AIK工具集 - 完整解锁方法</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/6yca6lplush5zg95luk6kgm6l275p2plus5asn5yi256gs55uy77ya5yid5a2m6icf55qe566a5y2v5pa55rov/"><u>通过命令行轻松复制硬盘：初学者的简单方法</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/guida-passo-passo-per-costruire-il-disco-di-ripristino-di-windows-server-2019-usando-metodi-alternativi/"><u>Guida Passo-Passo per Costruire Il Disco Di Ripristino Di Windows Server 2019 Usando Metodi Alternativi</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/guide-to-moving-your-google-contacts-into-outlook-seamlessly/"><u>Guide to Moving Your Google Contacts Into Outlook Seamlessly</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-modify-the-timeout-timer-on-windows-10s-lock-screen/"><u>How to Modify the Timeout Timer on Windows 10'S Lock Screen</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-unlocking-success-the-quintessential-youtube-video-strategies/"><u>In 2024, Unlocking Success The Quintessential YouTube Video Strategies</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/recuperacion-de-datos-con-testdisk-una-guia-completa-para-restaurar-particiones-danadas/"><u>Recuperación De Datos Con TestDisk: Una Guía Completa Para Restaurar Particiones Dañadas</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/ssd-acronis-true-image/"><u>SSDへのクローニング: Acronis True Imageが使える手順</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/step-by-step-guide-deleting-databases-efficiently-in-microsoft-sql-server/"><u>Step-by-Step Guide: Deleting Databases Efficiently in Microsoft SQL Server</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ignificance-of-analytics-in-youtube-rank-enhancement-for-2024/"><u>The Significance of Analytics in YouTube Rank Enhancement for 2024</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/top-rated-free-duplicate-image-remover-tools-for-windows-11-10-8-and-7-users/"><u>Top Rated FREE Duplicate Image Remover Tools for Windows 11, 10, 8 & 7 Users</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/1-simplified-pc-data-protection-quick-and-reliable-windows-backup-with-aomei-backupper/"><u>1. Simplified PC Data Protection: Quick & Reliable Windows Backup with AOMEI Backupper</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/activating-windows-security-a-step-by-step-guide-by-yl-computing/"><u>Activating Windows Security: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/complete-set-of-addison-montgomery-visuals-icons-banners-and-more-from-yl-software-solutions/"><u>Complete Set of Addison Montgomery Visuals: Icons, Banners, & More From YL Software Solutions</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/exploring-blockchain-architectures-how-public-and-private-chains-compare-insights-from-yl-software/"><u>Exploring Blockchain Architectures: How Public and Private Chains Compare - Insights From YL Software</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-motorola-moto-g84-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Motorola Moto G84 5G Quickly? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hp-officejet-5740-driver-update-seamless-printing-on-windows-11-10-and-8/"><u>HP Officejet 5740 Driver Update: Seamless Printing on Windows 11, 10 and 8</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/identifying-and-resolving-graphics-card-performance-problems-insights-from-yl-computing/"><u>Identifying and Resolving Graphics Card Performance Problems: Insights From YL Computing</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-mastering-srt-editing-on-macos-a-comprehensive-guide/"><u>In 2024, Mastering SRT Editing on macOS A Comprehensive Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/must-have-5-reasons-retro-handheld-games-explained/"><u>Must-Have 5 Reasons: Retro Handheld Games Explained</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-physxloaderdll-file-not-present-a-step-by-step-guide/"><u>Resolving 'PhysXLoader.dll' File Not Present: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/the-historical-origins-and-triggers-of-the-opium-wars-explained-yl-computing-yl-software/"><u>The Historical Origins and Triggers of the Opium Wars Explained - YL Computing | YL Software</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/virtual-venue-face-off-assessing-obs-and-twitch-studios-for-2024/"><u>Virtual Venue Face-Off Assessing OBS & Twitch Studios for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-motorola-edge-40-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Motorola Edge 40 Pro | Dr.fone</u></a></li>
 </ul></div>
 

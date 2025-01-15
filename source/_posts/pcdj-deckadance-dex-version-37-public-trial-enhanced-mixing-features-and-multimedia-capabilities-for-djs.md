@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Deckadance DEX Version 3.7 Public Trial: Enhanced Mixing Features & Multimedia Capabilities for DJs"
-date: 2025-01-05T23:48:31.355Z
-updated: 2025-01-09T04:13:14.321Z
+date: 2025-01-10T23:30:48.629Z
+updated: 2025-01-14T20:00:43.687Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ This is a much anticipated and requested feature update for DEX 3 and while test
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here are the key highlights of this major update to DEX 3.7 (Public Beta 1)
@@ -55,7 +55,7 @@ This is a much anticipated and requested feature update for DEX 3 and while test
 _Have questions about our [video mixing software](https://tools.techidaily.com/pcdj/products/)? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -77,22 +77,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/08/dex3publicbeta-overlays-co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-expediting-fb-videos-leading-extensions-and-apps-compilation/"><u>[New] Expediting FB Videos Leading Extensions & Apps Compilation</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-obsudio-screencast-review-finding-your-best-live-broadcast-tool-for-2024/"><u>[New] Obsudio Screencast Review Finding Your Best Live Broadcast Tool for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-effortlessly-increase-youtube-video-dimensions/"><u>[Updated] 2024 Approved Effortlessly Increase YouTube Video Dimensions</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-evolving-from-static-snapshots-to-moving-visuals-for-2024/"><u>[Updated] Evolving From Static Snapshots to Moving Visuals for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/all-inclusive-expense-exploration-embarking-on-a-podcast-for-2024/"><u>All-Inclusive Expense Exploration Embarking on a Podcast for 2024</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/benchmarking-data-protection-how-does-aomei-backupper-stack-up-against-competing-backup-solutions/"><u>Benchmarking Data Protection: How Does AOMEI Backupper Stack Up Against Competing Backup Solutions?</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/both-operations-must-consider-context-to-maintain-relevance-to-the-overall-theme-of-architectural-charm-and-amenity-accessibility-avoiding-any-outliers-that331/"><u>Both Operations Must Consider Context to Maintain Relevance to the Overall Theme of Architectural Charm and Amenity Accessibility, Avoiding Any Outliers that Do Not Fit These Themes.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/claude-2-unveiled-insightful-exploration/"><u>Claude 2 Unveiled: Insightful Exploration</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/data-extraction-techniques-for-unbooting-laptop-drives/"><u>Data Extraction Techniques for Unbooting Laptop Drives</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/datenubertragung-von-samsung-auf-windows-11-schritt-fur-schritt-leitfaden-und-alternative-methoden/"><u>Datenübertragung Von Samsung Auf Windows 11: Schritt-Für-Schritt-Leitfaden Und Alternative Methoden</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/einfache-schritte-zur-reparatur-und-datenwiederherstellung-von-defekten-computermonitoren/"><u>Einfache Schritte Zur Reparatur Und Datenwiederherstellung Von Defekten Computermonitoren</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/el-metodo-optimal-para-transferir-un-imagen-de-volumen-dinamico-al-disco-solido-en-3-pases/"><u>El Método Optimal Para Transferir Un Imagen De Volumen Dinámico Al Disco Sólido en 3 Pases</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/follow-up-discussion-on-desired-functions-for-emeditor-leading-text-editor/"><u>Follow-Up Discussion on Desired Functions for EmEditor, Leading Text Editor</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-my-sony-xperia-5-v-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Sony Xperia 5 V Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/overcome-windows-7-backup-stalling-at-9757-with-these-6-strategies-plus-a-crucial-insiders-secret/"><u>Overcome Windows 7 Backup Stalling at 97%/57% with These 6 Strategies + A Crucial Insider's Secret!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/step-by-step-guide-resolving-iphone-issues-with-apples-help-app/"><u>Step-by-Step Guide: Resolving iPhone Issues with Apple's Help App</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-power-of-a-fresh-start-for-your-windows-apps/"><u>The Power of a Fresh Start for Your Windows Apps</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-accelerated-actions-saving-ppts-quickly/"><u>[New] 2024 Approved Accelerated Actions Saving PPTs Quickly</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-engage-and-inspire-viewers-animated-subscribers-in-filmora-explained/"><u>[New] 2024 Approved Engage and Inspire Viewers - Animated Subscribers in Filmora Explained</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-master-the-art-of-cinematic-vibrance-top-11-post-production-insights-for-2024/"><u>[New] Master the Art of Cinematic Vibrance Top 11 Post-Production Insights for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-az-video-logger-full-application-breakdown/"><u>[Updated] 2024 Approved AZ Video Logger Full Application Breakdown</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-amplify-visual-content-embedding-audio-on-instagram-reels/"><u>2024 Approved Amplify Visual Content Embedding Audio on Instagram Reels</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-video-repair-tool-to-fix-and-repair-corrupt-mp4movavi-video-files-of-nord-n30-5g-by-stellar-video-repair-mobile-video-repair/"><u>Best Video Repair tool to Fix and Repair Corrupt MP4,MOV,AVI video files of Nord N30 5G</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/boosting-system-speed-proven-strategies-by-yl-computing-and-yl-software-experts/"><u>Boosting System Speed: Proven Strategies by YL Computing & YL Software Experts</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/easy-steps-for-pc-users-download-and-install-any-application-with-yls-comprehve-solutions/"><u>Easy Steps for PC Users: Download & Install Any Application with YL's Comprehve Solutions</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/how-did-the-chinese-communist-party-begin-insights-from-yl-computing-and-yl-software/"><u>How Did the Chinese Communist Party Begin? - Insights From YL Computing and YL Software</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/identifying-the-correct-drivers-for-your-sound-card-a-comprehensive-guide-yl-computing/"><u>Identifying the Correct Drivers for Your Sound Card: A Comprehensive Guide - YL Computing</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unraveling-cuts-in-imovie-size-modification-mystery/"><u>In 2024, Unraveling Cuts in iMovie Size Modification Mystery</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-depth-strategies-for-organizing-your-windows-mov-collection-for-2024/"><u>In-Depth Strategies for Organizing Your Windows .mov Collection for 2024</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/lyrx-karaoke-for-mac-exploring-what-sets-it-apart-from-competing-dj-tools-like-pcdj/"><u>LYRX Karaoke for Mac: Exploring What Sets It Apart From Competing DJ Tools Like PCDJ</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/maximizing-pc-speed-effective-strategies-for-clearing-up-your-hard-drive-insights-from-yl-computing/"><u>Maximizing PC Speed: Effective Strategies for Clearing Up Your Hard Drive - Insights From YL Computing</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/solving-the-issue-of-blurry-line-streaked-outputs-in-printers-guidance-by-yl-software-professionals/"><u>Solving The Issue Of Blurry, Line-Streaked Outputs In Printers - Guidance By YL Software Professionals</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/the-ultimate-checklist-key-inquiries-for-selecting-your-dream-wedding-dj-top-10/"><u>The Ultimate Checklist: Key Inquiries for Selecting Your Dream Wedding DJ (Top 10)</u></a></li>
 </ul></div>
 

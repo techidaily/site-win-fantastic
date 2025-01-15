@@ -1,7 +1,7 @@
 ---
 title: "Dj Controllers: Integrating Ion D2Go for Dextronix v3 with Ruby Mobile Audio Tech on DJ Platforms"
-date: 2025-01-06T20:39:53.405Z
-updated: 2025-01-08T18:10:23.193Z
+date: 2025-01-10T01:54:33.698Z
+updated: 2025-01-14T20:35:25.401Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ Based on a users recent request we’ve just created a new [DEX 3](https://tools
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More On The DJ2GO From ION’s Website:
@@ -35,7 +35,7 @@ Based on a users recent request we’ve just created a new [DEX 3](https://tools
 [![](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/DJ2GO_left_weblg.png?fit=300%2C188&ssl=1 "DJ2GO_left_weblg")](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/DJ2GO%5Fleft%5Fweblg.png?fit=1030%2C644&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 DJ2GO gives you a tactile feel that can’t be matched by DJing with just your computer mouse and keyboard. In fact, with DJ2GO there’s virtually no need to touch your mouse or keyboard while performing. Everything you need to do, from selecting songs and cueing, to beat-matching and volume adjustment can be controlled by DJ2GO’s generous array of faders, knobs and bright, backlit buttons. DJ2GO weighs just 13 oz. but provides a layout that DJs prefer, including two platters, a crossfader, pitch and level controls as well as Deck A, Deck B, Master and Headphone gain controls. Sync and headphone buttons allow you to instantly sync two tracks and monitor either deck section.
@@ -55,7 +55,7 @@ The ION DJ2Go is selling for around $99 on Amazon and some other online retailer
 **INSTALLATION INSTRUCTIONS:** **Unzip the Map (js file) To:** **C: (Windows) or App Folder for DEX 3 (MAC) – Program Files (x86) _\-> PCDJ -> DEX3 -> CONTROLLERS. REPLACE THE EXISTING Numark DJ2GO SCRIPT WITH THE NEW ONE!_**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -77,24 +77,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/iondj2go-blogcoverimage.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-exploring-chromatics-from-theory-to-tangible/"><u>[New] In 2024, Exploring Chromatics From Theory to Tangible</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-tech-savvy-tips-for-capturing-and-saving-mobile-snapshots/"><u>[New] In 2024, Tech-Savvy Tips for Capturing and Saving Mobile Snapshots</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-slide-show-must-haves-for-iphone-models-787-pro-max/"><u>[New] Slide Show Must-Haves for iPhone Models 7/8/7 Pro Max</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-headset-face-off-rift-vive-and-playstations-vr-standards-for-2024/"><u>[Updated] Headset Face-Off Rift, Vive & PlayStation's VR Standards for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-the-essential-guide-to-using-vsdc-and-comparing-it-with-others-for-2024/"><u>[Updated] The Essential Guide to Using VSDC & Comparing It with Others for 2024</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/1-steps-to-restore-a-deleted-spreadsheet-file-in-microsoft-excel/"><u>1. Steps to Restore a Deleted Spreadsheet File in Microsoft Excel</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-make-gif-on-iphone-top-10-gif-apps-for-iphone-x876/"><u>2024 Approved Make GIF on iPhone Top 10 GIF Apps for iPhone X/8/7/6</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/1728486038887-windows-11sd/"><u>解決Windows 11無法檢測SD卡 - 用户友好的故障排除方法</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/best-youtube-video-reaction-ideas/"><u>Best YouTube Video Reaction Ideas</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/fixing-airdrop-disconnections-effective-strategies-for-a-smooth-experience/"><u>Fixing AirDrop Disconnections: Effective Strategies for a Smooth Experience</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-it-oppo-reno-9a-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Oppo Reno 9A Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-samsung-galaxy-m34-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Samsung Galaxy M34</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/pasuje-do-aktualizacji-windows-server-2012-r2-na-verzie-winrm-2019-bez-pudebnienia-danych/"><u>Pasuje Do Aktualizacji Windows Server 2012 R2 Na Verzię WinRM 2019, Bez Pudebnienia Danych</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/pengurusan-digital-terpadu-menemukan-semua-foto-personal-pada-komputer-anda-untuk-operasi-windows-11/"><u>Pengurusan Digital Terpadu: Menemukan Semua Foto Personal Pada Komputer Anda - Untuk Operasi Windows 11</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/secure-data-backup-on-windows-10-using-a-usb-flash-drive/"><u>Secure Data Backup on Windows 10 Using a USB Flash Drive</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/skyrims-mysterious-muting-solutions-for-sound-issues/"><u>Skyrim's Mysterious Muting: Solutions for Sound Issues</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/step-by-step-wd-hdd-auto-backup-setup-ultimate-tutorial-and-free-downloads/"><u>Step-by-Step WD HDD Auto Backup Setup: Ultimate Tutorial & Free Downloads</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/ultimate-ebackup-pro-tutorials-mastering-your-data-with-expert-guides/"><u>Ultimate EBackup Pro Tutorials: Mastering Your Data with Expert Guides</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/windows-11-0x807800c5/"><u>Windows 11 バックアップ失敗時のエラー 0X807800C5: 迅速な修正手順</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-free-tools-top-5-screen-recorder-apps-for-chrome-devices-for-2024/"><u>[New] Free Tools Top 5 Screen Recorder Apps for Chrome Devices for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-unleash-potential-understanding-and-altering-account-numbers/"><u>[New] Unleash Potential Understanding and Altering Account Numbers</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/benchmarking-data-protection-how-does-aomei-backupper-stack-up-against-competing-backup-solutions/"><u>Benchmarking Data Protection: How Does AOMEI Backupper Stack Up Against Competing Backup Solutions?</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/both-operations-must-consider-context-to-maintain-relevance-to-the-overall-theme-of-architectural-charm-and-amenity-accessibility-avoiding-any-outliers-that331/"><u>Both Operations Must Consider Context to Maintain Relevance to the Overall Theme of Architectural Charm and Amenity Accessibility, Avoiding Any Outliers that Do Not Fit These Themes.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/can-we-trust-our-ears-navigating-the-perils-of-advanced-ai-voice-cloning-on-amazons-platform-tech-insights-by-zdnet/"><u>Can We Trust Our Ears? Navigating the Perils of Advanced AI Voice Cloning on Amazon's Platform | Tech Insights by ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/code-43-bug-fixes-advanced-techniques-for-developers/"><u>Code 43 Bug Fixes: Advanced Techniques for Developers</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/comment-retrouver-les-photographies-supprimees-lors-dune-copie-et-collage/"><u>Comment Retrouver Les Photographies Supprimées Lors D'une Copie Et Collage</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/el-metodo-optimal-para-transferir-un-imagen-de-volumen-dinamico-al-disco-solido-en-3-pases/"><u>El Método Optimal Para Transferir Un Imagen De Volumen Dinámico Al Disco Sólido en 3 Pases</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/exclusive-collection-vimeo-video-clippers-for-2024/"><u>Exclusive Collection Vimeo Video Clippers for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-it-motorola-moto-g73-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Motorola Moto G73 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/konfigurieren-von-automatischen-synchronisierungsbackups-fur-nas-auf-windows-111087-geraten/"><u>Konfigurieren Von Automatischen Synchronisierungsbackups Für NAS Auf Windows 11/10/8/7 Geräten</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/mastering-file-relocation-expert-tips-for-seamless-transfers-within-windows-11/"><u>Mastering File Relocation: Expert Tips for Seamless Transfers Within Windows 11</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-fcp-transition-guide-3-simple-yet-effective-techniques/"><u>New In 2024, FCP Transition Guide 3 Simple Yet Effective Techniques</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/overcome-windows-7-backup-stalling-at-9757-with-these-6-strategies-plus-a-crucial-insiders-secret/"><u>Overcome Windows 7 Backup Stalling at 97%/57% with These 6 Strategies + A Crucial Insider's Secret!</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/recover-deleted-photos-and-messages-from-iphones-ios-15-13-even-without-a-backup/"><u>Recover Deleted Photos and Messages From iPhones (iOS 15-13) Even Without a Backup!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-7-solutions-to-resolve-warzone-20-launch-issues-on-pc-updated-guide/"><u>Top 7 Solutions to Resolve Warzone 2.0 Launch Issues on PC - Updated Guide</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/ultimate-step-by-step-guide-on-synology-c2-backup-with-top-paid-and-unpaid-options/"><u>Ultimate Step-by-Step Guide on Synology C2 Backup with Top Paid & Unpaid Options</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveil-hidden-files-in-macos-a-comprehensive-guide-using-terminal-techniques/"><u>Unveil Hidden Files in macOS: A Comprehensive Guide Using Terminal Techniques</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-google-plays-best-of-the-best-top-android-apps/"><u>Updated 2024 Approved Google Plays Best of the Best Top Android Apps</u></a></li>
 </ul></div>
 

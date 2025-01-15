@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on New DJ Mixer Firmware, Version 3.17.0.3 by PCDJ Now Available!
-date: 2025-01-02T02:36:05.714Z
-updated: 2025-01-08T22:40:44.967Z
+date: 2025-01-12T21:21:14.872Z
+updated: 2025-01-15T02:28:57.930Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ We suggest you install the new 3.17.0.3 release of DEX 3 immediately. Simply dow
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in DEX 3.17.0.3
@@ -50,7 +50,7 @@ We suggest you install the new 3.17.0.3 release of DEX 3 immediately. Simply dow
 _Have questions about the latest 3.17.0.3 version of our **Top DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,14 +72,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2022/04/download-dex31703-1.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-behind-the-lens-innovative-techniques-using-hero5-black-for-2024/"><u>[Updated] Behind the Lens Innovative Techniques Using Hero5 Black for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-unlock-3d-text-magic-with-adobes-creative-suite/"><u>[Updated] In 2024, Unlock 3D Text Magic with Adobe's Creative Suite</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-rhythm-discoverers-toolkit-all-free-and-online/"><u>2024 Approved Rhythm Discoverer’s Toolkit – All FREE & Online</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/1728501348431-windows/"><u>如何在Windows電腦上找回失去的照片方法？</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/complete-walkthrough-executing-deep-disk-initialization-techniques-for-windows-11-users/"><u>Complete Walkthrough: Executing Deep Disk Initialization Techniques for Windows 11 Users</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-connection-tricks-for-perfectly-pairing-your-logitech-mouse/"><u>Easy Connection Tricks for Perfectly Pairing Your Logitech Mouse</u></a></li>
-<li><a href="https://facebook.techidaily.com/stop-everyone-emoticons-in-comments/"><u>Stop @Everyone Emoticons in Comments</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/une-breve-explication-sur-la-facon-de-deplacer-votre-installation-windows-7-deux-approches-efficaces/"><u>Une Brève Explication Sur La Façon De Déplacer Votre Installation Windows 7 : Deux Approches Efficaces</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/1728475096019-youtube/"><u>YouTube動画の失われた映像を回復する究極のレシピ</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-from-zero-to-hero-on-instagram-6-strategies-that-lead-to-verified-status/"><u>[New] 2024 Approved From Zero to Hero on Instagram 6 Strategies That Lead to Verified Status</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-proven-strategies-for-superior-design-with-canva/"><u>[New] 2024 Approved Proven Strategies for Superior Design with Canva</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-building-brand-authority-top-tips-for-novice-marketers-on-reddit/"><u>[New] Building Brand Authority Top Tips for Novice Marketers on Reddit</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-nostalgic-shots-iphone-x-retro-photo-session/"><u>[Updated] In 2024, Nostalgic Shots IPhone X Retro Photo Session</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-vivo-y27s-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Vivo Y27s to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/comprehensive-step-by-step-manual-upgrading-from-dhcp-server-2016-to-windows-server-2019/"><u>Comprehensive Step-by-Step Manual: Upgrading From DHCP Server 2016 to Windows Server 2019</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/crack-the-code-a-comprehensive-solution-for-nba-2k24s-error-72e66ac/"><u>Crack the Code: A Comprehensive Solution for NBA 2K24's Error 72E66ac</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/efficient-sdd-cloning-for-secured-boot-on-windows-10-systems/"><u>Efficient SDD Cloning for Secured Boot on Windows 10 Systems</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/einfache-methode-zum-klonen-von-windows-10-auf-mehreren-pcs-drei-einfache-schritte/"><u>Einfache Methode Zum Klonen Von Windows 10 Auf Mehreren PCs - Drei Einfache Schritte</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-meizu-21-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Meizu 21 Phone | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-a-broken-logitech-g935-mic-on-windows-systems/"><u>How to Fix a Broken Logitech G935 Mic on Windows Systems</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/sicherung-ihres-windows-10-betriebs-kompakte-anleitungen-fur-einen-zuverlassigen-systemschutz/"><u>Sicherung Ihres Windows 10 Betriebs - Kompakte Anleitungen Für Einen Zuverlässigen Systemschutz</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/step-by-step-tutorial-for-simple-ssd-partition-recovery-using-windows-tools-and-tricks/"><u>Step-by-Step Tutorial for Simple SSD Partition Recovery Using Windows Tools and Tricks</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/red-engagement-design-your-youtube-sign-up-bar-with-an-animated-approach-using-filmora-for-2024/"><u>Tailored Engagement Design Your YouTube Sign-Up Bar with an Animated Approach Using Filmora for 2024</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/tecnicas-eficazes-para-encontrar-fotos-no-seu-disco-rigido-externo-explore-quatro-metodos-diferentes/"><u>Técnicas Eficazes Para Encontrar Fotos No Seu Disco Rígido Externo - Explore Quatro Métodos Diferentes.</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/ultimate-guide-retrieving-missing-documents-in-windows-7/"><u>Ultimate Guide: Retrieving Missing Documents in Windows 7</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/1728478140851-windows-server/"><u>Windows Server 系統復原與備份操作調查 - 逐步解析</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Ultimate Tutorial on Using LYRX for Karaoke with Your PCDJ Setup | Video Walkthrough
-date: 2025-01-05T23:42:54.942Z
-updated: 2025-01-09T05:20:30.655Z
+date: 2025-01-13T20:51:19.788Z
+updated: 2025-01-15T03:02:19.575Z
 tags:
   - product
 categories:
@@ -18,7 +18,7 @@ In the video tutorial above, we demonstrate how to use the commercially-legal [P
 You can learn more about LYRX and download a free trial at [LYRXKaraoke.com](http://www.lyrxkaraoke.com)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -40,20 +40,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2019/02/pt-lyrx-cover.jpg?fit=706%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-picsart-revamp-explained-in-depth-review-and-step-by-step-tutorial-update/"><u>[New] PicsArt Revamp Explained In-Depth Review & Step-by-Step Tutorial Update</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-crafting-captivating-podcasts-a-step-by-step-writing-guide/"><u>[Updated] Crafting Captivating Podcasts A Step-by-Step Writing Guide</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-ditching-samsungs-gear-360-here-are-your-new-camera-options-for-2024/"><u>[Updated] Ditching Samsung's Gear 360? Here Are Your New Camera Options for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-visual-memories-an-insiders-look-at-video-recorders/"><u>[Updated] In 2024, Visual Memories An Insider's Look at Video Recorders</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/boost-system-efficiency-with-key-internet-explorer-customizations-tips-from-yl-computing/"><u>Boost System Efficiency with Key Internet Explorer Customizations - Tips From YL Computing</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/-visibility-with-customized-channel-names/"><u>Boost Visibility with Customized Channel Names</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/boosting-your-broadband-effective-strategies-for-faster-connectivity-with-yl-computing/"><u>Boosting Your Broadband: Effective Strategies for Faster Connectivity with YL Computing</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/crafting-captivating-video-narratives-for-youtube-success/"><u>Crafting Captivating Video Narratives for YouTube Success</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/easily-manage-your-installed-programs-with-control-panel-tricks-yl-computings-how-to-video-series/"><u>Easily Manage Your Installed Programs with Control Panel Tricks - YL Computing's How-To Video Series</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/experience-the-latest-partytyme-karaoke-on-dex-39-subscription-launch-demo/"><u>Experience the Latest PartyTyme Karaoke on DEX 3.9 - Subscription Launch Demo</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/exploring-advanced-gadgets-with-tom-a-deep-dive-into-modern-electronics/"><u>Exploring Advanced Gadgets with Tom - A Deep Dive Into Modern Electronics</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/guide-to-sharing-documents-and-directories-on-windows-a-comprehensive-walkthrough-by-yl-tech/"><u>Guide to Sharing Documents & Directories on Windows: A Comprehensive Walkthrough by YL Tech</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-12-mini-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock iPhone 12 mini Passcode without iTunes without Knowing Passcode?</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-the-ultimate-guide-to-choosing-between-free-and-paid-zoom-transcribers/"><u>In 2024, The Ultimate Guide to Choosing Between Free & Paid Zoom Transcribers</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/step-by-step-guide-managing-zip-operations-on-windows-with-yl-software-solutions/"><u>Step-by-Step Guide: Managing ZIP Operations on Windows with YL Software Solutions</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-techniques-for-perfect-chroma-key-compositing/"><u>[Updated] In 2024, Techniques for Perfect Chroma Key Compositing</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-supplementary-video-for-enhanced-storytelling/"><u>2024 Approved Mastering Supplementary Video for Enhanced Storytelling</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/3-techniques-rapides-pour-sauvegarder-en-toute-securite-votre-installation-de-windows-11-sur-un-disque-dur-externel/"><u>3 Techniques Rapides Pour Sauvegarder en Toute Sécurité Votre Installation De Windows 11 Sur Un Disque Dur Externel</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/aomei-aomei/"><u>AOMEI 個人資料保護法|AOMEI 安全性信任管理系統</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/contacts-weggesloegt-op-iphone-13-of-14-hoe-kunt-u-ze-herstellen/"><u>Contacts Weggesloegt Op iPhone 13 of 14, Hoe Kunt U Ze Herstellen?</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/gratuidade-do-seguro-de-dados-backups-pessoais-e-simplificados-no-sistema-operacional-windows/"><u>Gratuidade Do Seguro De Dados: Backups Pessoais E Simplificados No Sistema Operacional Windows</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/guide-introductif-creation-dun-script-de-sauvegarde-de-fichiers-sur-le-reseau/"><u>Guide Introductif - Création D'un Script De Sauvegarde De Fichiers Sur Le Reseau</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/how-to-gracefully-terminate-your-vmware-hosted-operating-system/"><u>How to Gracefully Terminate Your VMware Hosted Operating System</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-saving-your-itunes-media-three-simple-steps/"><u>In 2024, Saving Your iTunes Media Three Simple Steps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-superior-techniques-for-adjusting-tempo-of-tracks-in-spotify/"><u>In 2024, Superior Techniques for Adjusting Tempo of Tracks in Spotify</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/motivational-moments-the-ultimate-list-for-insta/"><u>Motivational Moments The Ultimate List for Insta</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-free-avi-video-rotation-16-top-picks-for-windows-mac-android-iphone-and-online-platforms/"><u>New 2024 Approved Free AVI Video Rotation 16 Top Picks for Windows, MAC, Android, iPhone, and Online Platforms</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/solution-aux-difficultes-rencontrees-avec-la-commande-altplusf10-sur-erecovery-acer/"><u>Solution Aux Difficultés Rencontrées Avec La Commande ALT+F10 Sur eRecovery Acer</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/stepwise-addition-of-language-overlays-in-igtv-videos-for-2024/"><u>Stepwise Addition of Language Overlays in IGTV Videos for 2024</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/troubleshooting-quick-start-missing-from-iphone-effective-fixes-and-tips/"><u>Troubleshooting 'Quick Start' Missing From iPhone: Effective Fixes and Tips</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-performance-secrets-of-the-extollo-lansocket-1500-fast-connectivity-and-uninterrupted-power-pass-through/"><u>Unveiling the Performance Secrets of the Extollo LANSocket 1500: Fast Connectivity & Uninterrupted Power Pass-Through</u></a></li>
 </ul></div>
 
