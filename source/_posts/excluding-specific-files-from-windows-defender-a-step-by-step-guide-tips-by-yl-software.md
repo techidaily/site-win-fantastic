@@ -1,7 +1,7 @@
 ---
 title: "Excluding Specific Files From Windows Defender: A Step-by-Step Guide - Tips by YL Software"
-date: 2025-01-09T18:04:24.411Z
-updated: 2025-01-14T20:27:45.955Z
+date: 2025-01-15T16:19:24.401Z
+updated: 2025-01-21T05:05:31.267Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,24 +56,19 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-fast-and-easy-gif-transformation-ultimate-list-of-no-download-services/"><u>[New] 2024 Approved Fast and Easy GIF Transformation Ultimate List of No-Download Services</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/11/"><u>11</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/e-online-video-editors-for-youtube/"><u>8 Free Online Video Editors for YouTube</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/adjusting-windows-taskbar-dimensions-using-the-control-panel-with-expert-advice-by-yl-software/"><u>Adjusting Windows Taskbar Dimensions Using the Control Panel with Expert Advice by YL Software</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/discover-the-power-of-inisection-unlocking-enhanced-user-experience-in-documents/"><u>Discover the Power of IniSection: Unlocking Enhanced User Experience in Documents</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/get-your-hands-on-new-dj-mixer-firmware-version-31703-by-pcdj-now-available/"><u>Get Your Hands on New DJ Mixer Firmware, Version 3.17.0.3 by PCDJ Now Available!</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-to-contribute-your-unique-webcam-filters-to-the-official-manycam-collection/"><u>How to Contribute Your Unique Webcam Filters to the Official ManyCam Collection</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-pinnacle-cloud-solutions-highest-rated-reviewed/"><u>In 2024, Pinnacle Cloud Solutions Highest-Rated Reviewed</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/optimize-computer-performance-by-expanding-disk-space-tips-and-techniques-by-yl-software-experts/"><u>Optimize Computer Performance by Expanding Disk Space: Tips and Techniques by YL Software Experts</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/premium-gmc-trucks-backgrounds-for-pc-professional-graphics-designed-by-yl-computings-expert-software-team/"><u>Premium GMC Trucks Backgrounds for PC: Professional Graphics Designed by YL Computing's Expert Software Team</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/simplifying-complexities-in-youtube-shorts/"><u>Simplifying Complexities in YouTube Shorts</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/solving-the-mystery-of-unrecognized-sound-cards-in-windows-expert-advice-by-yl-tech/"><u>Solving the Mystery of Unrecognized Sound Cards in Windows - Expert Advice by YL Tech</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/step-by-step-guide-align-your-pcs-time-with-an-internet-time-authority-using-windows-tips-from-yl-computing/"><u>Step-by-Step Guide: Align Your PC's Time with an Internet Time Authority Using Windows - Tips From YL Computing</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/step-by-step-solutions-for-malfunctioning-hard-drives-from-yl-software-experts/"><u>Step-by-Step Solutions for Malfunctioning Hard Drives From YL Software Experts</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-your-storage-efficiently-identifying-large-disk-users/"><u>Streamline Your Storage: Efficiently Identifying Large Disk Users</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/the-ultimate-tutorial-on-disabling-yl-computings-software-from-your-pc-step-by-step-process/"><u>The Ultimate Tutorial on Disabling YL Computing's Software From Your PC - Step-by-Step Process</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-privacy-implications-when-interacting-with-chatgpt/"><u>Understanding Privacy Implications when Interacting with ChatGPT</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unlock-creative-potential-the-ultimate-list-of-affects-extensions/"><u>Unlock Creative Potential The Ultimate List of Affects Extensions</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/why-does-my-pc-turn-off-without-warning-solutions-by-yl-software-experts/"><u>Why Does My PC Turn Off Without Warning? Solutions by YL Software Experts</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-hand-tracking-mastery-all-methods-unveiled-for-2024/"><u>[New] Hand-Tracking Mastery All Methods Unveiled for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-quick-win-strategies-top-20-video-tips-for-content-boosters/"><u>[Updated] 2024 Approved Quick-Win Strategies Top 20 Video Tips for Content Boosters</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/a-comprehensive-review-of-the-durable-omoton-t1-tablet-support-system/"><u>A Comprehensive Review of the Durable Omoton T1 Tablet Support System</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/fixing-esxi-fsck-errors-step-by-step-guide-with-command-examples/"><u>Fixing ESXi Fsck Errors: Step-by-Step Guide with Command Examples</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-secrets-to-hassle-free-background-hocus-pocus-on-zoom/"><u>In 2024, The Secrets to Hassle-Free Background Hocus Pocus on Zoom</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/keeping-your-conversations-private-steps-to-stop-chatgpts-memory-retention/"><u>Keeping Your Conversations Private: Steps to Stop ChatGPT's Memory Retention</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastery-over-mishaps-understanding-and-correcting-10-gaming-slip-ups/"><u>Mastery Over Mishaps: Understanding and Correcting 10 Gaming Slip-Ups</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/page-unavailable-error-404-content-doesnt-exist-here/"><u>Page Unavailable Error 404 – Content Doesn't Exist Here</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/problem-mit-dem-starten-von-bootfahigen-ssds-bei-dell-losungen-finden-sie-hier/"><u>Problem Mit Dem Starten Von Bootfähigen SSDs Bei Dell - Lösungen Finden Sie Hier!</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/professional-strategies-for-inshot-edits-for-2024/"><u>Professional Strategies for Inshot Edits for 2024</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/resolved-top-5-fixes-for-successful-acer-erc-recovery-restores/"><u>Resolved: Top 5 Fixes for Successful Acer ERC Recovery Restores</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-oneplus-nord-ce-3-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock OnePlus Nord CE 3 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/1728481606261-windows-11/"><u>Windows 11で「準備中」画面を最終的にクリアするヒント</u></a></li>
 </ul></div>
 

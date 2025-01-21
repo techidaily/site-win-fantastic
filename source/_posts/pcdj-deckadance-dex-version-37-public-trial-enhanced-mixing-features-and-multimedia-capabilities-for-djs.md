@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Deckadance DEX Version 3.7 Public Trial: Enhanced Mixing Features & Multimedia Capabilities for DJs"
-date: 2025-01-10T23:30:48.629Z
-updated: 2025-01-14T20:00:43.687Z
+date: 2025-01-18T16:20:46.208Z
+updated: 2025-01-21T03:00:05.435Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ This is a much anticipated and requested feature update for DEX 3 and while test
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here are the key highlights of this major update to DEX 3.7 (Public Beta 1)
@@ -55,7 +55,7 @@ This is a much anticipated and requested feature update for DEX 3 and while test
 _Have questions about our [video mixing software](https://tools.techidaily.com/pcdj/products/)? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -77,22 +77,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/08/dex3publicbeta-overlays-co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-accelerated-actions-saving-ppts-quickly/"><u>[New] 2024 Approved Accelerated Actions Saving PPTs Quickly</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-engage-and-inspire-viewers-animated-subscribers-in-filmora-explained/"><u>[New] 2024 Approved Engage and Inspire Viewers - Animated Subscribers in Filmora Explained</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-master-the-art-of-cinematic-vibrance-top-11-post-production-insights-for-2024/"><u>[New] Master the Art of Cinematic Vibrance Top 11 Post-Production Insights for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-az-video-logger-full-application-breakdown/"><u>[Updated] 2024 Approved AZ Video Logger Full Application Breakdown</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-amplify-visual-content-embedding-audio-on-instagram-reels/"><u>2024 Approved Amplify Visual Content Embedding Audio on Instagram Reels</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-video-repair-tool-to-fix-and-repair-corrupt-mp4movavi-video-files-of-nord-n30-5g-by-stellar-video-repair-mobile-video-repair/"><u>Best Video Repair tool to Fix and Repair Corrupt MP4,MOV,AVI video files of Nord N30 5G</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/boosting-system-speed-proven-strategies-by-yl-computing-and-yl-software-experts/"><u>Boosting System Speed: Proven Strategies by YL Computing & YL Software Experts</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/easy-steps-for-pc-users-download-and-install-any-application-with-yls-comprehve-solutions/"><u>Easy Steps for PC Users: Download & Install Any Application with YL's Comprehve Solutions</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/how-did-the-chinese-communist-party-begin-insights-from-yl-computing-and-yl-software/"><u>How Did the Chinese Communist Party Begin? - Insights From YL Computing and YL Software</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/identifying-the-correct-drivers-for-your-sound-card-a-comprehensive-guide-yl-computing/"><u>Identifying the Correct Drivers for Your Sound Card: A Comprehensive Guide - YL Computing</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Infinix Hot 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unraveling-cuts-in-imovie-size-modification-mystery/"><u>In 2024, Unraveling Cuts in iMovie Size Modification Mystery</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-depth-strategies-for-organizing-your-windows-mov-collection-for-2024/"><u>In-Depth Strategies for Organizing Your Windows .mov Collection for 2024</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/lyrx-karaoke-for-mac-exploring-what-sets-it-apart-from-competing-dj-tools-like-pcdj/"><u>LYRX Karaoke for Mac: Exploring What Sets It Apart From Competing DJ Tools Like PCDJ</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/maximizing-pc-speed-effective-strategies-for-clearing-up-your-hard-drive-insights-from-yl-computing/"><u>Maximizing PC Speed: Effective Strategies for Clearing Up Your Hard Drive - Insights From YL Computing</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/solving-the-issue-of-blurry-line-streaked-outputs-in-printers-guidance-by-yl-software-professionals/"><u>Solving The Issue Of Blurry, Line-Streaked Outputs In Printers - Guidance By YL Software Professionals</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/the-ultimate-checklist-key-inquiries-for-selecting-your-dream-wedding-dj-top-10/"><u>The Ultimate Checklist: Key Inquiries for Selecting Your Dream Wedding DJ (Top 10)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-strategic-brand-alliances-for-video-influencers/"><u>[New] In 2024, Strategic Brand Alliances for Video Influencers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-elevating-gameplay-tips-for-using-the-steam-switch-controller/"><u>[Updated] In 2024, Elevating Gameplay Tips for Using the Steam Switch Controller</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-youtube-shorts-revenue-sharing-explained-how-much-will-i-make-for-2024/"><u>[Updated] YouTube Shorts Revenue Sharing Explained How Much Will I Make for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-minuscule-marvels-a-comprehensive-review-of-dji-sparks-capabilities/"><u>2024 Approved Navigating Minuscule Marvels A Comprehensive Review of DJI Spark's Capabilities</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/1722608404559-buyers-dilemma-resolved-in-depth-review-and-head-to-head-comparison-of-roku-and-fire-tv-stick/"><u>Buyers’ Dilemma Resolved: In-Depth Review and Head-to-Head Comparison of Roku & Fire TV Stick</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-idea-to-manuscript-9-ways-chatgpt-transforms-your-novel-writing-journey/"><u>From Idea to Manuscript: 9 Ways ChatGPT Transforms Your Novel Writing Journey</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/hd-april-2020-wallpaper-collection-stunning-full-resolution-desktop-and-mobile-banners-yl-tech/"><u>HD April 2020 Wallpaper Collection: Stunning Full-Resolution Desktop & Mobile Banners - YL Tech</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-survivals-tightrope-ranking-the-top-8-zombie-adventures/"><u>In 2024, Survival's Tightrope Ranking the Top 8 Zombie Adventures</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/professional-photographs-of-red-roses-as-pc-desktop-walls-and-hd-background-imagery-by-yl-software-solutions/"><u>Professional Photographs of Red Roses as PC Desktop Walls and HD Background Imagery by YL Software Solutions</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/score-your-tunes-with-our-exclusive-offer-free-music-video-pack-from-the-making-beats-count-challenge-pcdj/"><u>Score Your Tunes with Our Exclusive Offer: Free Music Video Pack From the Making Beats Count Challenge | PCDJ</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-infinix-note-30-pros-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Infinix Note 30 Pros Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/unraveling-the-mystery-behind-unexpected-shutdowns-insights-from-yl-computings-analysis/"><u>Unraveling the Mystery Behind Unexpected Shutdowns: Insights From YL Computing's Analysis</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/verifying-your-cpu-performance-tips-and-signs-of-proper-functioning-by-yl-computing/"><u>Verifying Your CPU Performance: Tips & Signs of Proper Functioning - By YL Computing</u></a></li>
 </ul></div>
 

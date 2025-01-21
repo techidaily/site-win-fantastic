@@ -1,7 +1,7 @@
 ---
 title: "Current Projects and Innovations at PCDJ Headquarters: A Peek Into Our Work Today"
-date: 2025-01-07T22:51:58.724Z
-updated: 2025-01-14T17:09:33.285Z
+date: 2025-01-14T17:37:56.968Z
+updated: 2025-01-20T16:45:30.439Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ No, this is all about what’s next, and what new and fantastic features we have
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DJ Software: What We’re Working On Now
@@ -38,7 +38,7 @@ No, this is all about what’s next, and what new and fantastic features we have
 * In addition to Visualizations, DEX 3 users will have the ability to run picture slide-shows while mixing music or music videos. Select a directory of images/pictures and they will play on screen (_secondary audience display_) using smooth transitions between pictures. DJs will also have the ability to run picture overlays over-top playing music videos, allowing DJs to create a completely custom visual presentation. We can see many useful applications for this, such as advertisements or “drink specials”.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -60,19 +60,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/03/comingsoontopcdj-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-bytes.techidaily.com/1-simplified-pc-data-protection-quick-and-reliable-windows-backup-with-aomei-backupper/"><u>1. Simplified PC Data Protection: Quick & Reliable Windows Backup with AOMEI Backupper</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/activating-windows-security-a-step-by-step-guide-by-yl-computing/"><u>Activating Windows Security: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/complete-set-of-addison-montgomery-visuals-icons-banners-and-more-from-yl-software-solutions/"><u>Complete Set of Addison Montgomery Visuals: Icons, Banners, & More From YL Software Solutions</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/exploring-blockchain-architectures-how-public-and-private-chains-compare-insights-from-yl-software/"><u>Exploring Blockchain Architectures: How Public and Private Chains Compare - Insights From YL Software</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-motorola-moto-g84-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Motorola Moto G84 5G Quickly? | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/hp-officejet-5740-driver-update-seamless-printing-on-windows-11-10-and-8/"><u>HP Officejet 5740 Driver Update: Seamless Printing on Windows 11, 10 and 8</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/identifying-and-resolving-graphics-card-performance-problems-insights-from-yl-computing/"><u>Identifying and Resolving Graphics Card Performance Problems: Insights From YL Computing</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Poco F5 5G | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-mastering-srt-editing-on-macos-a-comprehensive-guide/"><u>In 2024, Mastering SRT Editing on macOS A Comprehensive Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/must-have-5-reasons-retro-handheld-games-explained/"><u>Must-Have 5 Reasons: Retro Handheld Games Explained</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/resolving-physxloaderdll-file-not-present-a-step-by-step-guide/"><u>Resolving 'PhysXLoader.dll' File Not Present: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/the-historical-origins-and-triggers-of-the-opium-wars-explained-yl-computing-yl-software/"><u>The Historical Origins and Triggers of the Opium Wars Explained - YL Computing | YL Software</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/virtual-venue-face-off-assessing-obs-and-twitch-studios-for-2024/"><u>Virtual Venue Face-Off Assessing OBS & Twitch Studios for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-motorola-edge-40-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-youtube-outro-complete-guide-plusbest-makers-and-templates/"><u>[New] 2024 Approved YouTube Outro Complete Guide [+Best Makers & Templates]</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-essential-guide-to-the-top-6-head-mounted-gopro-options/"><u>[Updated] 2024 Approved Essential Guide to the Top 6 Head-Mounted GoPro Options</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-comprehensive-screencast-insights-for-creators/"><u>2024 Approved Comprehensive Screencast Insights for Creators</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-premium-content-at-a-low-price-the-ultimate-list-of-free-intros-makers/"><u>2024 Approved Premium Content at a Low Price The Ultimate List of Free Intros Makers</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/checking-your-graphics-cards-compatibility-with-windows-a-step-by-step-guide-by-yl-computing/"><u>Checking Your Graphics Card's Compatibility with Windows - A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/decoding-computer-beeps-comprehensive-guide-by-tech-experts-at-yl-computing-and-yl-software/"><u>Decoding Computer BEEPS: Comprehensive Guide by Tech Experts at YL Computing and YL Software</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-hp-laserjet-1018-printer-drivers-free-guide-and-best-practices/"><u>Download HP LaserJet 1018 Printer Drivers: Free Guide & Best Practices</u></a></li>
+<li><a href="https://win-able.techidaily.com/dragon-age-inquisition-wont-boot-up-discover-effective-methods-to-resolve-the-problem/"><u>Dragon Age Inquisition Wont Boot Up? Discover Effective Methods to Resolve the Problem</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/enhancing-memory-management-essential-ram-utilization-techniques-by-yl-software-experts/"><u>Enhancing Memory Management: Essential RAM Utilization Techniques by YL Software Experts</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/get-the-new-dexred-mobile-app-version-355-enhanced-performance-and-fixes-now-released/"><u>Get the New DEX/RED Mobile App Version 3.5.5: Enhanced Performance & Fixes Now Released!</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/how-does-windows-defender-stay-updated-is-it-auto-updating-tips-from-yl-computing/"><u>How Does Windows Defender Stay Updated: Is It Auto-Updating? - Tips From YL Computing</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/how-israeli-palestinian-tensions-influence-future-market-movements-amidst-rally-in-precious-metals-a-yl-computing-analysis/"><u>How Israeli-Palestinian Tensions Influence Future Market Movements Amidst Rally in Precious Metals: A YL Computing Analysis</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-double-location-dongle-all-to-know-about-apple-iphone-11-pro-maxipad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>In 2024, Double Location Dongle All to Know About Apple iPhone 11 Pro Max/iPad GPS Spoofing | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-magix-vpx-the-ultimate-software-showdown/"><u>In 2024, Magix VPX The Ultimate Software Showdown</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-the-crashes-effective-remedies-for-a-smooth-outriders-experience/"><u>Stop the Crashes: Effective Remedies for a Smooth Outriders Experience</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/stunning-hulk-high-definition-wallpapers-bundle-by-yl-software-a-complete-visual-experience/"><u>Stunning Hulk High-Definition Wallpapers Bundle by YL Software - A Complete Visual Experience</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/ultimate-guide-essential-strategies-for-novice-producers-using-pcdj-software/"><u>Ultimate Guide: Essential Strategies for Novice Producers Using PCDJ Software</u></a></li>
+<li><a href="https://win-forum.techidaily.com/winning-the-space-race-in-windows-11-free-up-drive-efficiently/"><u>Winning the Space Race in Windows 11 - Free Up Drive Efficiently</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/yl-computings-quick-how-to-setting-up-iso-files-on-a-windows-system/"><u>YL Computing's Quick How-To: Setting up ISO Files on a Windows System</u></a></li>
 </ul></div>
 
