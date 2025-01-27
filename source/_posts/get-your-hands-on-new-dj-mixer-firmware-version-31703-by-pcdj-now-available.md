@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on New DJ Mixer Firmware, Version 3.17.0.3 by PCDJ Now Available!
-date: 2025-01-15T19:38:48.828Z
-updated: 2025-01-20T21:42:51.063Z
+date: 2025-01-24T17:24:08.540Z
+updated: 2025-01-26T17:51:47.108Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ We suggest you install the new 3.17.0.3 release of DEX 3 immediately. Simply dow
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in DEX 3.17.0.3
@@ -50,7 +50,7 @@ We suggest you install the new 3.17.0.3 release of DEX 3 immediately. Simply dow
 _Have questions about the latest 3.17.0.3 version of our **Top DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,18 +72,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2022/04/download-dex31703-1.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-exploring-media-magic-an-in-depth-analysis-of-magix-vpx-for-2024/"><u>[New] Exploring Media Magic An In-Depth Analysis of Magix VPX for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-mastering-igtv-title-and-description-revision-for-2024/"><u>[Updated] Mastering IGTV Title & Description Revision for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-understanding-luts-in-the-realm-of-photographic-mastery/"><u>[Updated] Understanding LUTs in the Realm of Photographic Mastery</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/easy-fix-for-print-issues-how-to-uninstall-and-install-printer-drivers-correctly/"><u>Easy Fix for Print Issues: How to Uninstall and Install Printer Drivers Correctly</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/enhance-pc-speed-and-reliability-with-our-expert-cleanup-tips-from-yl-software/"><u>Enhance PC Speed & Reliability with Our Expert Cleanup Tips From YL Software</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/excluding-specific-files-from-windows-defender-a-step-by-step-guide-tips-by-yl-software/"><u>Excluding Specific Files From Windows Defender: A Step-by-Step Guide - Tips by YL Software</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-benefits-of-freeform-techniques-in-innovative-idea-generation/"><u>Exploring the Benefits of Freeform Techniques in Innovative Idea Generation</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/high-resolution-deadpool-desktop-scenes-stunning-4k-wallpapers-and-visuals-by-yl-computing/"><u>High-Resolution Deadpool Desktop Scenes - Stunning 4K Wallpapers & Visuals by YL Computing</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/how-to-fix-a-sudden-blank-screen-during-gaming-sessions-expert-advice-from-yl-software-experts/"><u>How to Fix a Sudden Blank Screen During Gaming Sessions - Expert Advice From YL Software Experts</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-make-seagate-external-recognized-by-w10/"><u>How to Make Seagate External Recognized by W10</u></a></li>
-<li><a href="https://extra-information.techidaily.com/innovating-with-numbers-tips-for-tiktok-video-enhancements/"><u>Innovating with Numbers Tips for TikTok Video Enhancements</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/navigating-through-crashes-a-guide-to-diagnosing-and-correcting-systems-blue-screen-errors-by-yl-software-experts/"><u>Navigating Through Crashes: A Guide to Diagnosing and Correcting System's Blue Screen Errors by YL Software Experts</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-essential-guide-to-using-finalcut-pro-in-youtube-editing-for-2024/"><u>The Essential Guide to Using FinalCut Pro in YouTube Editing for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-swift-skim-windows-file-compilation-for-2024/"><u>[New] Swift Skim Windows File Compilation for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-deep-insight-screenflow-for-mac-performance-review/"><u>[Updated] In 2024, Deep Insight ScreenFlow for Mac Performance Review</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitvid-mover-iphone-video-transfer-tool/"><u>[Updated] TwitVid Mover IPhone Video Transfer Tool</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unlock-the-potential-of-youtube-videos-the-ultimate-chapter-addition-technique/"><u>[Updated] Unlock the Potential of YouTube Videos The Ultimate Chapter Addition Technique</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/curating-playlists-with-conscience-the-power-of-album-design-in-track-choices/"><u>Curating Playlists with Conscience: The Power of Album Design in Track Choices</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/diverse-selection-of-royalty-wallpaper-visuals-by-yl-software-get-your-perfect-background-image-now/"><u>Diverse Selection of Royalty Wallpaper Visuals by YL Software – Get Your Perfect Background Image Now!</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/enjoy-endless-songs-on-your-mac-with-the-lyrx-karaoke-player-and-party-tyme-subscription-featuring-live-video-streams/"><u>Enjoy Endless Songs on Your Mac with the LYRX Karaoke Player and Party Tyme Subscription - Featuring Live Video Streams!</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-poco-f5-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/guarding-your-assets-essential-strategies-to-prevent-crypto-fraud-insights-by-yl-computing/"><u>Guarding Your Assets: Essential Strategies to Prevent Crypto Fraud - Insights by YL Computing</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/how-to-fix-issues-with-your-pcs-audio-hardware-expert-tips-from-yl-computing/"><u>How to Fix Issues with Your PC's Audio Hardware: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-converting-your-clips-upload-to-youtube-via-premiere/"><u>In 2024, Converting Your Clips Upload to YouTube Via Premiere</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-from-delivery-to-discovery-enhancing-initial-encounters/"><u>In 2024, From Delivery to Discovery Enhancing Initial Encounters</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-from-apple-iphone-x-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number From Apple iPhone X</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-instagram-story-upload-failures-a-comprehensive-guide/"><u>Resolving Instagram Story Upload Failures: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/switching-files-to-read-only-on-your-windows-pc-a-step-by-step-guide-tech-solutions-by-yl/"><u>Switching Files to 'Read-Only' On Your Windows PC: A Step-by-Step Guide - Tech Solutions by YL</u></a></li>
 </ul></div>
 

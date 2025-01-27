@@ -1,7 +1,7 @@
 ---
 title: "Excluding Specific Files From Windows Defender: A Step-by-Step Guide - Tips by YL Software"
-date: 2025-01-15T16:19:24.401Z
-updated: 2025-01-21T05:05:31.267Z
+date: 2025-01-25T02:30:36.896Z
+updated: 2025-01-27T03:33:58.801Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,19 +56,21 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-hand-tracking-mastery-all-methods-unveiled-for-2024/"><u>[New] Hand-Tracking Mastery All Methods Unveiled for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-quick-win-strategies-top-20-video-tips-for-content-boosters/"><u>[Updated] 2024 Approved Quick-Win Strategies Top 20 Video Tips for Content Boosters</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/a-comprehensive-review-of-the-durable-omoton-t1-tablet-support-system/"><u>A Comprehensive Review of the Durable Omoton T1 Tablet Support System</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/fixing-esxi-fsck-errors-step-by-step-guide-with-command-examples/"><u>Fixing ESXi Fsck Errors: Step-by-Step Guide with Command Examples</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-secrets-to-hassle-free-background-hocus-pocus-on-zoom/"><u>In 2024, The Secrets to Hassle-Free Background Hocus Pocus on Zoom</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/keeping-your-conversations-private-steps-to-stop-chatgpts-memory-retention/"><u>Keeping Your Conversations Private: Steps to Stop ChatGPT's Memory Retention</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastery-over-mishaps-understanding-and-correcting-10-gaming-slip-ups/"><u>Mastery Over Mishaps: Understanding and Correcting 10 Gaming Slip-Ups</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/page-unavailable-error-404-content-doesnt-exist-here/"><u>Page Unavailable Error 404 – Content Doesn't Exist Here</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/problem-mit-dem-starten-von-bootfahigen-ssds-bei-dell-losungen-finden-sie-hier/"><u>Problem Mit Dem Starten Von Bootfähigen SSDs Bei Dell - Lösungen Finden Sie Hier!</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/professional-strategies-for-inshot-edits-for-2024/"><u>Professional Strategies for Inshot Edits for 2024</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/resolved-top-5-fixes-for-successful-acer-erc-recovery-restores/"><u>Resolved: Top 5 Fixes for Successful Acer ERC Recovery Restores</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlock-oneplus-nord-ce-3-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock OnePlus Nord CE 3 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/1728481606261-windows-11/"><u>Windows 11で「準備中」画面を最終的にクリアするヒント</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-the-complete-laptop-and-mobile-manual-for-old-fb-stories/"><u>[New] The Complete Laptop & Mobile Manual for Old FB Stories</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-how-to-streamline-your-vimeo-video-subtitles-for-2024/"><u>[Updated] How to Streamline Your Vimeo Video Subtitles for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-how-to-use-luts-in-after-effect/"><u>2024 Approved How to Use LUTs in After Effect</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/ensuring-security-how-to-assess-windows-defender-status-with-simple-steps-yl-software-insights/"><u>Ensuring Security: How to Assess Windows Defender Status with Simple Steps (YL Software Insights)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-ue4-gobi-error-for-better-performance-in-back-4-blood/"><u>Fixing the 'UE4 Gobi Error' For Better Performance in 'Back 4 Blood'</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-xiaomi-redmi-k70-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Xiaomi Redmi K70 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Sony Xperia 5 V? | Dr.fone</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/is-a-malfunctioning-video-card-protected-under-my-system-creators-guarantee-expertise-from-yl-innovations/"><u>Is a Malfunctioning Video Card Protected Under My System Creator's Guarantee? - Expertise From YL Innovations</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/solving-audio-issues-effective-strategies-from-yl-softwares-expert-guide/"><u>Solving Audio Issues: Effective Strategies From YL Software’s Expert Guide</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/solving-the-mystery-of-unrecognized-sound-cards-in-windows-expert-advice-by-yl-tech/"><u>Solving the Mystery of Unrecognized Sound Cards in Windows - Expert Advice by YL Tech</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/step-by-step-solutions-for-malfunctioning-hard-drives-from-yl-software-experts/"><u>Step-by-Step Solutions for Malfunctioning Hard Drives From YL Software Experts</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/top-50-trending-music-clips-download-get-your-favorites-from-the-video-pool-pcdj-collection/"><u>Top 50 Trending Music Clips Download: Get Your Favorites From [The Video Pool] - PCDJ Collection</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tvos-nineteenth-update-revolutionizing-audio-clarity-on-your-apple-tv-insights-from-zdnet/"><u>TvOS Nineteenth Update: Revolutionizing Audio Clarity on Your Apple TV - Insights From ZDNet</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/unlocking-your-pcs-full-potential-with-easy-access-to-the-control-panel-folder-by-yl-software-experts/"><u>Unlocking Your PC's Full Potential with Easy Access to the Control Panel Folder by YL Software Experts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-wont-my-whatsapp-conversations-back-up-to-icloud-fixes-and-tips/"><u>Why Won’t My WhatsApp Conversations Back Up to iCloud? Fixes and Tips</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726226418663-wmvmov-movavi/"><u>オンラインで簡単なWMVファイルからMOVへの自由許可コピー変換 - MOVavi</u></a></li>
 </ul></div>
 
