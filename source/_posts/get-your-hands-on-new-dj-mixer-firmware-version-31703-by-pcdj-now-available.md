@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on New DJ Mixer Firmware, Version 3.17.0.3 by PCDJ Now Available!
-date: 2025-01-24T17:24:08.540Z
-updated: 2025-01-26T17:51:47.108Z
+date: 2025-02-05T01:58:26.813Z
+updated: 2025-02-08T18:36:09.389Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ We suggest you install the new 3.17.0.3 release of DEX 3 immediately. Simply dow
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in DEX 3.17.0.3
@@ -50,7 +50,7 @@ We suggest you install the new 3.17.0.3 release of DEX 3 immediately. Simply dow
 _Have questions about the latest 3.17.0.3 version of our **Top DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,20 +72,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2022/04/download-dex31703-1.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-swift-skim-windows-file-compilation-for-2024/"><u>[New] Swift Skim Windows File Compilation for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-deep-insight-screenflow-for-mac-performance-review/"><u>[Updated] In 2024, Deep Insight ScreenFlow for Mac Performance Review</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-twitvid-mover-iphone-video-transfer-tool/"><u>[Updated] TwitVid Mover IPhone Video Transfer Tool</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-unlock-the-potential-of-youtube-videos-the-ultimate-chapter-addition-technique/"><u>[Updated] Unlock the Potential of YouTube Videos The Ultimate Chapter Addition Technique</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/curating-playlists-with-conscience-the-power-of-album-design-in-track-choices/"><u>Curating Playlists with Conscience: The Power of Album Design in Track Choices</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/diverse-selection-of-royalty-wallpaper-visuals-by-yl-software-get-your-perfect-background-image-now/"><u>Diverse Selection of Royalty Wallpaper Visuals by YL Software – Get Your Perfect Background Image Now!</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/enjoy-endless-songs-on-your-mac-with-the-lyrx-karaoke-player-and-party-tyme-subscription-featuring-live-video-streams/"><u>Enjoy Endless Songs on Your Mac with the LYRX Karaoke Player and Party Tyme Subscription - Featuring Live Video Streams!</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-poco-f5-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Poco F5 5G | Dr.fone</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/guarding-your-assets-essential-strategies-to-prevent-crypto-fraud-insights-by-yl-computing/"><u>Guarding Your Assets: Essential Strategies to Prevent Crypto Fraud - Insights by YL Computing</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/how-to-fix-issues-with-your-pcs-audio-hardware-expert-tips-from-yl-computing/"><u>How to Fix Issues with Your PC's Audio Hardware: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-converting-your-clips-upload-to-youtube-via-premiere/"><u>In 2024, Converting Your Clips Upload to YouTube Via Premiere</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-from-delivery-to-discovery-enhancing-initial-encounters/"><u>In 2024, From Delivery to Discovery Enhancing Initial Encounters</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-from-apple-iphone-x-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number From Apple iPhone X</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-instagram-story-upload-failures-a-comprehensive-guide/"><u>Resolving Instagram Story Upload Failures: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/switching-files-to-read-only-on-your-windows-pc-a-step-by-step-guide-tech-solutions-by-yl/"><u>Switching Files to 'Read-Only' On Your Windows PC: A Step-by-Step Guide - Tech Solutions by YL</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-complete-analysis-hero4-black-system/"><u>[New] Complete Analysis Hero4 Black System</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-harnessing-windows-10-tools-for-exquisite-video-editing/"><u>[Updated] In 2024, Harnessing Windows 10 Tools for Exquisite Video Editing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-sonic-visuals-on-the-move-a-deep-dive-into-sonys-xperia-xz/"><u>[Updated] Sonic Visuals on the Move - A Deep Dive Into Sony's Xperia XZ</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/1728479171083-hdd/"><u>「最新ソリューション：非常に大きなファイルのバックアップは、外部HDDへのコピーが不可能」</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/2024hddtop3/"><u>2024年のベスト：優秀なHDDクローニングツールTOP3</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/best-free-tools-for-easy-windows-10-data-backup-a-beginners-top-picks/"><u>Best Free Tools for Easy Windows 10 Data Backup: A Beginner's Top Picks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/boost-your-drive-top-10-windows-and-os-x-mods-elevating-srt-power/"><u>Boost Your Drive Top 10 Windows & OS X Mods Elevating SRT Power</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpts-unseen-potential-5-features-that-will-enhance-your-experience/"><u>ChatGPT's Unseen Potential: 5 Features That Will Enhance Your Experience</u></a></li>
+<li><a href="https://driver-download.techidaily.com/expert-tips-to-overcome-ralink-rt3290-wireless-card-drivers-challenges-in-recent-windows-environments/"><u>Expert Tips to Overcome Ralink RT3290 Wireless Card Drivers Challenges in Recent Windows Environments</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Honor Play 7T? | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-how-does-the-rexing-v1-dashcam-stand-out-for-discretion-and-dependability/"><u>In-Depth Analysis: How Does the Rexing V1 Dashcam Stand Out for Discretion and Dependability?</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/solution-de-transfert-de-donnees-pour-les-appareils-samsung-aidez-moi-a-selectionner-le-bon-disque-cible/"><u>Solution De Transfert De Données Pour Les Appareils Samsung: Aidez-Moi À Sélectionner Le Bon Disque Cible</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/step-by-step-wd-hdd-auto-backup-setup-ultimate-tutorial-and-free-downloads/"><u>Step-by-Step WD HDD Auto Backup Setup: Ultimate Tutorial & Free Downloads</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/veeam-versus-zerto-a-side-by-side-analysis-of-data-protection-platforms/"><u>Veeam Versus Zerto: A Side-by-Side Analysis of Data Protection Platforms</u></a></li>
 </ul></div>
 

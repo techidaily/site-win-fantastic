@@ -1,7 +1,7 @@
 ---
 title: Ultimate Tutorial on Using LYRX for Karaoke with Your PCDJ Setup | Video Walkthrough
-date: 2025-01-24T18:43:07.488Z
-updated: 2025-01-27T01:46:51.578Z
+date: 2025-02-04T03:50:24.168Z
+updated: 2025-02-09T01:05:53.891Z
 tags:
   - product
 categories:
@@ -18,7 +18,7 @@ In the video tutorial above, we demonstrate how to use the commercially-legal [P
 You can learn more about LYRX and download a free trial at [LYRXKaraoke.com](http://www.lyrxkaraoke.com)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -40,24 +40,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2019/02/pt-lyrx-cover.jpg?fit=706%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-live-webcam-streaming-made-easy-top-18-software-highlights/"><u>[New] Live Webcam Streaming Made Easy Top 18 Software Highlights</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-one-ear-beats-troubleshoot-guide/"><u>[Updated] 2024 Approved One-Ear Beats Troubleshoot Guide</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-master-techniques-for-live-sport-broadcast-recording-for-2024/"><u>[Updated] Master Techniques for Live Sport Broadcast Recording for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-professional-video-tweaks-via-youtube-studio-editor-for-2024/"><u>[Updated] Professional Video Tweaks via YouTube Studio Editor for 2024</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/1-comprehensive-guide-syncing-your-apple-watch-data-with-iphone-icloud-and-pc/"><u>1. Comprehensive Guide: Syncing Your Apple Watch Data with iPhone, iCloud & PC</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/youtube-to-mp3-converters-free-download-onlinewinmac/"><u>Best YouTube to MP3 Converters Free Download [Online/Win/Mac]</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/comment-changer-un-repertoire-mbr-vers-gpt-sous-windows-11-simplifie/"><u>Comment Changer Un Répertoire MBR Vers GPT Sous Windows 11 Simplifié</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/guia-completa-para-restaurar-y-reinstalar-el-sistema-pasos-faciles-de-seguir/"><u>Guía Completa Para Restaurar Y Reinstalar El Sistema: Pasos Fáciles De Seguir</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-vivo-g2-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Vivo G2 | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-10-unbeatable-face-editing-tools-for-iphone-and-samsungs/"><u>In 2024, 10 Unbeatable Face-Editing Tools for iPhone & Samsungs</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-giggle-engine-for-the-internet/"><u>In 2024, Giggle Engine for the Internet</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/meisterhafte-methoden-fur-den-muhelosen-austausch-von-hyper-v-datendateien-professionelle-tipps-zur-beschleunigung-des-prozesses/"><u>Meisterhafte Methoden Für Den Mühelosen Austausch Von Hyper-V Datendateien – Professionelle Tipps Zur Beschleunigung Des Prozesses</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/multi-key-command-support-is-it-available-in-emeditor-ultimate-text-editor/"><u>Multi-Key Command Support: Is It Available in EmEditor - Ultimate Text Editor?</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/reliable-and-cost-free-data-protection-superior-options-beyond-shadowprotect/"><u>Reliable & Cost-Free Data Protection: Superior Options Beyond ShadowProtect</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/revamped-and-ready-to-battle-a-critical-look-at-fortnites-new-exciting-chapter/"><u>Revamped and Ready to Battle: A Critical Look at Fortnite's New Exciting Chapter</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/reviving-old-unsupported-media-formats/"><u>Reviving Old, Unsupported Media Formats</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/seamless-file-transfers-between-windows-7-and-windows-10-a-step-by-step-guide/"><u>Seamless File Transfers Between Windows 7 and Windows 10: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/step-by-step-guide-to-retrieving-accidentally-erased-ani-videos/"><u>Step-by-Step Guide to Retrieving Accidentally Erased ANI Videos</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/windows-3/"><u>Windowsサーバ上において効率的なバックアップイメージの生成手順 - ベスト3</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-elevate-your-videography-7-free-sound-effects-collection/"><u>[New] 2024 Approved Elevate Your Videography - 7 Free Sound Effects Collection</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-superior-psd-filters-galore/"><u>[New] In 2024, Superior PSD Filters Galore</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-how-to-feature-music-on-instant-stories/"><u>2024 Approved How to Feature Music on Instant Stories</u></a></li>
+<li><a href="https://win-lab.techidaily.com/automatisierte-dokumentverschiebungen-effizientes-kopieren-von-dateien-in-verschiedenen-verzeichnissen/"><u>Automatisierte Dokumentverschiebungen - Effizientes Kopieren Von Dateien in Verschiedenen Verzeichnissen</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/benchmarking-data-protection-how-does-aomei-backupper-stack-up-against-competing-backup-solutions/"><u>Benchmarking Data Protection: How Does AOMEI Backupper Stack Up Against Competing Backup Solutions?</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/both-operations-must-consider-context-to-maintain-relevance-to-the-overall-theme-of-architectural-charm-and-amenity-accessibility-avoiding-any-outliers-that331/"><u>Both Operations Must Consider Context to Maintain Relevance to the Overall Theme of Architectural Charm and Amenity Accessibility, Avoiding Any Outliers that Do Not Fit These Themes.</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/comment-retrouver-les-photographies-supprimees-lors-dune-copie-et-collage/"><u>Comment Retrouver Les Photographies Supprimées Lors D'une Copie Et Collage</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/data-extraction-techniques-for-unbooting-laptop-drives/"><u>Data Extraction Techniques for Unbooting Laptop Drives</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/el-metodo-optimal-para-transferir-un-imagen-de-volumen-dinamico-al-disco-solido-en-3-pases/"><u>El Método Optimal Para Transferir Un Imagen De Volumen Dinámico Al Disco Sólido en 3 Pases</u></a></li>
+<li><a href="https://article-tips.techidaily.com/fast-and-easy-photovideo-exchange-between-ios-gear/"><u>Fast & Easy Photo/Video Exchange Between iOS Gear</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/how-to-enhance-your-photos-with-titled-content-win-11/"><u>How to Enhance Your Photos with Titled Content (Win 11)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-15-pro-max-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 15 Pro Max Without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/installation-essentials-intel-network-adapters-for-windows-users/"><u>Installation Essentials: Intel Network Adapters for Windows Users</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/konfigurieren-von-automatischen-synchronisierungsbackups-fur-nas-auf-windows-111087-geraten/"><u>Konfigurieren Von Automatischen Synchronisierungsbackups Für NAS Auf Windows 11/10/8/7 Geräten</u></a></li>
+<li><a href="https://win-studio.techidaily.com/mastering-the-art-of-microsoft-powerpoint-for-professional-slideshows-with-yl-software-expertise/"><u>Mastering the Art of Microsoft PowerPoint for Professional Slideshows with YL Software Expertise</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/overcome-windows-7-backup-stalling-at-9757-with-these-6-strategies-plus-a-crucial-insiders-secret/"><u>Overcome Windows 7 Backup Stalling at 97%/57% with These 6 Strategies + A Crucial Insider's Secret!</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/recover-deleted-photos-and-messages-from-iphones-ios-15-13-even-without-a-backup/"><u>Recover Deleted Photos and Messages From iPhones (iOS 15-13) Even Without a Backup!</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/ultimate-step-by-step-guide-on-synology-c2-backup-with-top-paid-and-unpaid-options/"><u>Ultimate Step-by-Step Guide on Synology C2 Backup with Top Paid & Unpaid Options</u></a></li>
 </ul></div>
 

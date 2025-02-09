@@ -1,7 +1,7 @@
 ---
 title: "Current Projects and Innovations at PCDJ Headquarters: A Peek Into Our Work Today"
-date: 2025-01-21T22:32:01.280Z
-updated: 2025-01-26T20:19:56.630Z
+date: 2025-02-02T19:05:04.567Z
+updated: 2025-02-08T17:31:01.190Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ No, this is all about what’s next, and what new and fantastic features we have
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DJ Software: What We’re Working On Now
@@ -38,7 +38,7 @@ No, this is all about what’s next, and what new and fantastic features we have
 * In addition to Visualizations, DEX 3 users will have the ability to run picture slide-shows while mixing music or music videos. Select a directory of images/pictures and they will play on screen (_secondary audience display_) using smooth transitions between pictures. DJs will also have the ability to run picture overlays over-top playing music videos, allowing DJs to create a completely custom visual presentation. We can see many useful applications for this, such as advertisements or “drink specials”.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -60,24 +60,16 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/03/comingsoontopcdj-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-crafting-content-for-success-a-step-by-step-channel-guide/"><u>[New] 2024 Approved Crafting Content for Success A Step-by-Step Channel Guide</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-discovering-ffmpegs-potency-in-original-sound-format-retention/"><u>[New] Discovering FFmpeg's Potency in Original Sound Format Retention</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mastering-file-imports-into-windows-11-with-ease/"><u>[Updated] Mastering File Imports Into Windows 11 with Ease</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-what-is-mixed-reality-for-2024/"><u>[Updated] What Is Mixed Reality for 2024</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/1-detecting-graphics-card-issues-key-indicators-and-solutions-by-yl-computing/"><u>1. Detecting Graphics Card Issues: Key Indicators & Solutions - By YL Computing</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/1-fixing-print-spooler-problems-expert-advice-from-yl-computing/"><u>1. Fixing Print Spooler Problems: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-youtube-identity-recording-measurements-conversion-time/"><u>2024 Approved YouTube Identity Recording Measurements, Conversion, Time</u></a></li>
-<li><a href="https://win11.techidaily.com/clearing-forbidden-errors-in-windows-os/"><u>Clearing Forbidden Errors in Windows OS</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/concrete-must-be-kept-at-a-minimum-temperature-of-5c-40f-during-the-first-48-hours-after-placement-in-cold-weather-conditions/"><u>Concrete Must Be Kept at a Minimum Temperature of 5°C (40°F) During the First 48 Hours After Placement in Cold Weather Conditions.</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/customizable-buick-imagery-and-wallscapes-from-yl-computing-professional-tech-solutions/"><u>Customizable Buick Imagery and Wallscapes From YL Computing - Professional Tech Solutions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/direct-links-to-download-corsair-icue-optimized-for-windows-11-and-10-systems/"><u>Direct Links to Download Corsair iCUE - Optimized for Windows 11 & 10 Systems</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/effective-methods-for-assessing-your-sound-cards-performance-insights-from-yl-computing/"><u>Effective Methods for Assessing Your Sound Card's Performance - Insights From YL Computing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/football-manager-2022-pc-stability-fixed-no-more-crashes/"><u>Football Manager 2022 PC Stability Fixed - No More Crashes</u></a></li>
-<li><a href="https://extra-support.techidaily.com/inspiring-visual-collages-a-kaleidoscope-for-the-soul-for-2024/"><u>Inspiring Visual Collages A Kaleidoscope for the Soul for 2024</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/navigating-through-windows-11s-family-safety-features-how-to-adjust-parent-control-settings-by-yl-computing/"><u>Navigating Through Windows 11'S Family Safety Features: How to Adjust Parent Control Settings - By YL Computing</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/overcoming-challenges-in-software-deployment-with-tips-from-yl-computing/"><u>Overcoming Challenges in Software Deployment with Tips From YL Computing</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-initialization-error-with-dragon-ball-fighterzs-networking-features/"><u>Resolved: Initialization Error with Dragon Ball FighterZ's Networking Features</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/top-recommended-crypto-exchanges-for-trading-insights-from-yl-computings-experts/"><u>Top Recommended Crypto Exchanges for Trading: Insights From YL Computing's Experts</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/top-recommended-tools-for-efficiently-removing-unnecessary-file-clutter-insights-from-yl-computings-expertise/"><u>Top Recommended Tools for Efficiently Removing Unnecessary File Clutter: Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-cost-effective-strategies-to-combine-videos-with-text/"><u>[New] 2024 Approved Cost-Effective Strategies to Combine Videos with Text</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-produce-high-impact-low-cost-youtube-ads-in-2024/"><u>[New] How to Produce High-Impact, Low-Cost YouTube Ads, In 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-weekly-must-see-elite-igtv-talents-for-2024/"><u>[Updated] Weekly Must-See Elite IGTV Talents for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-accelerated-photography-browser-for-11-os-users/"><u>2024 Approved Accelerated Photography Browser for 11 OS Users</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/bitlocker0x80070015-9/"><u>修正Bitlocker初始化错误（#0x80070015）-您需要知道的 9 种方法</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/hassle-free-repairs-ensuring-safety-while-resolving-high-end-sound-drivers-from-intel/"><u>Hassle-Free Repairs: Ensuring Safety While Resolving High-End Sound Drivers From Intel</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/key-steps-to-preserve-and-broadcast-live-sports-successfully/"><u>Key Steps to Preserve & Broadcast Live Sports Successfully</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/1728474466745-microsoft-edge/"><u>Microsoft Edge バージョン更新後に失われたダウンロードファイルの復元手順</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/wiederherstellen-von-letztem-geloschten-bildmaterial-auf-windows-mac-iphone-und-android/"><u>Wiederherstellen Von Letztem Gelöschten Bildmaterial Auf Windows, Mac, iPhone Und Android</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/windows-11-ssd-ssd/"><u>Windows 11 SSD 檢視程式 - 易用SSD安全清空方法</u></a></li>
+<li><a href="https://win-web.techidaily.com/tthbyt-ashl-ltshghyl-alhsol-aal-isdar-windows-11-gzaa-mn-tmhydk-baman/"><u>تثبيط أسهل لتشغيل الحصول على إصدار Windows 11 - جزء من تمهيدك بأمان</u></a></li>
 </ul></div>
 

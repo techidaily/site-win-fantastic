@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Deckadance DEX Version 3.7 Public Trial: Enhanced Mixing Features & Multimedia Capabilities for DJs"
-date: 2025-01-26T06:48:00.354Z
-updated: 2025-01-26T18:21:34.727Z
+date: 2025-02-04T00:50:20.035Z
+updated: 2025-02-08T23:07:45.961Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ This is a much anticipated and requested feature update for DEX 3 and while test
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here are the key highlights of this major update to DEX 3.7 (Public Beta 1)
@@ -55,7 +55,7 @@ This is a much anticipated and requested feature update for DEX 3 and while test
 _Have questions about our [video mixing software](https://tools.techidaily.com/pcdj/products/)? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -77,16 +77,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/08/dex3publicbeta-overlays-co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-how-to-add-music-to-instagram-videos-and-stories-for-2024/"><u>[New] How to Add Music to Instagram Videos and Stories for 2024</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/avoiding-crypto-fraud-expert-tips-from-yl-computing/"><u>Avoiding Crypto Fraud: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/efficient-remedies-for-troubleshooting-windows-updates-with-yl-software-insights/"><u>Efficient Remedies for Troubleshooting Windows Updates with YL Software Insights</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/how-to-cool-down-an-overheated-gpu-expert-tips-from-yl-computing/"><u>How to Cool Down an Overheated GPU: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-magic-6-lite-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Honor Magic 6 Lite Phone with Broken Screen</u></a></li>
-<li><a href="https://win11.techidaily.com/is-windows-scrolling-by-itself-heres-how-to-fix-it/"><u>Is Windows Scrolling By Itself? Here's How to Fix It</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/-videos-in-the-spotlight-who-wins-youtube-shorts-or-tiktok-for-2024/"><u>Micro-Videos in the Spotlight Who Wins, YouTube Shorts or TikTok for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-discover-the-top-10-free-green-screen-apps-for-android-and-ios/"><u>New 2024 Approved Discover the Top 10 Free Green Screen Apps for Android and iOS</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/no-sound-no-problem-expert-advice-from-yl-software-to-fix-your-audio-device-malfunctions/"><u>No Sound, No Problem: Expert Advice From YL Software to Fix Your Audio Device Malfunctions</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/quick-tip-easily-navigate-to-your-pcs-device-manager-in-windows-10-digital-trends-with-abc/"><u>Quick Tip: Easily Navigate to Your PC's Device Manager in Windows 10 - Digital Trends with ABC</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/simple-methods-for-efficiently-uninstalling-unneeded-applications-tips-by-yl-computing/"><u>Simple Methods for Efficiently Uninstalling Unneeded Applications - Tips by YL Computing</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-best-practices-for-efficient-slide-capture/"><u>[New] In 2024, Best Practices for Efficient Slide Capture</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-scaling-movies-on-a-mac-for-impeccable-instagram-shares/"><u>[Updated] 2024 Approved Scaling Movies on a Mac for Impeccable Instagram Shares</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-perfect-recording-options-to-maximize-your-meet-experience/"><u>[Updated] In 2024, Perfect Recording Options to Maximize Your Meet Experience</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/behind-the-screen-discovering-samsung-galaxy-s8s-4k-edge-for-2024/"><u>Behind the Screen Discovering Samsung Galaxy S8's 4K Edge for 2024</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/como-configurar-autenticacion-de-doble-factor-con-id-de-apple-para-seguridad-mejorada/"><u>Cómo Configurar Autenticación De Doble Factor Con ID De Apple Para Seguridad Mejorada</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-evaluation-of-the-docooler-12mp-usb-camera-is-it-worth-the-hype/"><u>Comprehensive Evaluation of the Docooler 12MP USB Camera - Is It Worth The Hype?</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/guide-simple-pour-la-definition-des-fichiers-temporaires-sous-windows-11-sans-pertes-dinformations/"><u>Guide Simple Pour La Définition Des Fichiers Temporaires Sous Windows 11 Sans Pertes D'Informations</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/how-to-set-up-continuous-file-backup-to-onedrive-when-your-computer-shuts-down/"><u>How to Set Up Continuous File Backup to OneDrive When Your Computer Shuts Down</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/step-by-step-guide-upgrading-your-system-by-transferring-windows-server-2008-r2-onto-a-new-machine/"><u>Step-by-Step Guide: Upgrading Your System by Transferring Windows Server 2008 (R2) Onto a New Machine</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-future-of-high-resolution-viewing-an-overview-of-asuss-proart-pa-329q-monitor/"><u>The Future of High-Resolution Viewing An Overview of Asus's ProArt PA 329Q Monitor</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/troubleshooting-vmware-when-it-gets-stuck-at-the-windows-boot-phase-insights-and-remedies/"><u>Troubleshooting VMware: When It Gets Stuck at the Windows Boot Phase - Insights and Remedies</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-a-curated-selection-of-websites-for-obtaining-quality-whoosh-sound-experience-for-2024/"><u>Updated A Curated Selection of Websites for Obtaining Quality Whoosh Sound Experience for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Enhancing Crowd Engagement for Live Performances Using Remote Request Features in PCDJ's Karaoki and SongBookDB
-date: 2025-01-25T01:46:00.373Z
-updated: 2025-01-26T23:54:36.864Z
+date: 2025-02-08T03:29:37.063Z
+updated: 2025-02-08T16:24:35.224Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ We kicked off the open [beta test of SongbookDB’s remote request system’s](h
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How will SongBookDB interface with PCDJ Karaoki?
@@ -37,7 +37,7 @@ The next Karaoki public beta will have a new option “_Remote Users_” on the 
 [![](https://i2.wp.com/pcdj.com/wp-content/uploads/2014/10/Karaoki-Remote-Users..png?fit=594%2C374&ssl=1 "Karaoki Remote Users.")](https://i2.wp.com/pcdj.com/wp-content/uploads/2014/10/Karaoki-Remote-Users..png?fit=594%2C374&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The new interface also supports the old Karaoki ‘request terminals’, and 95% of the functionality in the image above is for remote terminals and not songbookDB… but it made sense to combine all the remote user systems onto the one screen within Karaoki.
@@ -53,7 +53,7 @@ Shaun at SongBookDB has developed a plugin that will connect to the new interfac
 [![](https://i1.wp.com/pcdj.com/wp-content/uploads/2014/10/Songbook-Plugin.png?fit=981%2C601&ssl=1 "Songbook Plugin")](https://i1.wp.com/pcdj.com/wp-content/uploads/2014/10/Songbook-Plugin.png?fit=981%2C601&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _**NOTE**_: If you want you can already also login to SongbookDB as a ‘_Kiosk_‘ in a web browser… There is no longer any need to install the old terminal on a third parties Computer, just go to [**SongbookDB.com**](http://www.songbookdb.com) and log-in using your ‘_Requests Password_‘ preceded with the word ‘kiosk’!
@@ -63,7 +63,7 @@ _**NOTE**_: If you want you can already also login to SongbookDB as a ‘_Kiosk_
 _**I hope this clears a few things up. Full on beta test to commence soon, keep checking back!**_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -85,19 +85,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/10/songbookdb-coverimage.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-quintessential-writes-for-diverse-cinematic-fields/"><u>[New] 2024 Approved Quintessential Writes for Diverse Cinematic Fields</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-filmmaker-tips-youtube-trailers-using-filmora/"><u>[New] In 2024, Filmmaker Tips YouTube Trailers Using Filmora</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-androvid-video-editor-complete-review-2023/"><u>[Updated] AndroVid Video Editor – Complete Review 2023</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-mastering-the-art-of-evading-youtube-copyright-claims/"><u>2024 Approved Mastering the Art of Evading YouTube Copyright Claims</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/discover-the-leading-substitutes-for-picasa-the-top-three-recommendations/"><u>Discover the Leading Substitutes for Picasa - The Top Three Recommendations!</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/incorporating-b-roll-with-finesse-for-visual-enhancement-for-2024/"><u>Incorporating B-Roll with Finesse for Visual Enhancement for 2024</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/mastering-m4vmp4-the-complete-compendium-on-multimedia-container-formats/"><u>Mastering M4V/MP4: The Complete Compendium on Multimedia Container Formats</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/mastering-the-basics-of-apowersoft-screen-capture-pro-a-step-by-step-guide/"><u>Mastering the Basics of Apowersoft Screen Capture Pro: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/pc-gaming-essentials-learn-how-to-excel-at-marvel-super-war-online/"><u>PC Gaming Essentials: Learn How to Excel at Marvel Super War Online</u></a></li>
-<li><a href="https://extra-information.techidaily.com/rated-recs-top-pages-for-obtaining-snapalert-tunes/"><u>Rated Recs Top Pages for Obtaining SnapAlert Tunes</u></a></li>
-<li><a href="https://win11.techidaily.com/releasing-overflow-fixing-caps-on-gpt-chat/"><u>Releasing Overflow: Fixing Caps on GPT Chat</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/simple-methods-for-transforming-videos-into-format-compatible-with-your-samsung-galaxy-s5/"><u>Simple Methods for Transforming Videos Into Format Compatible with Your Samsung Galaxy S5</u></a></li>
-<li><a href="https://fox-http.techidaily.com/the-entrepreneurial-journey-of-launching-a-review-channel-for-clothing/"><u>The Entrepreneurial Journey of Launching a Review Channel for Clothing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-timer-power-with-zero-cost-for-2024/"><u>Unlocking Timer Power with Zero Cost for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-decoding-windows-11-new-functionality/"><u>[New] In 2024, Decoding Windows 11 New Functionality</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-taming-the-audio-in-your-canva-videos-step-by-step/"><u>[New] Taming the Audio in Your Canva Videos Step by Step</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-getting-started-with-windows-11s-in-built-high-dynamic-range-auto-hdr/"><u>[Updated] Getting Started with Windows 11'S In-Built High Dynamic Range (Auto HDR)</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-curating-a-must-see-list-of-youtubes-top-makeup-talent/"><u>[Updated] In 2024, Curating a Must-See List of YouTube's Top Makeup Talent</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-smart-recording-solutions-for-schools-and-colleges/"><u>[Updated] In 2024, Smart Recording Solutions for Schools & Colleges</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/1-easy-video-retrieval-from-jove-platforms-compatible-with-macos-and-windows/"><u>1. Easy Video Retrieval From JoVE Platforms: Compatible with macOS & Windows</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-how-to-add-effects-to-your-voice-free-voice-changers-here/"><u>2024 Approved How to Add Effects to Your Voice? Free Voice Changers Here</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/ad-free-viewing-a-comprehensive-guide-on-downloading-and-enjoying-youtube-content-without-interruptions/"><u>Ad-Free Viewing: A Comprehensive Guide on Downloading and Enjoying YouTube Content Without Interruptions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/beyond-imagination-the-best-sci-fi-metaverse-films-for-adventurers-for-2024/"><u>Beyond Imagination The Best Sci-Fi Metaverse Films for Adventurers for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/efficient-methods-for-capturing-youtube-videos-using-internet-download-manager-or-finding-an-alternate-idm-tool/"><u>Efficient Methods for Capturing YouTube Videos: Using Internet Download Manager or Finding an Alternate IDM Tool</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-easeus-assessment-for-all/"><u>In 2024, EaseUS Assessment for All</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/is-it-possible-to-integrate-javascript-into-your-e-books-created-with-flipbuilders-platform/"><u>Is It Possible to Integrate JavaScript Into Your E-Books Created with FlipBuilder's Platform?</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/make-pdfs-interactive-and-viral-convert-to-flash-format-using-flipbuilders-powerful-online-editor/"><u>Make PDFs Interactive and Viral: Convert to Flash Format Using FlipBuilder's Powerful Online Editor!</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/mastering-diy-digital-publishing-unleash-your-creativity-with-flip-writers-user-friendly-page-turner-ebook-editor/"><u>Mastering DIY Digital Publishing: Unleash Your Creativity with Flip Writer's User-Friendly Page-Turner Ebook Editor.</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/opening-flipbook-links-on-flipbuilder-a-step-by-step-guide-to-viewing-in-separate-windows/"><u>Opening Flipbook Links on FlipBuilder: A Step-by-Step Guide to Viewing in Separate Windows</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/oadmap-to-youtube-profits-with-sourav-joshi-for-2024/"><u>The Roadmap to YouTube Profits with Sourav Joshi for 2024</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/transforming-photos-into-professional-pdfs-with-ease-using-flipbuilder/"><u>Transforming Photos Into Professional PDFs with Ease Using FlipBuilder</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/tutorial-personalizing-flipbuilder-changing-menu-panel-background-hue/"><u>Tutorial: Personalizing FlipBuilder - Changing Menu Panel Background Hue</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/unlocking-user-engagement-the-rise-of-online-magazine-flipping-via-flipbuilder-technology/"><u>Unlocking User Engagement: The Rise of Online Magazine Flipping via FlipBuilder Technology</u></a></li>
 </ul></div>
 
