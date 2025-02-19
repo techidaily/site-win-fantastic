@@ -1,7 +1,7 @@
 ---
 title: "Excluding Specific Files From Windows Defender: A Step-by-Step Guide - Tips by YL Software"
-date: 2025-02-02T16:25:31.549Z
-updated: 2025-02-08T17:21:56.980Z
+date: 2025-02-12T00:14:58.689Z
+updated: 2025-02-19T03:42:57.669Z
 tags:
   - product
 categories:
@@ -32,7 +32,7 @@ The Windows 10 display settings allow you to change the appearance of your deskt
 By making these adjustments to your Windows 10 display settings, you can customize your desktop to fit your personal preference. Additionally, these settings can help improve the clarity of your monitor for a better viewing experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Post navigation
@@ -56,15 +56,14 @@ By making these adjustments to your Windows 10 display settings, you can customi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-iphone-laughs-and-lightheartedness/"><u>[Updated] 2024 Approved IPhone Laughs & Lightheartedness</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/1-unlocking-the-beats-a-sneak-peek-at-top-singers-featured-in-pcdj-dex-3-sidelist-edition/"><u>1. Unlocking the Beats: A Sneak Peek at Top Singers Featured in PCDJ DEX 3 - SideList Edition</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/ashley-greene-hd-wallpaper-collection-stunning-high-res-photo-backgrounds-yl-creations/"><u>Ashley Greene HD Wallpaper Collection: Stunning High-Res Photo Backgrounds - YL Creations</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/high-quality-plum-design-graphics-by-yl-software-premium-wallpapers-for-elevated-user-experience/"><u>High-Quality Plum Design Graphics by YL Software: Premium Wallpapers for Elevated User Experience</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-infinix-note-30i-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Infinix Note 30i to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/how-to-troubleshoot-black-screen-problems-on-graphics-cards-by-experts-at-yl-software/"><u>How to Troubleshoot Black Screen Problems on Graphics Cards by Experts at YL Software</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-t-mobile-apple-iphone-14-pro-max-online-without-sim-card-by-drfone-ios/"><u>How to Unlock T-Mobile Apple iPhone 14 Pro Max online without SIM Card?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-lava-storm-5g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Lava Storm 5G and Browser | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/the-ultimate-guide-to-acquiring-and-installing-newest-zebra-zp450-printer-drivers-step-by-step-instructions/"><u>The Ultimate Guide to Acquiring and Installing Newest Zebra ZP450 Printer Drivers - Step by Step Instructions</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-mastering-avi-file-editing-a-beginners-guide-to-splitting-and-trimming/"><u>Updated 2024 Approved Mastering AVI File Editing A Beginners Guide to Splitting and Trimming</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-novice-to-pro-transforming-zoom-into-a-youtube-live-staple/"><u>[New] From Novice to Pro Transforming Zoom Into a YouTube Live Staple</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-pro-level-video-editing-with-vivacut-full-review-and-guidebook/"><u>[New] Pro-Level Video Editing with VivaCut Full Review & Guidebook</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/customizing-your-personal-data-protection-a-step-by-step-guide-to-tweaking-privacy-settings-on-windows-10-yl-software/"><u>Customizing Your Personal Data Protection: A Step-by-Step Guide to Tweaking Privacy Settings on Windows 10 - YL Software</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-the-frozen-hey-siri-17-proven-steps-to-reactivate-iphone-voice-command-feature/"><u>Fixing the Frozen 'Hey Siri': 17 Proven Steps to Reactivate iPhone Voice Command Feature</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/master-your-beats-on-dex-ergy-how-the-vms5-revolutionizes-american-dj-setups/"><u>Master Your Beats on DEX Ergy: How the VMS5 Revolutionizes American DJ Setups</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/resolving-driver-setup-issues-essential-advice-from-the-experts-at-yl-software/"><u>Resolving Driver Setup Issues: Essential Advice From the Experts at YL Software</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-compreenasive-studio-guide-deep-xvideoinsight-for-2024/"><u>The Compreenasive Studio Guide Deep XVideoInsight for 2024</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/understanding-constant-operation-of-windows-defender-for-continuous-cybersecurity-insights-from-yl-computing/"><u>Understanding Constant Operation of Windows Defender for Continuous Cybersecurity - Insights From YL Computing</u></a></li>
 </ul></div>
 

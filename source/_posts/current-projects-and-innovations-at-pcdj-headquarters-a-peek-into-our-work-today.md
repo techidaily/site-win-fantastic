@@ -1,7 +1,7 @@
 ---
 title: "Current Projects and Innovations at PCDJ Headquarters: A Peek Into Our Work Today"
-date: 2025-02-02T19:05:04.567Z
-updated: 2025-02-08T17:31:01.190Z
+date: 2025-02-18T05:04:02.940Z
+updated: 2025-02-18T17:43:16.513Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ No, this is all about what’s next, and what new and fantastic features we have
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DJ Software: What We’re Working On Now
@@ -38,7 +38,7 @@ No, this is all about what’s next, and what new and fantastic features we have
 * In addition to Visualizations, DEX 3 users will have the ability to run picture slide-shows while mixing music or music videos. Select a directory of images/pictures and they will play on screen (_secondary audience display_) using smooth transitions between pictures. DJs will also have the ability to run picture overlays over-top playing music videos, allowing DJs to create a completely custom visual presentation. We can see many useful applications for this, such as advertisements or “drink specials”.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -60,16 +60,21 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/03/comingsoontopcdj-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-cost-effective-strategies-to-combine-videos-with-text/"><u>[New] 2024 Approved Cost-Effective Strategies to Combine Videos with Text</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-produce-high-impact-low-cost-youtube-ads-in-2024/"><u>[New] How to Produce High-Impact, Low-Cost YouTube Ads, In 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-weekly-must-see-elite-igtv-talents-for-2024/"><u>[Updated] Weekly Must-See Elite IGTV Talents for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-accelerated-photography-browser-for-11-os-users/"><u>2024 Approved Accelerated Photography Browser for 11 OS Users</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/bitlocker0x80070015-9/"><u>修正Bitlocker初始化错误（#0x80070015）-您需要知道的 9 种方法</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/hassle-free-repairs-ensuring-safety-while-resolving-high-end-sound-drivers-from-intel/"><u>Hassle-Free Repairs: Ensuring Safety While Resolving High-End Sound Drivers From Intel</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/key-steps-to-preserve-and-broadcast-live-sports-successfully/"><u>Key Steps to Preserve & Broadcast Live Sports Successfully</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/1728474466745-microsoft-edge/"><u>Microsoft Edge バージョン更新後に失われたダウンロードファイルの復元手順</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/wiederherstellen-von-letztem-geloschten-bildmaterial-auf-windows-mac-iphone-und-android/"><u>Wiederherstellen Von Letztem Gelöschten Bildmaterial Auf Windows, Mac, iPhone Und Android</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/windows-11-ssd-ssd/"><u>Windows 11 SSD 檢視程式 - 易用SSD安全清空方法</u></a></li>
-<li><a href="https://win-web.techidaily.com/tthbyt-ashl-ltshghyl-alhsol-aal-isdar-windows-11-gzaa-mn-tmhydk-baman/"><u>تثبيط أسهل لتشغيل الحصول على إصدار Windows 11 - جزء من تمهيدك بأمان</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-exploring-the-refinements-of-sonys-s6500-bdp-model/"><u>[New] Exploring the Refinements of Sony's S6500 BDP Model</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-leading-firefox-recording-software/"><u>[Updated] 2024 Approved Leading Firefox Recording Software</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-decoding-youtubes-revenue-model-for-video-clips/"><u>[Updated] Decoding YouTube's Revenue Model for Video Clips</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-discover-dynamic-channels-advanced-youtube-naming-guides/"><u>2024 Approved Discover Dynamic Channels Advanced YouTube Naming Guides</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-expert-voice-editing-software-for-video-content-makers/"><u>2024 Approved Expert Voice Editing Software for Video Content Makers</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/curating-playlists-with-conscience-the-power-of-album-design-in-track-choices/"><u>Curating Playlists with Conscience: The Power of Album Design in Track Choices</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/diverse-selection-of-royalty-wallpaper-visuals-by-yl-software-get-your-perfect-background-image-now/"><u>Diverse Selection of Royalty Wallpaper Visuals by YL Software – Get Your Perfect Background Image Now!</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/enjoy-endless-songs-on-your-mac-with-the-lyrx-karaoke-player-and-party-tyme-subscription-featuring-live-video-streams/"><u>Enjoy Endless Songs on Your Mac with the LYRX Karaoke Player and Party Tyme Subscription - Featuring Live Video Streams!</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/guarding-your-assets-essential-strategies-to-prevent-crypto-fraud-insights-by-yl-computing/"><u>Guarding Your Assets: Essential Strategies to Prevent Crypto Fraud - Insights by YL Computing</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/how-to-fix-issues-with-your-pcs-audio-hardware-expert-tips-from-yl-computing/"><u>How to Fix Issues with Your PC's Audio Hardware: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-clear-screen-techniques-focus-on-your-message-not-the-ambiance/"><u>In 2024, Clear Screen Techniques Focus on Your Message, Not the Ambiance</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-iphone-composition-choosing-right-angles/"><u>In 2024, The Ultimate Guide to iPhone Composition Choosing Right Angles</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/story-1-misconception-about-alcoholic-fatty-liver-disease-afld/"><u>Story 1: Misconception About Alcoholic Fatty Liver Disease (AFLD)</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/switching-files-to-read-only-on-your-windows-pc-a-step-by-step-guide-tech-solutions-by-yl/"><u>Switching Files to 'Read-Only' On Your Windows PC: A Step-by-Step Guide - Tech Solutions by YL</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transfer-tactics-efficiently-getting-data-on-your-computer-for-2024/"><u>Transfer Tactics Efficiently Getting Data On Your Computer for 2024</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/ultimate-collection-of-xenomorph-visuals-premium-wallpaper-sets-dynamic-images-and-stunning-photographs-by-yl-computing-solutions/"><u>Ultimate Collection of Xenomorph Visuals: Premium Wallpaper Sets, Dynamic Images, and Stunning Photographs by YL Computing Solutions</u></a></li>
 </ul></div>
 

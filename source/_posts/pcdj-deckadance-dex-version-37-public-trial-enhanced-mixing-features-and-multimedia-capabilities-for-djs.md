@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Deckadance DEX Version 3.7 Public Trial: Enhanced Mixing Features & Multimedia Capabilities for DJs"
-date: 2025-02-04T00:50:20.035Z
-updated: 2025-02-08T23:07:45.961Z
+date: 2025-02-15T03:57:46.587Z
+updated: 2025-02-19T01:03:53.799Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ This is a much anticipated and requested feature update for DEX 3 and while test
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here are the key highlights of this major update to DEX 3.7 (Public Beta 1)
@@ -55,7 +55,7 @@ This is a much anticipated and requested feature update for DEX 3 and while test
 _Have questions about our [video mixing software](https://tools.techidaily.com/pcdj/products/)? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -77,18 +77,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/08/dex3publicbeta-overlays-co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-best-practices-for-efficient-slide-capture/"><u>[New] In 2024, Best Practices for Efficient Slide Capture</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-scaling-movies-on-a-mac-for-impeccable-instagram-shares/"><u>[Updated] 2024 Approved Scaling Movies on a Mac for Impeccable Instagram Shares</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-perfect-recording-options-to-maximize-your-meet-experience/"><u>[Updated] In 2024, Perfect Recording Options to Maximize Your Meet Experience</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/behind-the-screen-discovering-samsung-galaxy-s8s-4k-edge-for-2024/"><u>Behind the Screen Discovering Samsung Galaxy S8's 4K Edge for 2024</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/como-configurar-autenticacion-de-doble-factor-con-id-de-apple-para-seguridad-mejorada/"><u>Cómo Configurar Autenticación De Doble Factor Con ID De Apple Para Seguridad Mejorada</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-evaluation-of-the-docooler-12mp-usb-camera-is-it-worth-the-hype/"><u>Comprehensive Evaluation of the Docooler 12MP USB Camera - Is It Worth The Hype?</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/guide-simple-pour-la-definition-des-fichiers-temporaires-sous-windows-11-sans-pertes-dinformations/"><u>Guide Simple Pour La Définition Des Fichiers Temporaires Sous Windows 11 Sans Pertes D'Informations</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/how-to-set-up-continuous-file-backup-to-onedrive-when-your-computer-shuts-down/"><u>How to Set Up Continuous File Backup to OneDrive When Your Computer Shuts Down</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Samsung Galaxy A25 5G | Dr.fone</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/step-by-step-guide-upgrading-your-system-by-transferring-windows-server-2008-r2-onto-a-new-machine/"><u>Step-by-Step Guide: Upgrading Your System by Transferring Windows Server 2008 (R2) Onto a New Machine</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-future-of-high-resolution-viewing-an-overview-of-asuss-proart-pa-329q-monitor/"><u>The Future of High-Resolution Viewing An Overview of Asus's ProArt PA 329Q Monitor</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/troubleshooting-vmware-when-it-gets-stuck-at-the-windows-boot-phase-insights-and-remedies/"><u>Troubleshooting VMware: When It Gets Stuck at the Windows Boot Phase - Insights and Remedies</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-a-curated-selection-of-websites-for-obtaining-quality-whoosh-sound-experience-for-2024/"><u>Updated A Curated Selection of Websites for Obtaining Quality Whoosh Sound Experience for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-decoding-the-art-of-capturing-live-streaming-windowsmaciosandroid/"><u>[New] In 2024, Decoding the Art of Capturing Live Streaming - Windows/Mac/iOS/Android</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-dodging-account-penaltinas-on-youtube/"><u>[Updated] Dodging Account Penaltinas on Youtube</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-archive-your-antics-a-practical-guide-to-capturing-and-storing-gif-images-from-twitter/"><u>2024 Approved Archive Your Antics A Practical Guide to Capturing and Storing GIF Images From Twitter</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/windows-qnap-nas/"><u>二則解決 Windows 伺服器快速複製至 QNAP NAS:最新指南</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/5y2z5pmc5oej5bcn5pa55rov77ya5b6p5y6f6zqo6lqr56gs56kf5lik6kkr6ygu6jol5pah5lu2/"><u>即時應對方法：復原隨身硬碟上被遮蓋文件</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/comment-migrer-en-toute-confiance-votre-contenu-wd-mycloud-vers-amazon-drive-ou-un-service-cloud-alternatif/"><u>Comment Migrer en Toute Confiance Votre Contenu WD MyCloud Vers Amazon Drive Ou Un Service Cloud Alternatif ?</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/como-acceder-y-modificar-su-copia-de-seguridad/"><u>Cómo Acceder Y Modificar Su Copia De Seguridad</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/complete-step-by-step-strategies-for-free-photo-restoration-after-accidental-delete/"><u>Complete Step-by-Step Strategies for FREE Photo Restoration After Accidental Delete</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/deciding-between-chatgpt-and-my-ai-on-the-popular-platform-snapchat/"><u>Deciding Between ChatGPT and My AI on the Popular Platform, Snapchat</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/guide-de-sauvegarde-et-restauration-des-donnees-pour-unite-nas-synology-questions-frequentes-answerees/"><u>Guide De Sauvegarde Et Restauration Des Données Pour Unité NAS Synology: Questions Fréquentes Answerées.</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-honor-x9b-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Honor X9b Activity | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtubes-top-5-apps-that-trim-your-long-video-links-down/"><u>In 2024, Youtube’s Top 5 Apps That Trim Your Long Video Links Down</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/niet-nog-een-gelegenheid-ongelukkelijk-herhaalde-exteriore-hardschijf-deelen-beschikbaar-onmiddellijk/"><u>Niet Nog Een Gelegenheid! Ongelukkelijk Herhaalde Exteriore HardSchijf-Deelen Beschikbaar Onmiddellijk.</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/personalize-your-reset-this-pc-experience-with-custom-reboot-images-in-windows-10/"><u>Personalize Your 'Reset This PC' Experience with Custom Reboot Images in Windows 10</u></a></li>
+<li><a href="https://fox-making.techidaily.com/step-by-step-guide-adjusting-your-languages-preferences-via-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Adjusting Your Languages Preferences via Control Panel - Tips From YL Computing</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/step-by-step-guide-turning-off-onedrive-on-your-pc-running-windows-11/"><u>Step-by-Step Guide: Turning Off OneDrive on Your PC Running Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-pick-the-best-and-most-affordable-lenovo-laptop-ideal-for-remote-hybrid-professionals-techsavvyguide/"><u>Top Pick: The Best and Most Affordable Lenovo Laptop Ideal for Remote-Hybrid Professionals | TechSavvyGuide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unleash-potential-with-hero5-black-perfecting-cinematography-skills-for-2024/"><u>Unleash Potential with Hero5 Black Perfecting Cinematography Skills for 2024</u></a></li>
 </ul></div>
 

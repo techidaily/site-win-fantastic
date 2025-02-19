@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on New DJ Mixer Firmware, Version 3.17.0.3 by PCDJ Now Available!
-date: 2025-02-05T01:58:26.813Z
-updated: 2025-02-08T18:36:09.389Z
+date: 2025-02-17T00:03:33.943Z
+updated: 2025-02-18T16:56:47.780Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ We suggest you install the new 3.17.0.3 release of DEX 3 immediately. Simply dow
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in DEX 3.17.0.3
@@ -50,7 +50,7 @@ We suggest you install the new 3.17.0.3 release of DEX 3 immediately. Simply dow
 _Have questions about the latest 3.17.0.3 version of our **Top DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -72,19 +72,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2022/04/download-dex31703-1.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-complete-analysis-hero4-black-system/"><u>[New] Complete Analysis Hero4 Black System</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-harnessing-windows-10-tools-for-exquisite-video-editing/"><u>[Updated] In 2024, Harnessing Windows 10 Tools for Exquisite Video Editing</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-sonic-visuals-on-the-move-a-deep-dive-into-sonys-xperia-xz/"><u>[Updated] Sonic Visuals on the Move - A Deep Dive Into Sony's Xperia XZ</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/1728479171083-hdd/"><u>「最新ソリューション：非常に大きなファイルのバックアップは、外部HDDへのコピーが不可能」</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/2024hddtop3/"><u>2024年のベスト：優秀なHDDクローニングツールTOP3</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/best-free-tools-for-easy-windows-10-data-backup-a-beginners-top-picks/"><u>Best Free Tools for Easy Windows 10 Data Backup: A Beginner's Top Picks</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/boost-your-drive-top-10-windows-and-os-x-mods-elevating-srt-power/"><u>Boost Your Drive Top 10 Windows & OS X Mods Elevating SRT Power</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpts-unseen-potential-5-features-that-will-enhance-your-experience/"><u>ChatGPT's Unseen Potential: 5 Features That Will Enhance Your Experience</u></a></li>
-<li><a href="https://driver-download.techidaily.com/expert-tips-to-overcome-ralink-rt3290-wireless-card-drivers-challenges-in-recent-windows-environments/"><u>Expert Tips to Overcome Ralink RT3290 Wireless Card Drivers Challenges in Recent Windows Environments</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Honor Play 7T? | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-how-does-the-rexing-v1-dashcam-stand-out-for-discretion-and-dependability/"><u>In-Depth Analysis: How Does the Rexing V1 Dashcam Stand Out for Discretion and Dependability?</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/solution-de-transfert-de-donnees-pour-les-appareils-samsung-aidez-moi-a-selectionner-le-bon-disque-cible/"><u>Solution De Transfert De Données Pour Les Appareils Samsung: Aidez-Moi À Sélectionner Le Bon Disque Cible</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/step-by-step-wd-hdd-auto-backup-setup-ultimate-tutorial-and-free-downloads/"><u>Step-by-Step WD HDD Auto Backup Setup: Ultimate Tutorial & Free Downloads</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/veeam-versus-zerto-a-side-by-side-analysis-of-data-protection-platforms/"><u>Veeam Versus Zerto: A Side-by-Side Analysis of Data Protection Platforms</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-avatar-abstraction-artistry-sculpting-your-playful-image-for-2024/"><u>[New] Avatar Abstraction Artistry Sculpting Your Playful Image for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-curating-relevant-skills-list/"><u>[New] In 2024, Curating Relevant Skills List</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-essential-zoom-techniques-for-captivating-audio-in-podcast-production/"><u>[Updated] 2024 Approved Essential Zoom Techniques for Captivating Audio in Podcast Production</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-ideal-tools-for-secure-vimeo-downloads/"><u>[Updated] Ideal Tools for Secure Vimeo Downloads</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/2-achat-du-logiciel-darchivage-unifie-par-aomei-le-meilleur-choix-pour-la-sauvegarde-centrale/"><u>2. Achat Du Logiciel D'archivage Unifié Par AOMEI: Le Meilleur Choix Pour La Sauvegarde Centrale!</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-snapchat-spotlight-101-understanding-its-impact/"><u>2024 Approved Snapchat Spotlight 101 Understanding Its Impact</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-samsung-galaxy-m14-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/5a6m5pw05ash5lu95lio5ake6yep5ash5lu95zkm5beu5byc5ash5lu977ya5yy65yig5oqa5ben6iih5a6e6zmf5pon5l2c5oyh5y2x/"><u>完整备份与增量备份和差异备份：区分技巧與实际操作指南</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/expert-advice-on-refreshing-your-pc-the-ultimate-walkthrough-for-reinstalling-windows-natively-yl-software-solutions/"><u>Expert Advice on Refreshing Your PC: The Ultimate Walkthrough for Reinstalling Windows Natively - YL Software Solutions</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/expert-tips-on-retrieving-deleted-information-after-a-windows-ebrated-7-malfunction/"><u>Expert Tips on Retrieving Deleted Information After a Windows Ebrated 7 Malfunction</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-iphone-xs-max-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud From your iPhone XS Max</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/repair-expert-for-missing-dll-files-in-windows-10-and-11-discover-13-effective-methods/"><u>Repair Expert for Missing DLL Files in Windows 10 & 11 - Discover 13 Effective Methods</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/revive-your-iphones-functionality-bypassing-the-disable-state-sans-itunes/"><u>Revive Your iPhone's Functionality: Bypassing the Disable State Sans iTunes</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/supercharge-your-acer-aspire-with-a-speedy-solid-state-drive-enhancement/"><u>Supercharge Your Acer Aspire 지상단 With a Speedy Solid State Drive Enhancement</u></a></li>
+<li><a href="https://fox-access.techidaily.com/the-pulse-finder-your-free-online-music-buddy-for-2024/"><u>The Pulse Finder – Your Free, Online Music Buddy for 2024</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/ultimate-guide-to-best-zero-cost-bitcopy-applications-on-windows-os/"><u>Ultimate Guide to Best Zero Cost Bitcopy Applications on Windows OS</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/wie-man-windows-server-2012-r2-na-neue-hardware-umsetzt-zwei-effiziente-methoden/"><u>Wie Man Windows Server 2012 R2 Na Neue Hardware Umsetzt: Zwei Effiziente Methoden</u></a></li>
 </ul></div>
 

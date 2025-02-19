@@ -1,7 +1,7 @@
 ---
 title: "Dj Controllers: Integrating Ion D2Go for Dextronix v3 with Ruby Mobile Audio Tech on DJ Platforms"
-date: 2025-02-07T20:50:34.022Z
-updated: 2025-02-09T01:31:03.575Z
+date: 2025-02-17T23:54:07.822Z
+updated: 2025-02-18T22:14:56.453Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ Based on a users recent request we’ve just created a new [DEX 3](https://tools
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More On The DJ2GO From ION’s Website:
@@ -35,7 +35,7 @@ Based on a users recent request we’ve just created a new [DEX 3](https://tools
 [![](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/DJ2GO_left_weblg.png?fit=300%2C188&ssl=1 "DJ2GO_left_weblg")](https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/DJ2GO%5Fleft%5Fweblg.png?fit=1030%2C644&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 DJ2GO gives you a tactile feel that can’t be matched by DJing with just your computer mouse and keyboard. In fact, with DJ2GO there’s virtually no need to touch your mouse or keyboard while performing. Everything you need to do, from selecting songs and cueing, to beat-matching and volume adjustment can be controlled by DJ2GO’s generous array of faders, knobs and bright, backlit buttons. DJ2GO weighs just 13 oz. but provides a layout that DJs prefer, including two platters, a crossfader, pitch and level controls as well as Deck A, Deck B, Master and Headphone gain controls. Sync and headphone buttons allow you to instantly sync two tracks and monitor either deck section.
@@ -55,7 +55,7 @@ The ION DJ2Go is selling for around $99 on Amazon and some other online retailer
 **INSTALLATION INSTRUCTIONS:** **Unzip the Map (js file) To:** **C: (Windows) or App Folder for DEX 3 (MAC) – Program Files (x86) _\-> PCDJ -> DEX3 -> CONTROLLERS. REPLACE THE EXISTING Numark DJ2GO SCRIPT WITH THE NEW ONE!_**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -77,16 +77,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/04/iondj2go-blogcoverimage.jp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ransforming-viewership-into-viewer-funds-on-youtube-for-2024/"><u>[New] Transforming Viewership Into Viewer Funds on YouTube for 2024</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/access-over-300-new-karaoke-tracks-immediately-exclusive-offer-for-karaoke-cloud-pro-members/"><u>Access Over 300 New Karaoke Tracks Immediately - Exclusive Offer for Karaoke Cloud Pro Members!</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/all-inclusive-assessment-bublcams-full-feature-set-reviewed/"><u>All-Inclusive Assessment Bublcam's Full Feature Set Reviewed</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-valhallas-fury-gods-of-war-converge/"><u>[Updated] In 2024, Valhalla's Fury Gods of War Converge</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-simple-steps-for-android-voice-recording-no-root/"><u>[Updated] Simple Steps for Android Voice Recording (No Root)</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/apple-watch-series-4-evaluation-advancements-and-superior-performance-unveiled/"><u>Apple Watch Series 4 Evaluation: Advancements and Superior Performance Unveiled</u></a></li>
 <li><a href="https://win-fantastic.techidaily.com/dealing-with-a-faulty-memory-on-your-machine-proactive-steps-by-yl-computing-experts/"><u>Dealing with a Faulty Memory on Your Machine: Proactive Steps by YL Computing Experts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easily-customize-your-input-methods-with-microsofts-on-screen-keyboard-feature-for-windows-10/"><u>Easily Customize Your Input Methods with Microsoft's On-Screen Keyboard Feature for Windows 10</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/diy-guide-checking-your-pcs-psu-functionality-yl-software-solutions/"><u>DIY Guide: Checking Your PC's PSU Functionality - YL Software Solutions</u></a></li>
 <li><a href="https://win-fantastic.techidaily.com/expert-analysis-on-overheating-cpus-by-yl-software-professionals/"><u>Expert Analysis on Overheating CPUs by YL Software Professionals</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Vivo V29 | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722975155439-install-the-latest-hp-spectre-x360-drivers-on-your-windows-pc-immediate-access/"><u>Install the Latest HP Spectre X360 Drivers on Your Windows PC | Immediate Access</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-do-i-sim-unlock-my-iphone-11-by-drfone-ios/"><u>How Do I SIM Unlock My iPhone 11?</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/how-to-recover-damaged-files-using-windows-file-recovery-a-guide-by-yl-computing/"><u>How to Recover Damaged Files Using Windows File Recovery: A Guide by YL Computing</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-oppo-a59-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Oppo A59 5G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ate-your-journey-into-asmr-filming-essential-insights-revealed/"><u>Initiate Your Journey Into ASMR Filming – Essential Insights Revealed</u></a></li>
 <li><a href="https://win-fantastic.techidaily.com/mastering-privacy-and-safety-adjusting-windows-10-security-settings-simplified-yl-computing/"><u>Mastering Privacy & Safety: Adjusting Windows 10 Security Settings Simplified - YL Computing</u></a></li>
-<li><a href="https://games-able.techidaily.com/reverse-usb-power-fluctuation/"><u>Reverse USB Power Fluctuation</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1680082-9781609259235-the-voodoo-doll-spellbook/"><u>The Voodoo Doll Spellbook | Free Book</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/score-a-steal-save-36-on-the-ultra-capacity-8tb-samsung-t5-ssd-from-amazon-post-prime-day-insider-info/"><u>Score a Steal: Save 36% on the Ultra-Capacity 8TB Samsung T5 SSD From Amazon Post-Prime Day - Insider Info</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/step-by-step-scan-troubleshooting-for-optimal-performance-with-yl-software-support/"><u>Step-by-Step Scan Troubleshooting for Optimal Performance with YL Software Support</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/the-remarkable-effects-of-asmr-on-you/"><u>The Remarkable Effects of ASMR on You</u></a></li>
 </ul></div>
 
