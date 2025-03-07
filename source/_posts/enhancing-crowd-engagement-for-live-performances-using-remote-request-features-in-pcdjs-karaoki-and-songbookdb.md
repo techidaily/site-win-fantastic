@@ -1,7 +1,7 @@
 ---
 title: Enhancing Crowd Engagement for Live Performances Using Remote Request Features in PCDJ's Karaoki and SongBookDB
-date: 2025-02-16T03:03:06.246Z
-updated: 2025-02-18T23:30:07.535Z
+date: 2025-03-04T17:33:40.881Z
+updated: 2025-03-07T16:21:08.841Z
 tags:
   - product
 categories:
@@ -22,10 +22,6 @@ We kicked off the open [beta test of SongbookDB’s remote request system’s](h
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How will SongBookDB interface with PCDJ Karaoki?
 
 _**Phase 1.)**_  
@@ -35,10 +31,6 @@ _**Phase 2.)**_
 The next Karaoki public beta will have a new option “_Remote Users_” on the config button menu for external terminals and remote control plugins; this will replace the existing ‘_Remote Terminal_‘ interface on the config screen.
 
 [![](https://i2.wp.com/pcdj.com/wp-content/uploads/2014/10/Karaoki-Remote-Users..png?fit=594%2C374&ssl=1 "Karaoki Remote Users.")](https://i2.wp.com/pcdj.com/wp-content/uploads/2014/10/Karaoki-Remote-Users..png?fit=594%2C374&ssl=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The new interface also supports the old Karaoki ‘request terminals’, and 95% of the functionality in the image above is for remote terminals and not songbookDB… but it made sense to combine all the remote user systems onto the one screen within Karaoki.
 
@@ -52,19 +44,11 @@ Shaun at SongBookDB has developed a plugin that will connect to the new interfac
 
 [![](https://i1.wp.com/pcdj.com/wp-content/uploads/2014/10/Songbook-Plugin.png?fit=981%2C601&ssl=1 "Songbook Plugin")](https://i1.wp.com/pcdj.com/wp-content/uploads/2014/10/Songbook-Plugin.png?fit=981%2C601&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 _**NOTE**_: If you want you can already also login to SongbookDB as a ‘_Kiosk_‘ in a web browser… There is no longer any need to install the old terminal on a third parties Computer, just go to [**SongbookDB.com**](http://www.songbookdb.com) and log-in using your ‘_Requests Password_‘ preceded with the word ‘kiosk’!
 
 **Please Also Note:** _the above screen grabs are ‘In-House’ test builds and WILL change when the public betas released._
 
 _**I hope this clears a few things up. Full on beta test to commence soon, keep checking back!**_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -85,18 +69,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/10/songbookdb-coverimage.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-budget-conscious-shooters-7-best-4k-cameras/"><u>[New] In 2024, Budget-Conscious Shooters' 7 Best 4K Cameras</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-vloggers-verdict-which-gadget-wins-gopro-and-garmin/"><u>[New] Vloggers' Verdict Which Gadget Wins? GoPro & Garmin</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-basic-framework-of-tech-driven-narratives/"><u>[Updated] 2024 Approved Basic Framework of Tech-Driven Narratives</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/best-business-grade-seo-software-mastering-online-presence-with-elite-toolsets/"><u>Best Business-Grade SEO Software: Mastering Online Presence with Elite Toolsets</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/clearing-the-fuzziness-tips-to-improve-chrome-videography/"><u>Clearing the Fuzziness Tips to Improve Chrome Videography</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-tricks-for-integrating-playstation-vr-with-your-personal-computer/"><u>Easy Tricks for Integrating PlayStation VR with Your Personal Computer</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/is-it-possible-to-create-and-share-digital-flipbooks-for-mobile-devices-via-flipbuilder/"><u>Is It Possible to Create and Share Digital Flipbooks for Mobile Devices via FlipBuilder?</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/is-it-possible-to-integrate-javascript-into-your-e-books-created-with-flipbuilders-platform/"><u>Is It Possible to Integrate JavaScript Into Your E-Books Created with FlipBuilder's Platform?</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/make-pdfs-interactive-and-viral-convert-to-flash-format-using-flipbuilders-powerful-online-editor/"><u>Make PDFs Interactive and Viral: Convert to Flash Format Using FlipBuilder's Powerful Online Editor!</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/mastering-diy-digital-publishing-unleash-your-creativity-with-flip-writers-user-friendly-page-turner-ebook-editor/"><u>Mastering DIY Digital Publishing: Unleash Your Creativity with Flip Writer's User-Friendly Page-Turner Ebook Editor.</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/opening-flipbook-links-on-flipbuilder-a-step-by-step-guide-to-viewing-in-separate-windows/"><u>Opening Flipbook Links on FlipBuilder: A Step-by-Step Guide to Viewing in Separate Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/portable-playgrounds-phones-or-larger-devices/"><u>Portable Playgrounds: Phones or Larger Devices?</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/transforming-photos-into-professional-pdfs-with-ease-using-flipbuilder/"><u>Transforming Photos Into Professional PDFs with Ease Using FlipBuilder</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-harmonic-helpers-sourcing-video-music-for-2024/"><u>[New] Harmonic Helpers Sourcing Video Music for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-skybound-creativity-essential-editing-skills-for-drone-films-for-2024/"><u>[New] Skybound Creativity Essential Editing Skills for Drone Films for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-craft-images-with-orbital-soft-edge-psx-tech/"><u>[Updated] In 2024, Craft Images with Orbital Soft Edge PSX Tech</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-unraveling-twitchs-mysteries-the-recording-connoisseurs-guide-for-2024/"><u>[Updated] Unraveling Twitch's Mysteries The Recording Connoisseur's Guide for 2024</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/1-revising-your-username-a-step-by-step-guide-through-control-panel-settings/"><u>1. Revising Your Username: A Step-by-Step Guide Through Control Panel Settings</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-unearth-17-methods-a-complete-guide-to-tracking-internet-radio/"><u>2024 Approved Unearth 17 Methods A Complete Guide to Tracking Internet Radio</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-unforgettable-stop-motion-films-an-overview/"><u>2024 Approved Unforgettable Stop-Motion Films - An Overview</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-oppo-a59-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/access-over-300-new-karaoke-tracks-immediately-exclusive-offer-for-karaoke-cloud-pro-members/"><u>Access Over 300 New Karaoke Tracks Immediately - Exclusive Offer for Karaoke Cloud Pro Members!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ace-at-task-management-how-chatgpt-can-become-your-smart-personal-assistant-for-work/"><u>Ace at Task Management: How ChatGPT Can Become Your Smart Personal Assistant for Work</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/dealing-with-a-faulty-memory-on-your-machine-proactive-steps-by-yl-computing-experts/"><u>Dealing with a Faulty Memory on Your Machine: Proactive Steps by YL Computing Experts</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/expert-analysis-on-overheating-cpus-by-yl-software-professionals/"><u>Expert Analysis on Overheating CPUs by YL Software Professionals</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/how-to-recover-damaged-files-using-windows-file-recovery-a-guide-by-yl-computing/"><u>How to Recover Damaged Files Using Windows File Recovery: A Guide by YL Computing</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/is-money-taken-for-access-to-crypto-balance-trackers-with-yl-softwares-innovative-solutions/"><u>Is Money Taken for Access to Crypto Balance Trackers with YL Software's Innovative Solutions?</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/mastering-privacy-and-safety-adjusting-windows-10-security-settings-simplified-yl-computing/"><u>Mastering Privacy & Safety: Adjusting Windows 10 Security Settings Simplified - YL Computing</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-easy-installation-of-pioneer-dj-ddj-sx2-control-surface-software/"><u>Step by Step: Easy Installation of Pioneer DJ DDJ-SX2 Control Surface Software</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/step-by-step-scan-troubleshooting-for-optimal-performance-with-yl-software-support/"><u>Step-by-Step Scan Troubleshooting for Optimal Performance with YL Software Support</u></a></li>
 </ul></div>
 

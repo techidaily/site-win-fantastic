@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on New DJ Mixer Firmware, Version 3.17.0.3 by PCDJ Now Available!
-date: 2025-02-17T00:03:33.943Z
-updated: 2025-02-18T16:56:47.780Z
+date: 2025-03-02T16:50:34.039Z
+updated: 2025-03-07T17:41:02.485Z
 tags:
   - product
 categories:
@@ -26,10 +26,6 @@ We suggest you install the new 3.17.0.3 release of DEX 3 immediately. Simply dow
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What’s New, Changed, and Fixed in DEX 3.17.0.3
 
 * New DJ controllers supported: Numark PartyMix Live, Numark PartyMix MKII
@@ -48,10 +44,6 @@ We suggest you install the new 3.17.0.3 release of DEX 3 immediately. Simply dow
 **IMPORTANT NOTE:** If you receive this warning _“setup\_dex3\_3.17.0.3\_mac.pkg can’t be opened because Apple cannot check it for malicious software. this software needs to be updated. Contact the developer for more information”_ when installing to macOS Catalina or above, [please follow the steps on Apple’s website](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) to install DEX 3.
 
 _Have questions about the latest 3.17.0.3 version of our **Top DJ software**? Please leave them in the comments section below!_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -72,22 +64,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2022/04/download-dex31703-1.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-avatar-abstraction-artistry-sculpting-your-playful-image-for-2024/"><u>[New] Avatar Abstraction Artistry Sculpting Your Playful Image for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-curating-relevant-skills-list/"><u>[New] In 2024, Curating Relevant Skills List</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-essential-zoom-techniques-for-captivating-audio-in-podcast-production/"><u>[Updated] 2024 Approved Essential Zoom Techniques for Captivating Audio in Podcast Production</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-ideal-tools-for-secure-vimeo-downloads/"><u>[Updated] Ideal Tools for Secure Vimeo Downloads</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/2-achat-du-logiciel-darchivage-unifie-par-aomei-le-meilleur-choix-pour-la-sauvegarde-centrale/"><u>2. Achat Du Logiciel D'archivage Unifié Par AOMEI: Le Meilleur Choix Pour La Sauvegarde Centrale!</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-snapchat-spotlight-101-understanding-its-impact/"><u>2024 Approved Snapchat Spotlight 101 Understanding Its Impact</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-samsung-galaxy-m14-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Samsung Galaxy M14 4G | Dr.fone</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/5a6m5pw05ash5lu95lio5ake6yep5ash5lu95zkm5beu5byc5ash5lu977ya5yy65yig5oqa5ben6iih5a6e6zmf5pon5l2c5oyh5y2x/"><u>完整备份与增量备份和差异备份：区分技巧與实际操作指南</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/expert-advice-on-refreshing-your-pc-the-ultimate-walkthrough-for-reinstalling-windows-natively-yl-software-solutions/"><u>Expert Advice on Refreshing Your PC: The Ultimate Walkthrough for Reinstalling Windows Natively - YL Software Solutions</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/expert-tips-on-retrieving-deleted-information-after-a-windows-ebrated-7-malfunction/"><u>Expert Tips on Retrieving Deleted Information After a Windows Ebrated 7 Malfunction</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-iphone-xs-max-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud From your iPhone XS Max</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/repair-expert-for-missing-dll-files-in-windows-10-and-11-discover-13-effective-methods/"><u>Repair Expert for Missing DLL Files in Windows 10 & 11 - Discover 13 Effective Methods</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/revive-your-iphones-functionality-bypassing-the-disable-state-sans-itunes/"><u>Revive Your iPhone's Functionality: Bypassing the Disable State Sans iTunes</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/supercharge-your-acer-aspire-with-a-speedy-solid-state-drive-enhancement/"><u>Supercharge Your Acer Aspire 지상단 With a Speedy Solid State Drive Enhancement</u></a></li>
-<li><a href="https://fox-access.techidaily.com/the-pulse-finder-your-free-online-music-buddy-for-2024/"><u>The Pulse Finder – Your Free, Online Music Buddy for 2024</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/ultimate-guide-to-best-zero-cost-bitcopy-applications-on-windows-os/"><u>Ultimate Guide to Best Zero Cost Bitcopy Applications on Windows OS</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/wie-man-windows-server-2012-r2-na-neue-hardware-umsetzt-zwei-effiziente-methoden/"><u>Wie Man Windows Server 2012 R2 Na Neue Hardware Umsetzt: Zwei Effiziente Methoden</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nlock-the-potential-of-youtube-videos-with-these-simple-gif-creation-steps-pcmobile-for-2024/"><u>[New] Unlock the Potential of YouTube Videos with These Simple GIF Creation Steps (PC/Mobile) for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-blueprint-for-creating-viral-trailers-in-the-world-of-youtube/"><u>2024 Approved Blueprint for Creating Viral Trailers in the World of YouTube</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-top-picks-for-zero-cost-film-and-photography-resources/"><u>2024 Approved Top Picks for Zero-Cost Film and Photography Resources</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/1728484431990-hddssd/"><u>大型HDDを小型SSDに変換する独自方法：専門家アドバイスあり</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/die-effizientesten-schritte-zur-rucksetzung-ihres-msi-laptops-auf-herstellerstandards-tipps-der-nummer-eins-und-zwei/"><u>Die Effizientesten Schritte Zur Rücksetzung Ihres MSI-Laptops Auf Herstellerstandards - Tipps Der Nummer Eins Und Zwei</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/effiziente-moglichkeiten-ihre-zwei-apple-computer-nahtlos-zu-verbinden/"><u>Effiziente Möglichkeiten, Ihre Zwei Apple-Computer Nahtlos Zu Verbinden</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/how-to-recover-accidentally-erased-files-on-a-windows-e-machine-step-by-step-solutions/"><u>How to Recover Accidentally Erased Files on a Windows E Machine: Step-by-Step Solutions</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-motorola-moto-g-stylus-5g-2023-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Motorola Moto G Stylus 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-unique-soundscapes-for-your-one-person-show/"><u>In 2024, Unique Soundscapes for Your One-Person Show</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-xiaomi-13t-pro-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Xiaomi 13T Pro Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/masterful-methods-to-overcome-security-errors-in-windows-11/"><u>Masterful Methods to Overcome Security Errors in Windows 11</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/top-picks-superior-substitutes-for-dell-datasafe-local-backup-on-windows-10-8-und-7/"><u>Top Picks: Superior Substitutes for Dell DataSafe Local Backup on Windows 10, 8 Und 7</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/windows-serveronedrive/"><u>Windows Server与OneDrive的无缝云同步方法</u></a></li>
 </ul></div>
 

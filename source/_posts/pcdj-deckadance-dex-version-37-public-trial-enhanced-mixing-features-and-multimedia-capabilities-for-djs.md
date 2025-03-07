@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Deckadance DEX Version 3.7 Public Trial: Enhanced Mixing Features & Multimedia Capabilities for DJs"
-date: 2025-02-15T03:57:46.587Z
-updated: 2025-02-19T01:03:53.799Z
+date: 2025-03-05T18:44:47.872Z
+updated: 2025-03-07T18:03:47.019Z
 tags:
   - product
 categories:
@@ -28,10 +28,6 @@ This is a much anticipated and requested feature update for DEX 3 and while test
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Here are the key highlights of this major update to DEX 3.7 (Public Beta 1)
 
 1. **A complete refactored Karaoke Singers List:** DJs and VDJs can now add a custom background (an image or a video) for the Karaoke Singers List. Access this new feature from Preferences -> Video tab.
@@ -54,10 +50,6 @@ This is a much anticipated and requested feature update for DEX 3 and while test
 
 _Have questions about our [video mixing software](https://tools.techidaily.com/pcdj/products/)? Please leave them in the comments section below!_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### _Related_
 
 https://i1.wp.com/pcdj.com/wp-content/uploads/2016/08/dex3publicbeta-overlays-coverimage.jpg?fit=706%2C360&ssl=1 360 706 Ryan Sherr https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png Ryan Sherr2016-08-26 14:11:452018-10-03 15:34:15DJ Software | Download DEX 3.7 Public Beta With Text, Image And Video Overlay}
@@ -77,24 +69,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/08/dex3publicbeta-overlays-co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-decoding-the-art-of-capturing-live-streaming-windowsmaciosandroid/"><u>[New] In 2024, Decoding the Art of Capturing Live Streaming - Windows/Mac/iOS/Android</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-dodging-account-penaltinas-on-youtube/"><u>[Updated] Dodging Account Penaltinas on Youtube</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-archive-your-antics-a-practical-guide-to-capturing-and-storing-gif-images-from-twitter/"><u>2024 Approved Archive Your Antics A Practical Guide to Capturing and Storing GIF Images From Twitter</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/windows-qnap-nas/"><u>二則解決 Windows 伺服器快速複製至 QNAP NAS:最新指南</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/5y2z5pmc5oej5bcn5pa55rov77ya5b6p5y6f6zqo6lqr56gs56kf5lik6kkr6ygu6jol5pah5lu2/"><u>即時應對方法：復原隨身硬碟上被遮蓋文件</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/comment-migrer-en-toute-confiance-votre-contenu-wd-mycloud-vers-amazon-drive-ou-un-service-cloud-alternatif/"><u>Comment Migrer en Toute Confiance Votre Contenu WD MyCloud Vers Amazon Drive Ou Un Service Cloud Alternatif ?</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/como-acceder-y-modificar-su-copia-de-seguridad/"><u>Cómo Acceder Y Modificar Su Copia De Seguridad</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/complete-step-by-step-strategies-for-free-photo-restoration-after-accidental-delete/"><u>Complete Step-by-Step Strategies for FREE Photo Restoration After Accidental Delete</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/deciding-between-chatgpt-and-my-ai-on-the-popular-platform-snapchat/"><u>Deciding Between ChatGPT and My AI on the Popular Platform, Snapchat</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/guide-de-sauvegarde-et-restauration-des-donnees-pour-unite-nas-synology-questions-frequentes-answerees/"><u>Guide De Sauvegarde Et Restauration Des Données Pour Unité NAS Synology: Questions Fréquentes Answerées.</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-honor-x9b-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Honor X9b Activity | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Samsung Galaxy A23 5G | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtubes-top-5-apps-that-trim-your-long-video-links-down/"><u>In 2024, Youtube’s Top 5 Apps That Trim Your Long Video Links Down</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/niet-nog-een-gelegenheid-ongelukkelijk-herhaalde-exteriore-hardschijf-deelen-beschikbaar-onmiddellijk/"><u>Niet Nog Een Gelegenheid! Ongelukkelijk Herhaalde Exteriore HardSchijf-Deelen Beschikbaar Onmiddellijk.</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/personalize-your-reset-this-pc-experience-with-custom-reboot-images-in-windows-10/"><u>Personalize Your 'Reset This PC' Experience with Custom Reboot Images in Windows 10</u></a></li>
-<li><a href="https://fox-making.techidaily.com/step-by-step-guide-adjusting-your-languages-preferences-via-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Adjusting Your Languages Preferences via Control Panel - Tips From YL Computing</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/step-by-step-guide-turning-off-onedrive-on-your-pc-running-windows-11/"><u>Step-by-Step Guide: Turning Off OneDrive on Your PC Running Windows 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-pick-the-best-and-most-affordable-lenovo-laptop-ideal-for-remote-hybrid-professionals-techsavvyguide/"><u>Top Pick: The Best and Most Affordable Lenovo Laptop Ideal for Remote-Hybrid Professionals | TechSavvyGuide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unleash-potential-with-hero5-black-perfecting-cinematography-skills-for-2024/"><u>Unleash Potential with Hero5 Black Perfecting Cinematography Skills for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-beyond-adjustments-the-influence-of-luts-on-art/"><u>[New] In 2024, Beyond Adjustments The Influence of LUTs on Art</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-navigating-mobile-technology-for-snapchat-archive/"><u>2024 Approved Navigating Mobile Technology for Snapchat Archive</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/6-effektive-strategien-zur-behebung-oder-neuinstallation-von-updates-unter-windows-10-und-11/"><u>6 Effektive Strategien Zur Behebung Oder Neuinstallation Von Updates Unter Windows 10 Und 11</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/1728504705762-outlook6/"><u>重獲控制：應用在Outlook中恢復舊信件的6種方法</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/dealing-with-spontaneous-shutdowns-a-comprehensive-guide-by-yl-software-for-stabilizing-your-computer-system/"><u>Dealing with Spontaneous Shutdowns: A Comprehensive Guide by YL Software for Stabilizing Your Computer System</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/erstellen-eines-windows-server-2011-image-zwei-effiziente-methoden-erklart/"><u>Erstellen Eines Windows Server 2011 Image - Zwei Effiziente Methoden Erklärt</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/how-to-transfer-your-entire-windows-10-setup-to-a-fresh-hard-drive-a-step-by-step-guide/"><u>How to Transfer Your Entire Windows 10 Setup to a Fresh Hard Drive: A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-out-loud-essential-comedy-channels-for-endless-fun/"><u>Laugh Out Loud Essential Comedy Channels for Endless Fun</u></a></li>
+<li><a href="https://win-forum.techidaily.com/master-the-technique-of-forced-folder-removal-on-windows-operating-systems/"><u>Master the Technique of Forced Folder Removal on Windows Operating Systems</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/problematisches-iphone-backup-schritte-zur-problemlosung-und-wiederherstellung/"><u>Problematisches iPhone-Backup – Schritte Zur Problemlösung Und Wiederherstellung</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/revive-your-macs-lost-external-hard-drive-connection/"><u>Revive Your Mac's Lost External Hard Drive Connection</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/sauvegarde-zero-cout-comparatif-des-applications-derniere-volonte-pour-disques-durs-externes-en-francais/"><u>Sauvegarde Zéro Coût : Comparatif Des Applications Dernière Volonté Pour Disques Durs Externes en Français</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/solving-booting-issues-with-easy-system-recovery-techniques/"><u>Solving Booting Issues with Easy System Recovery Techniques</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/step-by-step-expert-guide-preparing-and-executing-an-efficient-fresh-windows-11-installation-using-complete-data-backups/"><u>Step-by-Step Expert Guide: Preparing and Executing an Efficient Fresh Windows 11 Installation Using Complete Data Backups</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-editors-insight-to-seamless-lut-integration-in-premiere/"><u>The Editor's Insight to Seamless LUT Integration in Premiere</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-best-pc-gear-with-toms-hardware-insights/"><u>Unveiling the Best PC Gear with Tom’s Hardware Insights</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/webmp3aac/"><u>お手頃価格の無料WebベースMP3/AAC変換ソフト - ムーバビ</u></a></li>
 </ul></div>
 
